@@ -29,11 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Links
-
-[CCiC8申报手册](https://shimo.im/docs/osqPvsJl3IcnSFlF/)
-
-[CCiC8工作手册](https://shimo.im/docs/r2SSnM80etAyLTP1/)
-
-[CCiC8分享人信息收集表](https://a.b.c)
-
-[CCiC8赞助商信息收集表](https://a.b.c)
+- [CCiC8申报手册](https://shimo.im/docs/osqPvsJl3IcnSFlF/)
+- [CCiC8工作手册](https://shimo.im/docs/r2SSnM80etAyLTP1/)
+- [CCiC8分享人信息收集表](https://a.b.c)
+- [CCiC8赞助商信息收集表](https://a.b.c)
