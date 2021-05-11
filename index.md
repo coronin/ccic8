@@ -38,6 +38,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - Name logo
 - Name logo
 
-## CCiC8 Sponsers
+## CCiC8 Sponsors
 - Name logo
 - Name logo
