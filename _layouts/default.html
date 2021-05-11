@@ -17,7 +17,7 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1 style="text-transform:capitalize">{{ site.title | default: site.github.repository_name }}</h1>
+        <h1 style="text-transform:uppercase">{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
@@ -27,7 +27,7 @@
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
           <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
         {% endif %}
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+          <!-- li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li -->
         </ul>
       </header>
       <section>
@@ -38,9 +38,9 @@
     </div>
     <footer>
     {% if site.github.is_project_page %}
-      <p>Maintained by <a href="https://2020.igem.org/Team:Fudan/" target="_blank">Team: Fudan</a> <!-- a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a --></p>
+      <p>Maintained by <a href="https://2020.igem.org/Team:Fudan/" target="_blank">Team:Fudan</a> <!-- a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a --></p>
     {% endif %}
-      <p>Hosted on GitHub Pages &middot; 2021 <!-- &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a --></p>
+      <p>Hosted on GitHub &middot; 2021 <!-- &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a --></p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 
