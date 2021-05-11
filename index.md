@@ -1,4 +1,4 @@
-# Overcoming Challenges
+## Overcoming Challenges
 
 A sustainable world remains diverse and fosters long-term wellbeing across all dimensions. The younger generation must play a leading role in carving such a future - their future. The COVID-19 pandemic has had a dramatic effect on the ability of schools around the world to educate and prepare students ready for the challenging future.
 
