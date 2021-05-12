@@ -36,6 +36,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - [iGEM 2021 Global](igem2021global.slack.com)
 - [Application to Host CCiC8](https://shimo.im/docs/osqPvsJl3IcnSFlF/)
 - [Workbook for CCiC8](https://shimo.im/docs/r2SSnM80etAyLTP1/)
+- [Sponsorship Brochure for CCiC8](https://shimo.im/docs/yaWIlYCmSN4ahjwu/)
 - [Participate Manual for CCiC8](https://a.b.c)
 - [CCiC8参会队伍信息收集，定稿后此链接将删除](https://a.b.c)
 - [CCiC8赞助商信息收集，定稿后此链接将删除](https://a.b.c)
