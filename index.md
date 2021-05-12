@@ -6,7 +6,7 @@ Authentic research projects, especially iGEM projects, inspire and equip student
  
 However, there are predecessors who have overcome all those challenges. In bringing together students and advisors from different parts of China, CCiC8 will be a forum to exchange experience and adventures, between old and young, junior and senior, to ensure that the practices and cultures we value are sustained into the future, and our students will be ready to overcome their coming challenges.
 
-```markdown
+```
 Syntax highlighted code block
 
 # Header 1
@@ -24,13 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-You can use the [editor on GitHub](https://github.com/coronin/ccic2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+sfaeee sadfeasdeasdd [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Links
 - [iGEM 2021 Global](igem2021global.slack.com)
@@ -49,3 +43,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ## CCiC8 Sponsors
 - Name logo
 - Name logo
+
+## Important Dates
+- 2021-5-12 call for meeting volunteers
+- 2021-5-12 confirmed, [Team:Fudan](https://2020.igem.org/Team:Fudan) will host CCiC8
+- 2021-3-14 application submitted
