@@ -11,23 +11,28 @@ However, there are predecessors who have overcome all those challenges. In bring
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Links
-- [iGEM 2021 Global](igem2021global.slack.com)
+- [iGEM 2021 Global](https://igem2021global.slack.com)
 - [Application to Host CCiC8](https://shimo.im/docs/osqPvsJl3IcnSFlF/)
 - [Workbook for CCiC8](https://shimo.im/docs/r2SSnM80etAyLTP1/)
 - [Sponsorship Brochure for CCiC8](https://shimo.im/docs/yaWIlYCmSN4ahjwu/)
 - [Participate Manual for CCiC8](https://a.b.c)
-- [CCiC8参会队伍信息收集，定稿后此链接将删除](https://a.b.c)
-- [CCiC8赞助商信息收集，定稿后此链接将删除](https://a.b.c)
-- [CCiC8分享人信息收集，定稿后此链接将删除](https://a.b.c)
+- [CCiC8赞助商信息收集](https://a.b.c)
+- [CCiC8分享人信息收集](https://a.b.c)
+- [CCiC8参会队伍信息收集](https://a.b.c)
+- [CCiC8志愿者信息收集](https://a.b.c)
 
 ## CCiC8 Participating Teams (alphabetical order)
+- Name logo
+- Name logo
 - Name logo
 - Name logo
 
 ## CCiC8 Sponsors
 - Name logo
 - Name logo
+- Name logo
+- Name logo
 
 ## Important Dates
-- 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), [Team:Fudan](https://2020.igem.org/Team:Fudan) will host CCiC8; call for CCiC8 volunteers
+- 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; call for CCiC8 volunteers
 - 2021/3/14 application submitted

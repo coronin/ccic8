@@ -5,10 +5,8 @@
 
 /* slack color #2F3D64,#121016,#469E99,#FFFFFF,#E8903F,#FFFFFF,#469E99,#B25195,#000000,#FFFFFF */
 html {background: #2F3D64}
-header h1 {color: #2F3D64}
-a {color: #2F3D64}
+header h1, a {color: #2F3D64}
 header {background: #469E99}
-header p {color: #E8903F}
-footer {color: #E8903F}
-footer a {color: #E8903F}
+header p {color: #E8903F; font-weight: bold}
+footer, footer a {color: #E8903F}
 li {color: #B25195}
