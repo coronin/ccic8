@@ -8,8 +8,6 @@ However, there are predecessors who have overcome all those challenges. In bring
 
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-
 ## Links
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - [Application to Host CCiC8](https://shimo.im/docs/osqPvsJl3IcnSFlF/)
@@ -22,17 +20,18 @@ However, there are predecessors who have overcome all those challenges. In bring
 - [CCiC8志愿者信息收集](https://a.b.c)
 
 ## CCiC8 Participating Teams (alphabetical order)
-- Name logo
-- Name logo
-- Name logo
-- Name logo
+Team | Logo | Project Name
+---- | ----         | ----
+Content from cell 1 | Content from cell 2 | Content from cell 3
+Content in the first column | Content in the second column | 3333
 
 ## CCiC8 Sponsors
-- Name logo
-- Name logo
-- Name logo
-- Name logo
+Name | Logo
+---- | ----
+Content from cell 1 | Content from cell 2 2
+Content in the first column | Content in the second column column
 
 ## Important Dates
+- 2021/5/19 link to submit participates info
 - 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; call for CCiC8 volunteers
 - 2021/3/14 application submitted
