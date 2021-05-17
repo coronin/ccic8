@@ -20,16 +20,18 @@ However, there are predecessors who have overcome all those challenges. In bring
 - [CCiC8志愿者信息收集](https://a.b.c)
 
 ## CCiC8 Participating Teams (alphabetical order)
-Team | Logo | Project Name
------------- | ------------ | ------------
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | 3333
+
+|Team |Logo |Project Name |
+|----|----|----|
+|Content from cell 1 | Content from cell 2 | Content from cell 3 |
+|Content in the first column | Content in the second column | 3333 |
 
 ## CCiC8 Sponsors
-Name | Logo
------------- | ------------
-Content from cell 1 | Content from cell 2 2
-Content in the first column | Content in the second column column
+
+|Name |Logo |
+|----|----|
+|Content from cell 1 | Content from cell 2 2 |
+|Content in the first column | Content in the second column column |
 
 ## Important Dates
 - 2021/5/19 link to submit participates info
