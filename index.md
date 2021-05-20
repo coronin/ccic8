@@ -16,7 +16,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 - [Participate Handbook for CCiC8](https://a.b.c)
 - [CCiC8赞助商信息收集](https://a.b.c)
 - [CCiC8分享人信息收集](https://a.b.c)
-- [CCiC8参会队伍信息收集](https://www.wjx.cn/vj/h4icxcB.aspx)
+- [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &rarr; [项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
 - [CCiC8志愿者信息收集](https://a.b.c)
 
 ## CCiC8 Participating Teams (alphabetical order)
