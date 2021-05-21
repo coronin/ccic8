@@ -29,7 +29,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 
 ## CCiC8 Sponsors
 
-|Name |Logo |
+|Sponsor |Logo |
 |----|----|
 |[Yunfeng Capital](http://www.yfc.cn) | ![logo of the sponsor](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponser-logo/yunfeng.svg) |
 |Content in the first column | Content in the second column column |
