@@ -16,7 +16,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 - [Participate Handbook for CCiC8](https://a.b.c)
 - [CCiC8赞助商信息收集](https://a.b.c)
 - [CCiC8分享人信息收集](https://a.b.c)
-- [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &rarr; [项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
+- [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &rarr; [参会项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
 - [CCiC8志愿者信息收集](https://a.b.c)
 
 ## CCiC8 Participating Teams (alphabetical order)
@@ -25,12 +25,15 @@ However, there are predecessors who have overcome all those challenges. In bring
 |----|----|----|
 |Content from cell 1 | Content from cell 2 | Content from cell 3 |
 |Content in the first column | Content in the second column | 3333 |
+|[Fudan](https://igem.org/Team.cgi?id=3790) | ![](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/fudan.svg |width=64) | TBA |
 
 ## CCiC8 Sponsors
 
 |Name |Logo |
 |----|----|
-|Content from cell 1 | Content from cell 2 2 |
+|[Yunfeng Capital](https://www.yfc.cn) | ![](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponser-logo/yunfeng.svg |width=64) |
+|Content in the first column | Content in the second column column |
+|Content in the first column | Content in the second column column |
 |Content in the first column | Content in the second column column |
 
 ## Important Dates
