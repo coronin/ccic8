@@ -21,17 +21,17 @@ However, there are predecessors who have overcome all those challenges. In bring
 
 ## CCiC8 Participating Teams (alphabetical order)
 
-|Team |Logo |Project Name |
+|Logo |Team |Project Name |
 |----|----|----|
 |Content from cell 1 | Content from cell 2 | Content from cell 3 |
 |Content in the first column | Content in the second column | 3333 |
-|[Fudan](https://igem.org/Team.cgi?id=3790) | ![logo of the school](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/fudan.svg) | TBA |
+|![logo of the school](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/fudan.svg) |[Fudan](https://igem.org/Team.cgi?id=3790) |TBA TBA TBA TBA TBA |
 
 ## CCiC8 Sponsors
 
 |Sponsor |Logo |
 |----|----|
-|[Yunfeng Capital](http://www.yfc.cn) | ![logo of the sponsor](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponser-logo/yunfeng.svg) |
+|[Yunfeng Capital](http://www.yfc.cn) |![logo of the sponsor](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponser-logo/yunfeng.svg) |
 |Content in the first column | Content in the second column column |
 |Content in the first column | Content in the second column column |
 |Content in the first column | Content in the second column column |
