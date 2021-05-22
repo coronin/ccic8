@@ -13,10 +13,6 @@ team members
 
 project abstract
 
-contact and links
+contact
 
-![Logo of the school]()
-
-![Logo of the team](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/fudan.svg)
-
-[iGEM Team ID](https://igem.org/Team.cgi?id=3790)
+![Logo of the team]()
