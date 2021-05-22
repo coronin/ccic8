@@ -25,9 +25,11 @@
 
       {{ content }}
 
-{% if page.school_logo %}<img alt="school logo" src="{{ page.school_logo }}" />{% endif %}
-<p><a href="{{ page.url }}"></a></p>
-{% if page.team_igem_id %}<p><a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">link to {{ page.team_igem_id }} on 2021.igem.org</a></p>{% endif %}
+{% if page.school_logo %}<p><img alt="school logo" src="{{ page.school_logo }}" /></p>{% endif %}
+
+<p><a href="{{ page.url }}">{{ page.url }}</a></p>
+
+{% if page.team_igem_id %}<p><a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">Team {{ page.team_igem_id }} info on 2021.igem.org</a></p>{% endif %}
 
       </section>
     </div><!-- .wrapper -->

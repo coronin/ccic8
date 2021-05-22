@@ -45,8 +45,9 @@
   {% for post in site.posts %}<tr>
     <td>{{ post.date | date_to_string }}</td>
     <td>{% if post.school_logo %}<img alt="school logo" src="{{ post.school_logo }}" />{% endif %}</td>
-    <td>{% if post.team_igem_id %}<sup><a rel="external" href="https://igem.org/Team.cgi?id={{ post.team_igem_id }}" target="_blank">{{ post.team_igem_id }}</a></sup>{% endif %}
-      <a href="{{ post.url }}">{{ post.title }}</a> &nbsp;&#9658; </td>
+    <td><a href="{{ post.url }}">{{ post.title }}&#9658;</a>
+      {% if post.team_igem_id %}<span class="igem_id"><a rel="external" href="https://igem.org/Team.cgi?id={{ post.team_igem_id }}" target="_blank">{{ post.team_igem_id }}</a></span>{% endif %}
+      </td>
     <td>{{ post.project_title | escape }}</td>
   </tr>{% endfor %}
   </tbody>
