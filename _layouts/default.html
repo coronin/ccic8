@@ -32,17 +32,16 @@
 
       {{ content }}
 
-      </section>
-
-<ul class="posts">
-    {% for post in site.posts %}
-    <li>
-     <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="right date">{{ post.date | date_to_string }}</span>
-    </li>
-    {% endfor %}
+<h2 id="ccic8-participating-teams-alphabetical-order">CCiC8 Participating Teams (alphabetical order)</h2>
+<ul>
+  {% for post in site.posts %}<li>
+    <img alt="school log" src="{{ post.school_logo }}" style="width:64px;height:64px"/>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span>{{ post.date | date_to_string }}</span>
+  </li>{% endfor %}
 </ul>
 
+      </section>
     </div><!-- .wrapper -->
     <footer>
     {% if site.github.is_project_page %}

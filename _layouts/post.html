@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ post.title | escape }}</h1>
+        <h1>{{ page.title | site.backup_team_title }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
@@ -24,16 +24,9 @@
 
       {{ content }}
 
+<p><a href="{{ page.url | relative_url }}"></a></p>
+
       </section>
-
-<p><a class="u-url" href="{{ post.url | relative_url }}" hidden></a></p>
-{% if post.categories %}<p>
-  {% for cat in post.categories %}
-  <span>{{ cat }}</span>
-    {% if forloop.last == false %}, {% endif %}
-  {% endfor %}
-</p>{% endif %}
-
     </div><!-- .wrapper -->
     <footer>
       <p>Maintained by <a rel="external" href="https://2020.igem.org/Team:Fudan/" target="_blank">Team:Fudan</a></p>
