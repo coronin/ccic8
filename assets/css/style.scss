@@ -10,3 +10,8 @@ header {background: #469E99}
 header p {color: #E8903F; font-weight: bold}
 footer, footer a {color: #E8903F}
 li {color: #B25195}
+td img {
+  width: 64px;
+  /* -webkit-filter: grayscale(100%);  Safari 6.0 - 9.0
+  filter: grayscale(100%); */
+}
