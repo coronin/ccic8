@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ page.title | escape }}</h1>
+        <h1>{{ post.title | escape }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
@@ -26,9 +26,9 @@
 
       </section>
 
-<p><a class="u-url" href="{{ page.url | relative_url }}" hidden></a></p>
-{% if page.categories %}<p>
-  {% for cat in page.categories %}
+<p><a class="u-url" href="{{ post.url | relative_url }}" hidden></a></p>
+{% if post.categories %}<p>
+  {% for cat in post.categories %}
   <span>{{ cat }}</span>
     {% if forloop.last == false %}, {% endif %}
   {% endfor %}
