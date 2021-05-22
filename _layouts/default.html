@@ -32,15 +32,26 @@
 
       {{ content }}
 
-<h2 id="ccic8-participating-teams-alphabetical-order">CCiC8 Participating Teams (alphabetical order)</h2>
-<ul style="list-style:none;display:table">
-  {% for post in site.posts %}<li style="vertical-align:middle;display:table-cell">
-    {% if post.school_logo %}<img alt="school logo" src="{{ post.school_logo }}" style="width:32px;height:32px"/>{% endif %}
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    {% if post.team_igem_id %}<a rel="external" href="https://igem.org/Team.cgi?id={{ post.team_igem_id }}" target="_blank">link to {{ post.team_igem_id }}</a>{% endif %}
-    <span>{{ post.date | date_to_string }}</span>
-  </li>{% endfor %}
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Logo</th>
+      <th>Team</th>
+      <th>Project Title</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for post in site.posts %}<tr>
+    <td>{{ post.date | date_to_string }}</td>
+    <td>{% if post.school_logo %}<img alt="school logo" src="{{ post.school_logo }}" />{% endif %}</td>
+    {% if post.project_title %}{{ post.project_title }}{% endif %}
+    <td><a href="{{ post.url }}">{{ post.title }}</a>
+    {% if post.team_igem_id %}<sup><a rel="external" href="https://igem.org/Team.cgi?id={{ post.team_igem_id }}" target="_blank">link to {{ post.team_igem_id }}</a></sup>{% endif %}</td>
+    <td>{{ post.project_title | escape }}</td>
+  </tr>{% endfor %}
+  </tbody>
+</table>
 
       </section>
     </div><!-- .wrapper -->
