@@ -24,7 +24,9 @@
 
       {{ content }}
 
-<p><a href="{{ page.url | relative_url }}"></a></p>
+{% if post.school_logo %}<img alt="school logo" src="{{ post.school_logo }}" />{% endif %}
+<p><a href="{{ page.url }}"></a></p>
+{% if post.team_igem_id %}<p><a rel="external" href="https://igem.org/Team.cgi?id={{ post.team_igem_id }}" target="_blank">link to {{ post.team_igem_id }} on 2021.igem.org</a></p>{% endif %}
 
       </section>
     </div><!-- .wrapper -->
