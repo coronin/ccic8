@@ -1,7 +1,8 @@
+---
 layout: post
-title: "Team Fudan"
-date: 2021-05-30 01:01:01 -0001
+title: "Team: Fudan"
 categories: teams
+---
 
 project title
 

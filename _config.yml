@@ -1,2 +1,8 @@
 theme: jekyll-theme-modernist
 title: CCiC8 - Conference of China iGEMer Community
+google_analytics: UA-30563986-1
+
+collections:
+  posts:
+    output: true
+    permalink: /:title/
