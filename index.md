@@ -33,7 +33,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 |Content in the first column | Content in the second column column |
 
 ## CCiC8 Volunteers
-| &nbsp; | &nbsp; | &nbsp;| &nbsp;| &nbsp;|
+| | | |
 |----|----|----|----|----|
 | 张荣梅 | 胡海荣 | 蔡亮 | 田仕峥 | 姚奕阳 |
 | 梁说今 | 姜晓慧 | 黄昕瑜 | 陈炯霖 | 李承 |
