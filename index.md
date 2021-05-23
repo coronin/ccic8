@@ -6,7 +6,7 @@ Authentic research projects, especially iGEM projects, **inspire and equip** stu
 
 However, there are predecessors who have overcome all those challenges. In bringing together students and advisors from different parts of China, CCiC8 will be a forum **to exchange experience and adventures**, between old and young, junior and senior, to ensure that the practices and cultures we value are sustained into the future, and our students will **be ready** to overcome their coming challenges.
 
-
+| ![Prof. Daru Lu](https://raw.githubusercontent.com/coronin/ccic8/93edf4fbe8cc2b428254f0883174d0cff5145f17/sponser-logo/drlu.jpg) | **CCiC8 Chair ** <br/>intro intro intro |
 ## Links
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - [Application to Host CCiC8](https://shimo.im/docs/osqPvsJl3IcnSFlF/)
@@ -39,8 +39,8 @@ However, there are predecessors who have overcome all those challenges. In bring
 
 ## CCiC8 Volunteers
 
-| 张荣梅 | 胡海荣 | 蔡亮 | 田仕峥 | 姚奕阳 | 梁说今 |
-| 姜晓慧 | 黄昕瑜 | 陈炯霖 | 李承 | &nbsp;| &nbsp;|
+| 张荣梅 | 胡海荣 | 蔡亮 | 田仕峥 | 姚奕阳 | 梁说今 | 姜晓慧 |
+| 黄昕瑜 | 陈炯霖 | 李承 | &nbsp;| &nbsp;| &nbsp;| &nbsp;|
 
 <br/>
 
