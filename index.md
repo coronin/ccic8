@@ -13,14 +13,14 @@ However, there are predecessors who have overcome all those challenges. In bring
 - [Workbook for CCiC8](https://shimo.im/docs/r2SSnM80etAyLTP1/)
 - [Sponsorship Brochure for CCiC8]()  <!-- https://shimo.im/docs/yaWIlYCmSN4ahjwu/ -->
 - [Participate Handbook for CCiC8]()
-- [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &rarr; [参会项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
 - [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)
+- [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &rarr; [参会项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
 - [CCiC8赞助商信息收集]()
 - [CCiC8分享人信息收集]()
 
 ## Important Dates
-- 2021/5/19 link to submit participates info
-- 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; call for volunteers
+- 2021/5/19 link to [submit participates info](https://www.wjx.cn/vj/hWQFAcz.aspx)
+- 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; [call for volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)
 - 2021/3/14 application submitted
 
 ## CCiC8 Sponsors
