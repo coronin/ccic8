@@ -21,7 +21,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 
 ## Important Dates
 - 2021/5/19 link to submit participates info
-- 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; call for CCiC8 volunteers
+- 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; call for volunteers
 - 2021/3/14 application submitted
 
 
