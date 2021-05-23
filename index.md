@@ -9,7 +9,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 ![Prof. Daru Lu](https://raw.githubusercontent.com/coronin/ccic8/93edf4fbe8cc2b428254f0883174d0cff5145f17/sponser-logo/drlu.jpg){: style="height:125px;float:left;padding-right:0.67rem"}
 
 **Chair: Daru Lu**
-<br/>Professor Lu is an instructor of genetics, one of the well recognized national top-quality courses. He is the chief editor of *Medical Molecular Genetics*, *Gene Therapy*, and several other textbooks. He got recognized as a *National Outstanding Teacher*. He won the *Science and Technology Award for Chinese Youth*. He is a fellow in the *National Millions of Talents Project*. 
+<br/>Professor Lu is an instructor of genetics, one of the well recognized national top-quality courses. He is the chief editor of *Medical Molecular Genetics*, *Gene Therapy*, and several other textbooks. He got recognized as a *National Outstanding Teacher*. He won the *Science and Technology Award for Chinese Youth*. He is a fellow in the *One Hundred, One Thousand, and Ten Thousands of Talent Program*.
 <div style="clear:both"></div>
 
 ## Links
@@ -19,7 +19,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 - not ready [Sponsorship Brochure for CCiC8]()  <!-- https://shimo.im/docs/yaWIlYCmSN4ahjwu/ -->
 - not ready [Participate Handbook for CCiC8]()
 - [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)【欢迎个人以志愿者身份参加会议】
-- [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &rarr; [参会项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
+- [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &#11157; [参会项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
 - not ready [CCiC8赞助商信息收集]()
 - not ready [CCiC8分享人信息收集]()
 
