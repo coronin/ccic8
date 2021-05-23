@@ -8,7 +8,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 
 ![Prof. Daru Lu](https://raw.githubusercontent.com/coronin/ccic8/93edf4fbe8cc2b428254f0883174d0cff5145f17/sponser-logo/drlu.jpg){: style="height:100px;float:left;padding-right:1rem"}
 
-**CCiC8 Chair**
+**CCiC8 Chair: Prof. Daru Lu**
 
 intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro 
 <div style="clear:both"></div>
@@ -19,7 +19,7 @@ intro intro intro intro intro intro intro intro intro intro intro intro intro in
 - [Workbook for CCiC8](https://shimo.im/docs/r2SSnM80etAyLTP1/)
 - [Sponsorship Brochure for CCiC8]()  <!-- https://shimo.im/docs/yaWIlYCmSN4ahjwu/ -->
 - [Participate Handbook for CCiC8]()
-- [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)
+- [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)【欢迎个人以志愿者身份参加会议】
 - [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &rarr; [参会项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
 - [CCiC8赞助商信息收集]()
 - [CCiC8分享人信息收集]()
