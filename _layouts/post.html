@@ -27,10 +27,9 @@
 
 {% if page.school_logo %}<p><img alt="school logo" src="{{ page.school_logo }}" /></p>{% endif %}
 
-<p><a href="{{ page.url }}">{{ page.url }}</a></p>
-
 {% if page.team_igem_id %}<p><a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">Team {{ page.team_igem_id }} info on 2021.igem.org</a></p>{% endif %}
 
+<p>Page URL: <a href="{{ page.url }}">https://ccic8.site{{ page.url }}</a></p>
       </section>
     </div><!-- .wrapper -->
     <footer>
