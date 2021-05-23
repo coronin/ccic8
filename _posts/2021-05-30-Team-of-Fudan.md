@@ -6,7 +6,7 @@ school_logo: "https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-lo
 project_title: "tba tba tba"
 ---
 
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+https://kramdown.gettalong.org/quickref.html#tables
 
 ### Team Leader
 * 王五
