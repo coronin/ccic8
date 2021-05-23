@@ -9,6 +9,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 ![Prof. Daru Lu](https://raw.githubusercontent.com/coronin/ccic8/93edf4fbe8cc2b428254f0883174d0cff5145f17/sponser-logo/drlu.jpg){: style="float:left"}
 **CCiC8 Chair**
 intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro 
+<div style="clear:both"></div>
 
 ## Links
 - [iGEM 2021 Global](https://igem2021global.slack.com)
