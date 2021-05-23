@@ -6,12 +6,19 @@ school_logo: "https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-lo
 project_title: "tba tba tba"
 ---
 
-team leader
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-team members
+### Team Leader
+* 王五
 
-project abstract
+### Team Members
+* 张三
+* 李四
 
-contact
+### Contact
+* email@domain.net
 
-![Logo of the team]()
+## Project Abstract
+tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
+
+![team logo]()
