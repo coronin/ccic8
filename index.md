@@ -6,23 +6,23 @@ Authentic research projects, especially iGEM projects, **inspire and equip** stu
 
 However, there are predecessors who have overcome all those challenges. In bringing together students and advisors from different parts of China, CCiC8 will be a forum **to exchange experience and adventures**, between old and young, junior and senior, to ensure that the practices and cultures we value are sustained into the future, and our students will **be ready** to overcome their coming challenges.
 
-![Prof. Daru Lu](https://raw.githubusercontent.com/coronin/ccic8/93edf4fbe8cc2b428254f0883174d0cff5145f17/sponser-logo/drlu.jpg){: style="height:100px;float:left;padding-right:1rem"}
+![Prof. Daru Lu](https://raw.githubusercontent.com/coronin/ccic8/93edf4fbe8cc2b428254f0883174d0cff5145f17/sponser-logo/drlu.jpg){: style="height:125px;float:left;padding-right:0.67rem"}
 
-**CCiC8 Chair: Prof. Daru Lu**
+**Chair: Daru Lu**
 
-intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro intro 
+Professor Lu is an instructor of genetics, one of the well recognized national top-quality courses. He is the chief editor of several textbooks, including Medical Molecular Genetics and Gene Therapy. He got recognized as a National Outstanding Teacher. He won the Science and technology Award for Chinese Youth. He is a fellow in the National Millions of Talents Project. 
 <div style="clear:both"></div>
 
 ## Links
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - [Application to Host CCiC8](https://shimo.im/docs/osqPvsJl3IcnSFlF/)
 - [Workbook for CCiC8](https://shimo.im/docs/r2SSnM80etAyLTP1/)
-- [Sponsorship Brochure for CCiC8]()  <!-- https://shimo.im/docs/yaWIlYCmSN4ahjwu/ -->
-- [Participate Handbook for CCiC8]()
+- not ready: [Sponsorship Brochure for CCiC8]()  <!-- https://shimo.im/docs/yaWIlYCmSN4ahjwu/ -->
+- not ready: [Participate Handbook for CCiC8]()
 - [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)【欢迎个人以志愿者身份参加会议】
 - [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &rarr; [参会项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
-- [CCiC8赞助商信息收集]()
-- [CCiC8分享人信息收集]()
+- not ready: [CCiC8赞助商信息收集]()
+- not ready: [CCiC8分享人信息收集]()
 
 
 ## Important Dates
@@ -30,7 +30,6 @@ intro intro intro intro intro intro intro intro intro intro intro intro intro in
 - 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; [call for volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)
 - 2021/3/14 application submitted
 
-<br/>
 
 ## CCiC8 Sponsors
 
