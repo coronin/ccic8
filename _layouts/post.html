@@ -16,9 +16,8 @@
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
         <h1>Team: {{ page.title }}</h1>
-        <p>{{ site.description }}
-          <img alt="ccic8 long logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/BUCT.png" style="float:right" />
-          </p>
+        <div style="float:right;width:400px"><img alt="ccic8 long logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL.png" /></div>
+        <p>{{ site.description }}</p>
       </header>
       <section>
 <h2>{{ page.project_title | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
