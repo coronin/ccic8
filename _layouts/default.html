@@ -16,9 +16,7 @@
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
         <h1>{{ site.title }}</h1>
-        {% if site.description or site.github.project_tagline %}
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-        {% endif %}
+        <p>{{ site.description }}</p>
         <!-- p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p -->
         <!-- ul>
         {% if site.show_downloads %}
@@ -44,8 +42,11 @@
   <tbody>
   {% for post in site.posts %}<tr>
     <td style="font-size:80%;color:#B25195">{{ post.date | date_to_string }}</td>
-    <td>{% if post.school_logo %}<a href="{{ post.url }}">
-      <img alt="school logo" src="{{ post.school_logo }}" /></a>{% endif %}</td>
+    <td>
+      {% if post.school_logo %}<a href="{{ post.url }}">
+      <img alt="school logo" src="{{ post.school_logo }}" /></a>
+      {% else %}<a href="{{ post.url }}">
+      <img alt="ccic8 logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoS.png" /></a>{% endif %}</td>
     <td><a href="{{ post.url }}" style="white-space:nowrap">{{ post.title }}<sup style="color:#B25195">{% if post.people_count_onsite %}{{ post.people_count_onsite }}{%
   else %}^{% endif %}</sup></a>
       {% if post.team_igem_id %}&#11157;&nbsp;<span class="igem_id"><a rel="external" href="https://igem.org/Team.cgi?id={{ post.team_igem_id }}" target="_blank">{{ post.team_igem_id }}</a></span>{% endif %}

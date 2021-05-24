@@ -26,7 +26,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 
 ## Important Dates
-- 2021/5/19 link to [submit participates info](https://www.wjx.cn/vj/hWQFAcz.aspx)
+- 2021/5/23 link to [submit participates info](https://www.wjx.cn/vj/hWQFAcz.aspx)
 - 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; [call for volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)
 - 2021/3/14 application submitted
 
