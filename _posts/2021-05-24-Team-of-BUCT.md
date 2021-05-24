@@ -3,7 +3,7 @@ layout: post
 title: "BUCT"
 team_igem_id: "3875"
 school_logo: "https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/BUCT.png"
-project_title: "Using fat to synthesis γ-Aminobutyric acid and 5-hydroxytryptophan in *E.coli*"
+project_title: "Using fat to synthesis γ-Aminobutyric acid and 5-hydroxytryptophan in *E. coli*"
 ---
 
 
@@ -27,4 +27,4 @@ project_title: "Using fat to synthesis γ-Aminobutyric acid and 5-hydroxytryptop
 
 tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
 
-![team logo](){: style="float:left"}
+![team logo](){: style="float:left;padding-right:1rem"}
