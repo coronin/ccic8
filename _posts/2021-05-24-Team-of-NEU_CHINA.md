@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Team: NEU_CHINA"
+team_igem_id: "3896"
+school_logo: "https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/NEU_CHINA.png"
+project_title: "Using PmrCAB system and quorum sensing, and building a hardware to achieve multivirus detection"
+---
+
+
+### Team Leader
+* 吴自涵
+
+### Team Members
+* 马铭雪
+* 武艺
+* 田佳明
+
+### Contact
+* 1172553993@qq.com
+
+### Project Abstract
+**A Diagnostics Project**
+
+tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
+
+![team logo]()
