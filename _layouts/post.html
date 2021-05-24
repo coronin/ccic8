@@ -40,8 +40,8 @@
 
       {{ content }}
 
-<p><img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo == '' or page.team_logo == nil %}logoS{% else %}{{ post.title }}{% endif %}.png" style="width:250px;float:left;padding-right:1rem" />
-<img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ post.title }}.png" style="width:250px" /></p>
+<p><img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo == '' or page.team_logo == nil %}logoS{% else %}{{ page.title }}{% endif %}.png" style="width:250px;float:left;padding-right:1rem" />
+<img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.title }}.png" style="width:250px" /></p><div style="clear:both"></div>
 
 <p><a rel="external" href="https://2021.igem.org/Team:{{ page.title }}" target="_blank">https://2021.igem.org/Team:{{ page.title }}</a>
 {% if page.team_igem_id %}<br/>
