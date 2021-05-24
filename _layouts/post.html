@@ -21,7 +21,7 @@
         {% endif %}
       </header>
       <section>
-{% if page.project_title %}<h2>{{ page.project_title | markdownify }}</h2>{% endif %}
+{% if page.project_title %}<h2>{{ page.project_title | markdownify | remove: '<p>' | remove: '</p>' }}</h2>{% endif %}
 
 <!--
    1. Diagnostics
@@ -37,7 +37,7 @@
   11. Software
   12. Therapeutics
   -->
-<p>{{ page.date | date_to_string: "ordinal", "US" }}</p>
+<p>Submitted on {{ page.date | date_to_string: "ordinal", "US" }}</p>
 
       {{ content }}
 
