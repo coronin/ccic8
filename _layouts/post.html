@@ -21,17 +21,20 @@
         {% endif %}
       </header>
       <section>
-{% if page.project_title %}<h2>{{ page.project_title }}</h2>{% endif %}
+{% if page.project_title %}<h2>{{ page.project_title | markdownify }}</h2>{% endif %}
 
       {{ content }}
 
 {% if page.school_logo %}<p><img alt="school logo" src="{{ page.school_logo }}" /></p>{% endif %}
 
-{% if page.team_igem_id %}<p><a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">https://igem.org/Team.cgi?id={{ page.team_igem_id }}</a></p>{% endif %}
+{% if page.team_igem_id %}<p>
+<a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">https://igem.org/Team.cgi?id={{ page.team_igem_id }}</a><br/>
+<a rel="external" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K{{ page.team_igem_id }}000" target="_blank">The first part in registry from this team.</a>
+</p>{% endif %}
 
-<textarea>{{ page.date | date_to_string: "ordinal", "US" }}</textarea>
+<p>{{ page.date | date_to_string: "ordinal", "US" }}</p>
 
-<p>{{ page.previous | escape }} &middot; {{ page.next | escape }}</p>
+<p>{{ paginator.previous_page_path }} &middot; {{ paginator.next_page_path }}</p>
       </section>
     </div><!-- .wrapper -->
     <footer>

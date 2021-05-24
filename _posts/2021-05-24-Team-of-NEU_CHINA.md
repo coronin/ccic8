@@ -11,7 +11,8 @@ project_title: "Using PmrCAB system and quorum sensing, and building a hardware 
 ### Team Leader
 * 吴自涵
 
-### Team Members
+### People on Site
+* 吴自涵
 * 马铭雪
 * 武艺
 * 田佳明
