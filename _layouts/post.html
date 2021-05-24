@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}"><!-- {{ site.time }} -->
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <title>CCiC8 | Team {{ page.title | escape }}</title>
+    <title>CCiC8 | Team {{ page.title }}</title>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>Team: {{ page.title | escape }}</h1>
+        <h1>Team: {{ page.title }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
@@ -28,11 +28,15 @@
 {% if page.school_logo %}<p><img alt="school logo" src="{{ page.school_logo }}" /></p>{% endif %}
 
 {% if page.team_igem_id %}<p><a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">https://igem.org/Team.cgi?id={{ page.team_igem_id }}</a></p>{% endif %}
+
+<textarea>{{ page.date | date_to_string: "ordinal", "US" }}</textarea>
+
+<p>{{ page.previous | escape }} &middot; {{ page.next | escape }}</p>
       </section>
     </div><!-- .wrapper -->
     <footer>
       <p>&copy;CCiC8 <a href="/">Homepage</a></p>
-      <p><a href="{{ page.url }}">{{ page.url }}</a></p>
+      <p><a href="{{ page.url }}">{{ site.url }}{{ page.url }}</a></p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 

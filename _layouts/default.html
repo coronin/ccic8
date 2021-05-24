@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}"><!-- {{ site.time }} -->
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -49,7 +49,7 @@
     <td><a href="{{ post.url }}">{{ post.title }}</a>
       {% if post.team_igem_id %}&#11157;&nbsp;<span class="igem_id"><a rel="external" href="https://igem.org/Team.cgi?id={{ post.team_igem_id }}" target="_blank">{{ post.team_igem_id }}</a></span>{% endif %}
       </td>
-    <td>{{ post.project_title | escape }}</td>
+    <td>{{ post.project_title }}</td>
   </tr>{% endfor %}
   </tbody>
 </table>

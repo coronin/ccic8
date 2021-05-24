@@ -6,10 +6,11 @@ Authentic research projects, especially iGEM projects, **inspire and equip** stu
 
 However, there are predecessors who have overcome all those challenges. In bringing together students and advisors from different parts of China, CCiC8 will be a forum **to exchange experience and adventures**, between old and young, junior and senior, to ensure that the practices and cultures we value are sustained into the future, and our students will **be ready** to overcome their coming challenges.
 
-![Prof. Daru Lu](https://raw.githubusercontent.com/coronin/ccic8/93edf4fbe8cc2b428254f0883174d0cff5145f17/sponser-logo/drlu.jpg){: style="height:133px;float:left;padding-right:0.67rem"}
+**Conference Chair: Daru Lu**
 
-**Chair: Daru Lu**
-<br/>Professor Lu is an instructor of genetics, one of the well recognized national top-quality courses. He is the chief editor of *Medical Molecular Genetics*, *Gene Therapy*, and several other textbooks. He got recognized as a *National Outstanding Teacher*. He won the *Science and Technology Award for Chinese Youth*. He is a fellow in the *One Hundred, One Thousand, and Ten Thousands of Talent Program*.
+![Prof. Daru Lu](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponser-logo/drlu.jpg){: style="height:133px;float:left;padding-right:0.67rem"}
+
+Professor Lu is an instructor of genetics, one of the well recognized national top-quality courses. He is the chief editor of *Medical Molecular Genetics*, *Gene Therapy*, and several other textbooks. He got recognized as a *National Outstanding Teacher*. He won the *Science and Technology Award for Chinese Youth*. He is a fellow in the *One Hundred, One Thousand, and Ten Thousands of Talent Program*.
 <div style="clear:both"></div>
 
 ## Links
