@@ -38,7 +38,6 @@
       <th>Date</th>
       <th>School</th>
       <th>&nbsp;</th>
-      <th>&nbsp;</th>
       <th>Project Title</th>
     </tr>
   </thead>
@@ -47,11 +46,11 @@
     <td style="font-size:66%;color:#B25195">{{ post.date | date_to_string }}</td>
     <td>{% if post.school_logo %}<a href="{{ post.url }}">
       <img alt="school logo" src="{{ post.school_logo }}" /></a>{% endif %}</td>
-    <td><a href="{{ post.url }}">{{ post.title }}</a>
+    <td><a href="{{ post.url }}">{{ post.title }}
+      <sup>{% if post.people_count_onsite %}{{ post.people_count_onsite }}{%
+  else %}^{% endif %}</sup></a>
       {% if post.team_igem_id %}&#11157;&nbsp;<span class="igem_id"><a rel="external" href="https://igem.org/Team.cgi?id={{ post.team_igem_id }}" target="_blank">{{ post.team_igem_id }}</a></span>{% endif %}
       </td>
-    <td>{% if post.people_count_onsite %}{{ post.people_count_onsite }}{%
-  else %}2{% endif %}</td>
     <td>{{ post.project_title | markdownify | remove: '<p>' | remove: '</p>' }}</td>
   </tr>{% endfor %}
   </tbody>
