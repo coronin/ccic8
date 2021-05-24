@@ -42,11 +42,8 @@
   <tbody>
   {% for post in site.posts %}<tr>
     <td style="font-size:80%;color:#B25195">{{ post.date | date_to_string }}</td>
-    <td>
-      {% if post.school_logo %}<a href="{{ post.url }}">
-      <img alt="school logo" src="{{ post.school_logo }}" /></a>
-      {% else %}<a href="{{ post.url }}">
-      <img alt="ccic8 logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoR.png" /></a>{% endif %}</td>
+    <td><a href="{{ post.url }}">
+      <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ post.title }}.png" /></a></td>
     <td><a href="{{ post.url }}" style="white-space:nowrap">{{ post.title }}<sup style="color:#B25195">{% if post.people_count_onsite %}{{ post.people_count_onsite }}{%
   else %}^{% endif %}</sup></a>
       {% if post.team_igem_id %}&#11157;&nbsp;<span class="igem_id"><a rel="external" href="https://igem.org/Team.cgi?id={{ post.team_igem_id }}" target="_blank">{{ post.team_igem_id }}</a></span>{% endif %}

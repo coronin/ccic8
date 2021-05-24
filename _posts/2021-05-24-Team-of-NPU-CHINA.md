@@ -2,7 +2,6 @@
 layout: post
 title: "NPU-CHINA"
 team_igem_id: "3937"
-school_logo: "https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/NPU-CHINA.png"
 team_logo: ""
 project_title: "以枯草芽孢杆菌为载体的抗黄曲霉素富硒食品添加剂"
 people_count_onsite: 13
