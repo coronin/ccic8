@@ -4,6 +4,7 @@ title: "NEU_CHINA"
 team_igem_id: "3896"
 school_logo: "https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/NEU_CHINA.png"
 project_title: "Using PmrCAB system and quorum sensing, and building a hardware to achieve multivirus detection"
+people_count_onsite: 4
 ---
 
 来自东北大学

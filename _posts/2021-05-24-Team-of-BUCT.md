@@ -4,6 +4,7 @@ title: "BUCT"
 team_igem_id: "3875"
 school_logo: "https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/BUCT.png"
 project_title: "Using fat to synthesis γ-Aminobutyric acid and 5-hydroxytryptophan in *E. coli*"
+people_count_onsite: 3
 ---
 
 
