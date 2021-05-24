@@ -3,6 +3,7 @@ layout: post
 title: "NMU_China"
 team_igem_id: "4040"
 school_logo: "https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/NMU_China.png"
+team_logo: ""
 project_title: "Chimeric antigen receptors mediate phagocytosis of SARS-CoV-2 pseudoviral particles by macrophages"
 people_count_onsite: 20
 ---
@@ -41,5 +42,3 @@ people_count_onsite: 20
 ### A Therapeutics Project
 
 tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
-
-![team logo](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoS.png){: style="width:250px;float:left;padding-right:1rem"}

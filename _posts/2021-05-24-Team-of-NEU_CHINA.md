@@ -3,6 +3,7 @@ layout: post
 title: "NEU_CHINA"
 team_igem_id: "3896"
 school_logo: "https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/NEU_CHINA.png"
+team_logo: ""
 project_title: "Using PmrCAB system and quorum sensing, and building a hardware to achieve multivirus detection"
 people_count_onsite: 4
 ---
@@ -24,5 +25,3 @@ people_count_onsite: 4
 ### A Diagnostics Project
 
 tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
-
-![team logo](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoS.png){: style="width:250px;float:left;padding-right:1rem"}
