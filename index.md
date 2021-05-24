@@ -36,9 +36,9 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 |Sponsor |Logo |
 |----|----|
 |[云锋基金 &nbsp; Yunfeng Capital](http://www.yfc.cn) |![logo of the sponsor](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponser-logo/yunfeng.svg) |
-|Content in the first column | Content in the second column column |
-|Content in the first column | Content in the second column column |
-|Content in the first column | Content in the second column column |
+|Content in the first column | Second column |
+|Content in the first column | ![logoR](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoR.png) |
+|Content in the first column | ![logoS](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoS.png) |
 
 <br/>
 
