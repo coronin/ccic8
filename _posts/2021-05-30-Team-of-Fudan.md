@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fudan"
+team_name: "Fudan"
 team_igem_id: "3790"
 team_logo: ""
 project_title: "tba tba tba"

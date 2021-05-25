@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <title>CCiC8 | Frontpage</title>
+    <title>CCiC8 | Logos</title>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -16,7 +16,7 @@
     <div class="wrapper">
       <header style="background:#469E99 url(https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL400corner.png) no-repeat bottom right;height:72px" {% unless site.description %} class="without-description" {% endunless %}>
         <h1>{{ site.title }}</h1>
-        <p>{{ site.description }}</p>
+        <p>Array of Logos</p>
         <!-- p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p -->
         <!-- ul>
         {% if site.show_downloads %}
@@ -30,28 +30,21 @@
 
       {{ content }}
 
-<table>
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>School</th>
-      <th>&nbsp;</th>
-      <th>Project Title</th>
-    </tr>
-  </thead>
-  <tbody>
-  {% for page in site.posts %}<tr>
-    <td style="font-size:80%;color:#B25195">{{ page.date | date_to_string }}</td>
-    <td><a href="{{ page.url }}">
-      <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" /></a></td>
-    <td><a href="{{ page.url }}" style="white-space:nowrap">{{ page.team_name }}<sup style="color:#B25195">{% if page.people_count_onsite %}{{ page.people_count_onsite }}{%
-  else %}^{% endif %}</sup></a>
-      {% if page.team_igem_id %}&#11157;&nbsp;<span class="igem_id"><a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">{{ page.team_igem_id }}</a></span>{% endif %}
-      </td>
-    <td>{{ page.project_title | markdownify | remove: '<p>' | remove: '</p>' }}</td>
-  </tr>{% endfor %}
-  </tbody>
-</table>
+<div class="schools-logo">
+  {% for page in site.posts %}
+  <div><a href="{{ page.url }}">
+       <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" style="width:100px" />
+     </a></div>
+  {% endfor %}
+</div>
+
+<div class="teams-logo">
+  {% for page in site.posts %}
+  <div><a href="{{ page.url }}">
+       <img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo == '' or page.team_logo == nil %}logoR{% else %}{{ page.team_name }}{% endif %}{% if page.team_logo != '1' %}{{ page.team_logo }}{% endif %}.png" style="width:100px" />
+     </a></div>
+  {% endfor %}
+</div>
 
       </section>
     </div><!-- .wrapper -->

@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <title>CCiC8 | Team {{ page.title }}</title>
+    <title>CCiC8 | Team {{ page.team_name }}</title>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header style="background:#469E99 url(https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL400corner.png) no-repeat bottom left;height:72px" {% unless site.description %} class="without-description" {% endunless %}>
-        <h1>Team: {{ page.title }}</h1>
+        <h1>Team: {{ page.team_name }}</h1>
         <!-- https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL.png -->
         <p>{{ site.description }}</p>
       </header>
@@ -40,10 +40,10 @@
 
       {{ content }}
 
-<p><img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo == '' or page.team_logo == nil %}logoS{% else %}{{ page.title }}{% endif %}.png" style="width:250px;float:left;padding-right:1rem" />
-<img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.title }}.png" style="width:250px" /></p><div style="clear:both"></div>
+<p><img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo == '' or page.team_logo == nil %}logoS{% else %}{{ page.team_name }}{% endif %}{% if page.team_logo != '1' %}{{ page.team_logo }}{% endif %}.png" style="width:250px;float:left;padding-right:1rem" />
+<img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" style="width:250px" /></p><div style="clear:both"></div>
 
-<p><a rel="external" href="https://2021.igem.org/Team:{{ page.title }}" target="_blank">https://2021.igem.org/Team:{{ page.title }}</a>
+<p><a rel="external" href="https://2021.igem.org/Team:{{ page.team_name }}" target="_blank">https://2021.igem.org/Team:{{ page.team_name }}</a>
 {% if page.team_igem_id %}<br/>
 <a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">https://igem.org/Team.cgi?id={{ page.team_igem_id }}</a><br/>
 <a rel="external" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K{{ page.team_igem_id }}000" target="_blank">http://parts.igem.org/wiki/index.php?title=Part:BBa_K{{ page.team_igem_id }}000</a>
@@ -52,8 +52,8 @@
       </section>
     </div><!-- .wrapper -->
     <footer>
-      <p>&copy;CCiC8 <a href="/">Homepage</a></p>
       <p>{{ site.url }}{{ page.url }}</p>
+      <p>&copy;CCiC8 &middot; <a href="/">Homepage</a></p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 

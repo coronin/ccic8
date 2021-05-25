@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BUCT"
+team_name: "BUCT"
 team_igem_id: "3875"
 team_logo: ""
 project_title: "Using fat to synthesis γ-Aminobutyric acid and 5-hydroxytryptophan in *E. coli*"

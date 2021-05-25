@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NMU_China"
+team_name: "NMU_China"
 team_igem_id: "4040"
 team_logo: ""
 project_title: "Chimeric antigen receptors mediate phagocytosis of SARS-CoV-2 pseudoviral particles by macrophages"
