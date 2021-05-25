@@ -37,9 +37,9 @@
   12. Therapeutics
   -->
 <p>Submitted on {{ page.date | date_to_string: "ordinal", "US" }}</p>
-{% if page.people_onsite_count != page.people_onsite_names | size %}<pre style="color:red">count {{ page.people_onsite_names | size }}, input {{ page.people_onsite_count }}</pre>{% endif %}
+{% if page.people_onsite_count != (page.people_onsite_names | size) %}<pre>Alert: count {{ page.people_onsite_names | size }}, input {{ page.people_onsite_count }}</pre>{% endif %}
 
-<h5>来自{{ page.team_school_name }}的{{ page.people_onsite_names | join ","
+<h5>来自{{ page.team_school_name }}的{{ page.people_onsite_names | join: "、"
 }}将出席第八届中国地区iGEMer交流会（2021年8月27至29日，中国上海）。</h5>
 
       {{ content }}
