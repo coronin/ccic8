@@ -31,9 +31,10 @@
       {{ content }}
 
 <h2>People in Teams</h2>
+{% assign counter = 0 %}
 {% for page in site.posts %}
-{% for a_name in page.people_onsite_names %}
-<p>{{ page.counter | plus:1 }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a> {{ a_name }}</p>
+{% for a_name in page.people_onsite_names %}{% assign counter=counter | plus:1 %}
+<p>{{ counter }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a> {{ a_name }}</p>
 {% endfor %}{% endfor %}
 
       </section>

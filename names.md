@@ -1,6 +1,5 @@
 ---
 layout: name
-counter: 0
 ---
 
 This year, 543 people will participate in CCiC8, not to mention 99 volunteers. Let's get things rolling.
