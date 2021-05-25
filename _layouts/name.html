@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-US"><!-- {{ site.time }} -->
+<html lang="zh-CN"><!-- {{ site.time }} -->
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <title>CCiC8 Logos</title>
+    <title>CCiC8 People</title>
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -30,27 +30,11 @@
 
       {{ content }}
 
-<h2>Schools</h2>
-<div class="schools-logo">
-  {% for page in site.posts %}
-  <div><a href="{{ page.url }}">
-       <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" />
-       <br/>{{ page.team_name }}
-     </a></div>
-  {% endfor %}
-</div>
-<div style="clear:both"></div>
-
-<h2>Teams</h2>
-<div class="teams-logo">
-  {% for page in site.posts %}
-  <div><a href="{{ page.url }}">
-       <img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo == '' or page.team_logo == nil %}logoR{% else %}{{ page.team_name }}{% endif %}{% if page.team_logo != '1' %}{{ page.team_logo }}{% endif %}.png" />
-       <br/>{{ page.team_name }}
-     </a></div>
-  {% endfor %}
-</div>
-<div style="clear:both"></div>
+<h2>People in Teams</h2>
+{% for page in site.posts %}
+{% for a_name in page.people_onsite_names %}
+<p>{{ page.team_school_name }} {{ a_name }}</p>
+{% endfor %}{% endfor %}
 
       </section>
     </div><!-- .wrapper -->
