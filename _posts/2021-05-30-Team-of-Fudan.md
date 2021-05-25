@@ -4,19 +4,14 @@ team_name: "Fudan"
 team_igem_id: "3790"
 team_logo: ""
 project_title: "tba tba tba"
-people_count_onsite: 12
+people_onsite_count: 12
+people_onsite_names: ["王五", "张三", "李四"]
+team_school_name: "复旦大学"
 ---
 
 
-来自复旦大学 https://kramdown.gettalong.org/quickref.html#tables
-
 ### Team Leader
 * 王五
-
-### People on Site
-* 王五
-* 张三
-* 李四
 
 ### Contact
 * email@domain.net
