@@ -33,7 +33,7 @@
 <div class="schools-logo">
   {% for page in site.posts %}
   <div><a href="{{ page.url }}">
-       <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" style="width:100px" />
+       <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" />
        <br/>{{ page.team_name }}
      </a></div>
   {% endfor %}
@@ -44,7 +44,7 @@
 <div class="teams-logo">
   {% for page in site.posts %}
   <div><a href="{{ page.url }}">
-       <img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo == '' or page.team_logo == nil %}logoR{% else %}{{ page.team_name }}{% endif %}{% if page.team_logo != '1' %}{{ page.team_logo }}{% endif %}.png" style="width:100px" />
+       <img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo == '' or page.team_logo == nil %}logoR{% else %}{{ page.team_name }}{% endif %}{% if page.team_logo != '1' %}{{ page.team_logo }}{% endif %}.png" />
        <br/>{{ page.team_name }}
      </a></div>
   {% endfor %}
