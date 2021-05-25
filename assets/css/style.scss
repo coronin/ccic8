@@ -7,7 +7,7 @@
 html {background: #2F3D64}
 header h1, a {color: #2F3D64}
 header {background: #469E99}
-header p {color: #E8903F; font-weight: bold; font-size: 133%}
+header p {color: #E8903F; font-weight: bold; font-size: 110%}
 footer, footer a {color: #E8903F}
 li {color: #B25195}
 td img {
@@ -15,5 +15,5 @@ td img {
   /* -webkit-filter: grayscale(100%);  Safari 6.0 - 9.0
   filter: grayscale(100%); */
 }
-.schools-logo div {float: left; padding-right:0.5rem }
-.teams-logo div {float: left; padding-right:0.5rem }
+.schools-logo div {float: left; padding-right:1rem }
+.teams-logo div {float: left; padding-right:1rem }
