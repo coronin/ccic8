@@ -32,10 +32,13 @@
 
 <h2>Schools</h2>
 <div class="schools-logo">
-  {% for page in site.posts %}
+
+  {% assign team_counter = 0 %}
+  {% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
+  {% for page in sorted_posts %}{% assign team_counter=team_counter | plus:1 %}
   <div><a href="{{ page.url }}">
        <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" />
-       <br/>{{ page.team_name }}
+       <br/>{{ team_counter }}.&nbsp;{{ page.team_name }}
      </a></div>
   {% endfor %}
 </div>
@@ -43,10 +46,11 @@
 
 <h2>Teams</h2>
 <div class="teams-logo">
-  {% for page in site.posts %}
+  {% assign team_counter = 0 %}
+  {% for page in sorted_posts %}{% assign team_counter=team_counter | plus:1 %}
   <div><a href="{{ page.url }}">
        <img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo == '' or page.team_logo == nil %}logoR{% else %}{{ page.team_name }}{% endif %}{% if page.team_logo != '1' %}{{ page.team_logo }}{% endif %}.png" />
-       <br/>{{ page.team_name }}
+       <br/>{{ team_counter }}.&nbsp;{{ page.team_name }}
      </a></div>
   {% endfor %}
 </div>
