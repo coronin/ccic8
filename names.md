@@ -2,7 +2,11 @@
 layout: name
 ---
 
-Stilling being developed.
+not ready
+
+not ready
+
+not ready
 
 This year, 543 people will participate in CCiC8, not to mention 99 volunteers. Let's get things rolling.
 

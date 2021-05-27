@@ -2,7 +2,11 @@
 layout: logo
 ---
 
-Stilling being developed.
+not ready
+
+not ready
+
+not ready
 
 This year, 123 teams will participate in CCiC8, not to mention 99 volunteers. Let's get things rolling.
 

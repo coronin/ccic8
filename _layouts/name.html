@@ -32,7 +32,7 @@
 
 <h2>People in Teams</h2>
 {% assign counter = 0 %}
-{% assign sorted_posts = site.posts | sort: 'date' %}
+{% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
 {% for page in sorted_posts %}
 <h4>{{ site.url }}{{ page.url }}</h4>
 {% for a_name in page.people_onsite_names %}{% assign counter=counter | plus:1 %}
