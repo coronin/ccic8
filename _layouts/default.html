@@ -45,7 +45,7 @@
     <td><a href="{{ page.url }}">
       <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" /></a></td>
     <td><a href="{{ page.url }}" style="white-space:nowrap">{{ page.team_name }}<sup style="color:#B25195">{% if page.people_onsite_count %}{{ page.people_onsite_count }}{%
-  else %}^{% endif %}</sup></a>{% if page.team_name.size < 5%}<br/>{% endif %}
+  else %}^{% endif %}</sup></a>
       {% if page.team_igem_id %}&#11157;&nbsp;<span class="igem_id"><a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">{{ page.team_igem_id }}</a></span>{% endif %}
       </td>
     <td>{{ page.project_title | markdownify | remove: '<p>' | remove: '</p>' }}</td>
