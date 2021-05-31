@@ -26,3 +26,20 @@ td img {
 .schools-logo div img, .teams-logo div img {
   width: 125px
 }
+
+/* https://flaviocopes.com/css-printing/ */
+@media print {
+  a[href*='//']:after {
+    content:" (" attr(href) ") ";
+    color: $primary;
+  }
+  @page {
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+  }
+  p {
+    page-break-inside: avoid;
+  }
+}
