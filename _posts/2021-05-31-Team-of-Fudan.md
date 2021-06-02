@@ -3,19 +3,19 @@ layout: post
 team_name: "Fudan"
 team_igem_id: "3790"
 team_logo: ""
-project_title: "tba tba tba"
+project_title: "Candida Camera"
 people_onsite_count: 12
-people_onsite_names: ["王五", "张三", "李四"]
+people_onsite_names: ["兰心","卢绍荣","池冠桥","刘任滨","蔡国楠","任卡娜","张超尘","颜裴松","曹翀闻","胡菲","苗润泽","龚诗涛","邵文成"]
 team_school_name: "复旦大学"
 ---
 
 
 ### Team Leader
-* 王五
+* 兰心
 
 ### Contact
-* email@domain.net
+* igem@fudan.edu.cn
 
-### An Open Project
+### A Diagnostics Project
 
 tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
