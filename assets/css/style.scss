@@ -31,7 +31,6 @@ td img {
 @media print {
   a[href*='//']:after {
     content:" (" attr(href) ") ";
-    color: $primary;
   }
   @page {
     margin-top: 2cm;
