@@ -41,4 +41,5 @@ td img {
   p {
     page-break-inside: avoid;
   }
+  p.not-print {display: none}
 }
