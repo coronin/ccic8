@@ -27,11 +27,12 @@ td img {
   width: 125px
 }
 
-/* https://flaviocopes.com/css-printing/ */
+/* https://flaviocopes.com/css-printing/
+     a[href*='//']:after {
+       content:" (" attr(href) ") ";
+     }
+ */
 @media print {
-  a[href*='//']:after {
-    content:" (" attr(href) ") ";
-  }
   @page {
     margin-top: 2cm;
     margin-bottom: 2cm;
