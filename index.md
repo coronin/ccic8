@@ -17,11 +17,10 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - [Application to Host CCiC8](https://shimo.im/docs/osqPvsJl3IcnSFlF/)
 - [Workbook for CCiC8](https://shimo.im/docs/r2SSnM80etAyLTP1/)
-- not ready [Sponsorship Brochure for CCiC8]()  <!-- https://shimo.im/docs/yaWIlYCmSN4ahjwu/ -->
+- [Sponsorship Brochure for CCiC8](https://shimo.im/docs/yaWIlYCmSN4ahjwu/)
 - not ready [Participate Handbook for CCiC8]()
 - [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)【欢迎个人以志愿者身份参加会议】
 - [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &#11157; [参会项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
-- not ready [CCiC8赞助商信息收集]()
 - not ready [CCiC8分享人信息收集]()
 
 
