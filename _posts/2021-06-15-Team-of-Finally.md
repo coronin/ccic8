@@ -16,7 +16,7 @@ team_school_name: "CCiC8组委会"
 ### Contact
 * ccic@fudan.edu.cn
 
-### An Open Project
+### Notice to all teams
 
 我们强烈介意也很希望所有的CCiC8参会队伍在6月15日之前提交相关信息。
 
