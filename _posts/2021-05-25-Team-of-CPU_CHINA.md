@@ -2,7 +2,7 @@
 layout: post
 team_name: "CPU_CHINA"
 team_igem_id: "3853"
-team_logo: ""
+team_logo: "1"
 project_title: "基于CRISPR/dCas9设计的可编程组装技术构建氧化聚乙烯(PE)塑料的MnP-AAO-HFB1复合系统"
 people_onsite_count: 20
 people_onsite_names: ["郑林雨","黄子洋","路维轩","管健翔","袁滢","沈泽楷","罗鹏","陈文韬","吕瞳","王端端","张佳","刘宫羽","袁梓涵","李笑莹","钱鸿颉","梁乐怡","刘衍锋","马如意","姚雨辰","王秦月"]
