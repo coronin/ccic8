@@ -1,6 +1,6 @@
 ---
 layout: post
-team_name: "CSU_CHINA(iDEC)"
+team_name: "CSU_CHINA-iDEC"
 team_igem_id: "4888"
 team_logo: ""
 project_title: "Peplib generator is all you need"
