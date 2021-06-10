@@ -18,6 +18,7 @@
         <h1>Team: {{ page.team_name }}</h1>
         <!-- https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL.png -->
         <p>{{ site.description }}</p>
+        <div style="float:middle"><img alt="URL qr" src="https://chart.actin.cn/chart?chf=bg,s,FFFFFF00&chs=64x64&cht=qr&chld=M|1&chl={{ site.url }}{{ page.url }}" /></div>
       </header>
       <section>
 <h2><br/>{{ page.project_title | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
