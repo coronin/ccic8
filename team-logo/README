@@ -1,0 +1,1 @@
+convert -fuzz 10% -transparent white A.png Atrans.png
