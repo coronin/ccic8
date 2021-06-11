@@ -2,7 +2,7 @@
 layout: post
 team_name: "CAU_China"
 team_igem_id: "3796"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "SSR: Saline-alkaline Soil Restorer"
 people_onsite_count: 8

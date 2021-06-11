@@ -2,7 +2,7 @@
 layout: post
 team_name: "CSU_CHINA-iDEC"
 team_igem_id: "4888"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "Peplib generator is all you need"
 people_onsite_count: 4

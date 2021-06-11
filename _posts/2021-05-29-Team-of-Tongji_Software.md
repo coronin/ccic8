@@ -2,7 +2,7 @@
 layout: post
 team_name: "Tongji_Software"
 team_igem_id: "3847"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "CRISPR/Cas_ONE help us understand the Bacteria-Phage"
 people_onsite_count: 14

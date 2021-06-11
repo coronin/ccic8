@@ -2,7 +2,7 @@
 layout: post
 team_name: "USTC"
 team_igem_id: "3912"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "AD早期检测"
 people_onsite_count: 7

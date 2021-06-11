@@ -2,7 +2,7 @@
 layout: post
 team_name: "Tongji_China"
 team_igem_id: "3823"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "AntiStench for Kitchen leftovers"
 people_onsite_count: 15

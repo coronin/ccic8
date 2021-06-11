@@ -2,7 +2,7 @@
 layout: post
 team_name: "CPU_CHINA"
 team_igem_id: "3853"
-team_logo: "1"
+team_logo_status: "1"
 team_insured: ""
 project_title: "基于CRISPR/dCas9设计的可编程组装技术构建氧化聚乙烯(PE)塑料的MnP-AAO-HFB1复合系统"
 people_onsite_count: 20

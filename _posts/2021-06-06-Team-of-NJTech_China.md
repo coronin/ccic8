@@ -2,7 +2,7 @@
 layout: post
 team_name: "NJTech_China"
 team_igem_id: "3234"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "Saving Rose Plan ：Design and Construction of Synthetic Microalgae-Yeast Consortia for Biosynthesis of Phenylethanol"
 people_onsite_count: 11

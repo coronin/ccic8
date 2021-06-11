@@ -2,7 +2,7 @@
 layout: post
 team_name: "ZJU-China"
 team_igem_id: "3730"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "病毒卫士：基于RNAi特异性的原发性肝癌靶向的基因重编辑溶瘤腺病毒疗法"
 people_onsite_count: 11

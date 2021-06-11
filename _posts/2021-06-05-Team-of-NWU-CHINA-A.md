@@ -2,7 +2,7 @@
 layout: post
 team_name: "NWU-CHINA-A"
 team_igem_id: "3722"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "The biosynthesis of *tyrain purple*"
 people_onsite_count: 12

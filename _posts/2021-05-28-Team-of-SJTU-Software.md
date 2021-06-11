@@ -2,7 +2,7 @@
 layout: post
 team_name: "SJTU-Software"
 team_igem_id: "3741"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "Platform of DNA Computation"
 people_onsite_count: 15

@@ -2,7 +2,7 @@
 layout: post
 team_name: "NWU-CHINA-B"
 team_igem_id: "3779"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "稀有人参皂苷的转化"
 people_onsite_count: 9

@@ -2,7 +2,7 @@
 layout: post
 team_name: "SYSU-CHINA"
 team_igem_id: "3960"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "CircRNA Assembly Factory"
 people_onsite_count: 10

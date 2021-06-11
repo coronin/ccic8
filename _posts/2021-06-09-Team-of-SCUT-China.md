@@ -2,7 +2,7 @@
 layout: post
 team_name: "SCUT-China"
 team_igem_id: "3772"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "Screening and Engineering of Promoters to Improve the Production of Nootkatone in *Saccharomyces cerevisiae*"
 people_onsite_count: 8

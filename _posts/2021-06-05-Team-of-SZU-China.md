@@ -2,7 +2,7 @@
 layout: post
 team_name: "SZU-China"
 team_igem_id: "3838"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "针对炎症性肠病的多个潜在靶点通过基因改造的工程菌进行*鸡尾酒式*治疗"
 people_onsite_count: 13

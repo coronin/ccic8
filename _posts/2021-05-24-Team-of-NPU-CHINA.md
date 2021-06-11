@@ -2,7 +2,7 @@
 layout: post
 team_name: "NPU-CHINA"
 team_igem_id: "3937"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "以枯草芽孢杆菌为载体的抗黄曲霉素富硒食品添加剂"
 people_onsite_count: 13

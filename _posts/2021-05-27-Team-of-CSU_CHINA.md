@@ -2,7 +2,7 @@
 layout: post
 team_name: "CSU_CHINA"
 team_igem_id: "3734"
-team_logo: ""
+team_logo_status: ""
 team_insured: ""
 project_title: "Sweet guard"
 people_onsite_count: 6

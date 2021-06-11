@@ -2,7 +2,7 @@
 layout: post
 team_name: "NJU-China"
 team_igem_id: "3756"
-team_logo: "1"
+team_logo_status: "1"
 team_insured: "1"
 project_title: "Targeted therapy of asthma by self-assembled small interfering RNA *in vivo*"
 people_onsite_count: 11
