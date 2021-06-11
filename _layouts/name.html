@@ -36,7 +36,9 @@
 {% for page in sorted_posts %}
 <h4>{{ site.url }}{{ page.url }}</h4>
 {% for a_name in page.people_onsite_names %}{% assign counter=counter | plus:1 %}
-<p>{{ counter }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a> {{ a_name }}</p>
+<p {% if page.team_insured == "1" %}style="font-weight:bold"{% endif %}>
+  {{ counter }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
+  {{ a_name }}</p>
 {% endfor %}{% endfor %}
 
       </section>
