@@ -3,6 +3,7 @@ layout: post
 team_name: "XJTU-China"
 team_igem_id: "3832"
 team_logo: ""
+team_insured: ""
 project_title: "色氨酸的高效生物合成"
 people_onsite_count: 3
 people_onsite_names: ["陈泓宇","董岱昀","周初筱"]

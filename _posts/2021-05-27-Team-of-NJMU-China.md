@@ -3,6 +3,7 @@ layout: post
 team_name: "NJMU-China"
 team_igem_id: "3837"
 team_logo: ""
+team_insured: ""
 project_title: "Stairway to Starlight:Treatment of autism with engineering probiotics"
 people_onsite_count: 3
 people_onsite_names: ["姜璇玮","王沁雯","王舒宇"]

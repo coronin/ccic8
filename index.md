@@ -22,6 +22,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)【欢迎个人以志愿者身份参加会议】
 - [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &rarr; &rarr; [参会项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
 - not ready [CCiC8分享人信息收集]()
+- [CCiC8期间的入校申请](https://www.wjx.cn/vj/r6cE82R.aspx)
 
 
 ## Important Dates

@@ -3,6 +3,7 @@ layout: post
 team_name: "Finally"
 team_igem_id: "4888"
 team_logo: ""
+team_insured: ""
 project_title: "Are you ready? Oops, still not registered, please read"
 people_onsite_count: 5
 people_onsite_names: ["王五", "张三"]

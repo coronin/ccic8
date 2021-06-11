@@ -1,23 +1,23 @@
 ---
 layout: post
-team_name: "NJTech_China"
-team_igem_id: "3234"
+team_name: "CAU_China"
+team_igem_id: "3796"
 team_logo: ""
 team_insured: ""
-project_title: "Saving Rose Plan ：Design and Construction of Synthetic Microalgae-Yeast Consortia for Biosynthesis of Phenylethanol"
-people_onsite_count: 11
-people_onsite_names: ["王宇娇","章益蜻","曹一平","汤昱萱","侯惠心","曾钰婷","戴翊飞","张文东","胡佳颖","刘庆莹","仲森林"]
-team_school_name: "南京工业大学"
+project_title: "SSR: Saline-alkaline Soil Restorer"
+people_onsite_count: 8
+people_onsite_names: ["李明阳","杨飞月","王仪炜","王波爽","张宇健","熊流畅","邬月新","郭思睿"]
+team_school_name: "中国农业大学"
 ---
 
 
 ### Team Leader
-* 王宇娇
-* 章益蜻
+* 李明阳
+* 杨飞月
 
 ### Contact
-* 1005172875@qq.com
+* 393811901@qq.com
 
-### A Manufacturing Project
+### An Environment Project
 
 tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 

@@ -3,6 +3,7 @@ layout: post
 team_name: "USTC"
 team_igem_id: "3912"
 team_logo: ""
+team_insured: ""
 project_title: "AD早期检测"
 people_onsite_count: 7
 people_onsite_names: ["曹耀中","施珂玥","张广为","薛睿豪","李浩儒","苏航","孙晨阳"]

@@ -3,6 +3,7 @@ layout: post
 team_name: "CSU_CHINA"
 team_igem_id: "3734"
 team_logo: ""
+team_insured: ""
 project_title: "Sweet guard"
 people_onsite_count: 6
 people_onsite_names: ["王泽元","赵星钧","陈姝亦","刘思彤","曾星辰","于承平"]

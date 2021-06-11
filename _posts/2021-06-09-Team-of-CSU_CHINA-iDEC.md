@@ -3,6 +3,7 @@ layout: post
 team_name: "CSU_CHINA-iDEC"
 team_igem_id: "4888"
 team_logo: ""
+team_insured: ""
 project_title: "Peplib generator is all you need"
 people_onsite_count: 4
 people_onsite_names: ["张彦哲","朱婉晴","刘诗雨","郑思悦"]

@@ -3,6 +3,7 @@ layout: post
 team_name: "Jilin_China"
 team_igem_id: "3883"
 team_logo: ""
+team_insured: ""
 project_title: "Mosquiet"
 people_onsite_count: 5
 people_onsite_names: ["侯阿澧","马健哲","曹天欣","刘宇琦","周正"]
