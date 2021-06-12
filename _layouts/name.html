@@ -36,9 +36,11 @@
 {% for page in sorted_posts %}
 <h4>{{ site.url }}{{ page.url }}</h4>
 {% for a_name in page.people_onsite_names %}{% assign counter=counter | plus:1 %}
-<p {% if page.team_insured == "1" %}style="font-weight:bold"{% endif %}>
+<p>
   {{ counter }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
-  {{ a_name }}</p>
+  {{ a_name }}
+  {% if page.team_insured == "1" %}<input type="checkbox" name="test" checked/><label for="test">Insured</label>{% endif %}
+  </p>
 {% endfor %}{% endfor %}
 
       </section>

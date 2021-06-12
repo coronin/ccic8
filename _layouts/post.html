@@ -39,8 +39,8 @@
 <p>Submitted on {{ page.date | date_to_string: "ordinal", "US" }}<br/>
   <img alt="{{ site.url }}" src="https://chart.actin.cn/chart?chs=64x64&cht=qr&chld=M|1&chl={{ site.url }}{{ page.url }}" /></p>
 
-<p>来自<span {% if page.team_insured == "1" %}style="font-weight:bold"{% endif %}>{{ page.team_school_name }}</span>的<span {% if page.team_insured == "1" %}style="font-weight:bold"{% endif %}>{{ page.people_onsite_names | join: "、"
-}}</span>将出席第八届中国地区iGEMer交流会（2021年8月27至29日，中国上海）。
+<p>来自<span {% if page.team_insured == "1" %}style="text-decoration:underline"{% endif %}>{{ page.team_school_name }}</span>的{{ page.people_onsite_names | join: "、"
+}}将出席第八届中国地区iGEMer交流会（2021年8月27至29日，中国上海）。
   {% if page.team_insured == "1" %}组委会已经收到来沪人员的意外险保单。{% endif %}
   </p>
 
