@@ -19,13 +19,14 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [Workbook for CCiC8](https://shimo.im/docs/r2SSnM80etAyLTP1/)
 - [Sponsorship Brochure for CCiC8](https://shimo.im/docs/yaWIlYCmSN4ahjwu/)
 - not ready [Participate Handbook for CCiC8]()
-- [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)【欢迎个人以志愿者身份参加会议】
 - [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &rarr; &rarr; [参会项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
-- not ready [CCiC8分享人信息收集]()
+- [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)【欢迎个人以志愿者身份参加会议】
+- not ready [CCiC8赞助人信息收集]()
 - [CCiC8期间的入校申请](https://www.wjx.cn/vj/r6cE82R.aspx)
 
 
 ## Important Dates
+- 2021/6/7 draft of [the sponsorship brochure](https://shimo.im/docs/yaWIlYCmSN4ahjwu/)
 - 2021/5/23 link to [submit participates info](https://www.wjx.cn/vj/hWQFAcz.aspx)
 - 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; [call for volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)
 - 2021/3/14 application submitted
