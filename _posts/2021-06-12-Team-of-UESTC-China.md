@@ -1,6 +1,6 @@
 ---
 layout: post
-team_name: "Jilin_China"
+team_name: "UESTC-China"
 team_igem_id: "3819"
 team_logo_status: ""
 team_insured: ""
