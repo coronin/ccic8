@@ -6,7 +6,7 @@ team_logo_status: ""
 team_insured: ""
 project_title: "未确定"
 people_onsite_count: 2
-people_onsite_names: ["丁泠薇","刘海洋","人员未定"]
+people_onsite_names: ["丁泠薇","刘海洋","其余未定"]
 team_school_name: "天津大学化工学院"
 ---
 
