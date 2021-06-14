@@ -13,6 +13,7 @@ footer, footer a {color: #E8903F}
 li {color: #B25195}
 td img {
   width: 64px;
+  height: 64px;
   vertical-align: middle;
   /* -webkit-filter: grayscale(100%);  Safari 6.0 - 9.0
   filter: grayscale(100%); */
@@ -25,7 +26,8 @@ td img {
   text-align: center
 }
 .schools-logo div img, .teams-logo div img {
-  width: 125px
+  width: 125px;
+  height: 125px
 }
 
 /* https://flaviocopes.com/css-printing/
