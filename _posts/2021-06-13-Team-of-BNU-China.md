@@ -4,7 +4,7 @@ team_name: "BNU-China"
 team_igem_id: "3805"
 team_logo_status: ""
 team_insured: ""
-project_title: "TBA"
+project_title: "未确定"
 people_onsite_count: 8
 people_onsite_names: ["陈乐然","唐悦","李雨默","姬润娟","陈珺玥","王运梓","张翰霖","李裕康"]
 team_school_name: "北京师范大学"
