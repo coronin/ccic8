@@ -15,7 +15,7 @@ team_school_name: "上海科技大学"
 * 苏睿
 
 ### Contact
-* 352373393@qq.com
+* 352373393 AT qq.com
 
 ### A Therapeutics Project
 

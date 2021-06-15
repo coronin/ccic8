@@ -16,7 +16,7 @@ team_school_name: "北京理工大学化学与化工学院"
 * 杨睆洲*
 
 ### Contact
-* sunyiyangvip@126.com
+* sunyiyangvip AT 126.com
 
 ### A Food &amp; Nutrition Project
 

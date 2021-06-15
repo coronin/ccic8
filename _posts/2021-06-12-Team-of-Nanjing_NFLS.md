@@ -15,7 +15,7 @@ team_school_name: "南京外国语学校"
 * 陆佳睿
 
 ### Contact
-* 2025293160@qq.com
+* 2025293160 AT qq.com
 
 ### An Energy Project
 

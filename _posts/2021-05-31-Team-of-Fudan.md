@@ -15,7 +15,7 @@ team_school_name: "复旦大学"
 * 兰心
 
 ### Contact
-* igem@fudan.edu.cn
+* igem AT fudan.edu.cn
 
 ### A Diagnostics Project
 

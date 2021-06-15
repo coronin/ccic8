@@ -15,7 +15,7 @@ team_school_name: "南京医科大学"
 * 姜璇玮
 
 ### Contact
-* wangshuyu2332@163.com
+* wangshuyu2332 AT 163.com
 
 ### A Therapeutics Project
 

@@ -16,7 +16,7 @@ team_school_name: "海军军医大学"
 * 朱梦梅
 
 ### Contact
-* 704317541@qq.com
+* 704317541 AT qq.com
 
 ### A Therapeutics Project
 

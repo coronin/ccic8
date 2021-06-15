@@ -15,7 +15,7 @@ team_school_name: "东北大学"
 * 吴自涵
 
 ### Contact
-* 1172553993@qq.com
+* 1172553993 AT qq.com
 
 ### A Diagnostics Project
 

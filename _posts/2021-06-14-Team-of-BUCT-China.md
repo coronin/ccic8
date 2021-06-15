@@ -15,7 +15,7 @@ team_school_name: "北京化工大学"
 * 张瀚艺*
 
 ### Contact
-* 1621479460@qq.com
+* 1621479460 AT qq.com
 
 ### A Food &amp; Nutrition Project
 

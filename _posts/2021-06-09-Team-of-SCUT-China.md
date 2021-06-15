@@ -15,7 +15,7 @@ team_school_name: "华南理工大学"
 * 曾徽
 
 ### Contact
-* 814856333@qq.com
+* 814856333 AT qq.com
 
 ### A Manufacturing Project
 

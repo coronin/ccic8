@@ -17,7 +17,7 @@ team_school_name: "中国海洋大学"
 * 李若萱
 
 ### Contact
-* oucigem@163.com
+* oucigem AT 163.com
 
 ### An Environment Project
 

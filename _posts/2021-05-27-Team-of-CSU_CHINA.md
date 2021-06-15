@@ -16,7 +16,7 @@ team_school_name: "中南大学"
 * 赵星钧
 
 ### Contact
-* 308970567@qq.com
+* 308970567 AT qq.com
 
 ### A Therapeutics Project
 

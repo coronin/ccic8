@@ -15,7 +15,7 @@ team_school_name: "浙江工业大学"
 * 王晓祺
 
 ### Contact
-* 262758046@qq.com
+* 262758046 AT qq.com
 
 ### A New Application Project
 

@@ -15,7 +15,7 @@ team_school_name: "南京大学"
 * 陶辰宇
 
 ### Contact
-* 1171716152@qq.com
+* 1171716152 AT qq.com
 
 ### A New Application Project
 

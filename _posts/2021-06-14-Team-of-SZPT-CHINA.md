@@ -15,7 +15,7 @@ team_school_name: "深圳职业技术学院"
 * 刘婉婷
 
 ### Contact
-* SZPTCHINA2021@163.com
+* SZPTCHINA2021 AT 163.com
 
 ### A Therapeutics Project
 

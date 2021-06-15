@@ -16,7 +16,7 @@ team_school_name: "西安交通大学"
 * 姚海龙*
 
 ### Contact
-* 2696331468@qq.com
+* 2696331468 AT qq.com
 
 ### A Food &amp; Nutrition Project
 

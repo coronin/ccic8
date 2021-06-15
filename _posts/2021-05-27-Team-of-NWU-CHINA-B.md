@@ -15,7 +15,7 @@ team_school_name: "西北大学"
 * 李佳程
 
 ### Contact
-* 1419576562@qq.com
+* 1419576562 AT qq.com
 
 ### A Fantastic Project
 

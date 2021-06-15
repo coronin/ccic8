@@ -16,7 +16,7 @@ team_school_name: "中国科学院大学"
 * 刘启涵
 
 ### Contact
-* C867469688@hotmail.com
+* C867469688 AT hotmail.com
 
 ### A Food &amp; Nutrition Project
 

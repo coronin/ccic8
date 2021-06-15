@@ -15,7 +15,7 @@ team_school_name: "天津大学生命科学学院"
 * 陆言骄
 
 ### Contact
-* tjusls_china@163.com
+* tjusls_china AT 163.com
 
 ### A New Application Project
 

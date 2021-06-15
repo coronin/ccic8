@@ -15,7 +15,7 @@ team_school_name: "南京农业大学"
 * 石国龙
 
 ### Contact
-* 1466036548@qq.com
+* 1466036548 AT qq.com
 
 ### An Environment Project
 

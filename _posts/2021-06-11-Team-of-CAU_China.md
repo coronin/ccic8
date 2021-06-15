@@ -16,7 +16,7 @@ team_school_name: "中国农业大学"
 * 杨飞月
 
 ### Contact
-* 393811901@qq.com
+* 393811901 AT qq.com
 
 ### An Environment Project
 

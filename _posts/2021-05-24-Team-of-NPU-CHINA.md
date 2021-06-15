@@ -15,7 +15,7 @@ team_school_name: "西北工业大学"
 * 张烜槊
 
 ### Contact
-* 1796164047@qq.com
+* 1796164047 AT qq.com
 
 ### A Food &amp; Nutrition Project
 

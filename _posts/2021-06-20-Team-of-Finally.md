@@ -15,7 +15,7 @@ team_school_name: "CCiC8组委会"
 * 王五
 
 ### Contact
-* ccic@fudan.edu.cn
+* ccic AT fudan.edu.cn
 
 ### Notice to all teams
 

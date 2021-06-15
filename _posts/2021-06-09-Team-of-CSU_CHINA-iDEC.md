@@ -15,7 +15,7 @@ team_school_name: "中南大学"
 * 张彦哲
 
 ### Contact
-* seanpeldomzhang@qq.com
+* seanpeldomzhang AT qq.com
 
 ### An Information Processing Project
 

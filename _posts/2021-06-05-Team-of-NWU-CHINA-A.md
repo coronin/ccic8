@@ -16,7 +16,7 @@ team_school_name: "西北大学生命科学学院"
 * 王若舟
 
 ### Contact
-* 2991088806@qq.com
+* 2991088806 AT qq.com
 
 ### A New Application Project
 

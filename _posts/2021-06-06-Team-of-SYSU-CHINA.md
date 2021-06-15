@@ -18,7 +18,7 @@ team_school_name: "中山大学"
 * 董情
 
 ### Contact
-* 2395479525@qq.com
+* 2395479525 AT qq.com
 
 ### A Foundational Advance Project
 

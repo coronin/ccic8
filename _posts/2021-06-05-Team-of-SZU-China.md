@@ -17,7 +17,7 @@ team_school_name: "深圳大学"
 * 余思洋
 
 ### Contact
-* 913385760@qq.com
+* 913385760 AT qq.com
 
 ### A Manufacturing Project
 

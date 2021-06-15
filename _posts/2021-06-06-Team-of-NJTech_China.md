@@ -16,7 +16,7 @@ team_school_name: "南京工业大学"
 * 章益蜻
 
 ### Contact
-* 1005172875@qq.com
+* 1005172875 AT qq.com
 
 ### A Manufacturing Project
 

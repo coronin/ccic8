@@ -15,7 +15,7 @@ team_school_name: "浙江大学"
 * 吴浩然
 
 ### Contact
-* haoranwu@zju.edu.cn
+* haoranwu AT zju.edu.cn
 
 ### A Therapeutics Project
 

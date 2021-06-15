@@ -16,7 +16,7 @@ team_school_name: "南方科技大学"
 * 屈泽阳
 
 ### Contact
-* 11812337@mail.sustech.edu.cn
+* 11812337 AT mail.sustech.edu.cn
 
 ### A Therapeutics Project
 

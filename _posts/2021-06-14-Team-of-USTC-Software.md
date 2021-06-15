@@ -15,7 +15,7 @@ team_school_name: "中国科学技术大学"
 * 沈蜀媛
 
 ### Contact
-* sue@mail.ustc.edu.cn
+* sue AT mail.ustc.edu.cn
 
 ### A Software Project
 

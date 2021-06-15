@@ -15,7 +15,7 @@ team_school_name: "上海交通大学"
 * 胡远洁
 
 ### Contact
-* rosesilver@sjtu.edu.cn
+* rosesilver AT sjtu.edu.cn
 
 ### A Software Project
 

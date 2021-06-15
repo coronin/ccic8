@@ -17,7 +17,7 @@ team_school_name: "北京师范大学"
 * 李雨默
 
 ### Contact
-* 1604942361@qq.com
+* 1604942361 AT qq.com
 
 ### A project is being drafted
 

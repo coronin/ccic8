@@ -16,7 +16,7 @@ team_school_name: "吉林大学"
 * 曹天欣
 
 ### Contact
-* 1759755543@qq.com
+* 1759755543 AT qq.com
 
 ### A New Application Project
 

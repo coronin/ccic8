@@ -16,7 +16,7 @@ team_school_name: "中国科学技术大学"
 * 曹耀中
 
 ### Contact
-* ch0703@mail.ustc.edu.cn
+* ch0703 AT mail.ustc.edu.cn
 
 ### A Diagnostics Project
 

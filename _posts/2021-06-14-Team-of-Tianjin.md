@@ -16,7 +16,7 @@ team_school_name: "天津大学化工学院"
 * 刘海洋
 
 ### Contact
-* 2429736514@qq.com
+* 2429736514 AT qq.com
 
 ### A Foundational Advance Project
 

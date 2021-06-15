@@ -17,7 +17,7 @@ team_school_name: "北京化工大学"
 * 莫淇茜*
 
 ### Contact
-* buct_igem@163.com
+* buct_igem AT 163.com
 
 ### A Therapeutics Project
 

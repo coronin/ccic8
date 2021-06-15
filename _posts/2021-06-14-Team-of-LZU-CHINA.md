@@ -15,7 +15,7 @@ team_school_name: "兰州大学"
 * 朱坤
 
 ### Contact
-* zhuk18@lzu.edu.cn
+* zhuk18 AT lzu.edu.cn
 
 ### A Therapeutics Project
 

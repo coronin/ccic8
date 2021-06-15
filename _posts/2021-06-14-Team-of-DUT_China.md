@@ -16,7 +16,7 @@ team_school_name: "大连理工大学"
 * 霍玉亮
 
 ### Contact
-* 1589318542@qq.com
+* 1589318542 AT qq.com
 
 ### An Environment Project
 

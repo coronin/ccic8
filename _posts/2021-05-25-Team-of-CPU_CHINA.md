@@ -16,7 +16,7 @@ team_school_name: "中国药科大学"
 * 黄子洋
 
 ### Contact
-* cpuchina2021@163.com
+* cpuchina2021 AT 163.com
 
 ### An Environment Project
 

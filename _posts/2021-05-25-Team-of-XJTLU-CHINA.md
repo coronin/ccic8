@@ -15,7 +15,7 @@ team_school_name: "西交利物浦大学"
 * 韩欣研
 
 ### Contact
-* igem@xjtlu.edu.cn
+* igem AT xjtlu.edu.cn
 
 ### A Diagnostics Project
 

@@ -16,7 +16,7 @@ team_school_name: "电子科技大学"
 * 胡雨薇
 
 ### Contact
-* 249468856@qq.com
+* 249468856 AT qq.com
 
 ### A New Application Project
 

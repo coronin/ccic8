@@ -17,7 +17,7 @@ team_school_name: "同济大学"
 * 赵艳萍
 
 ### Contact
-* zhaoyanping@tongji.edu.cn
+* zhaoyanping AT tongji.edu.cn
 
 ### A Software Project
 

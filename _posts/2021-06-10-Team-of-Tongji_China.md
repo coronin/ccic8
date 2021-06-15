@@ -16,7 +16,7 @@ team_school_name: "同济大学"
 * 林知凡
 
 ### Contact
-* linzhifanbio@163.com
+* linzhifanbio AT 163.com
 
 ### An Environment Project
 
