@@ -50,11 +50,15 @@
 
 <h2>参加CCiC8的学校/学院</h2>
 <ol>
+  {% assign team_names_string = '' %}
   {% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
   {% for page in sorted_posts %}
-  <li><a href="{{ page.url }}">
-    {{ page.team_school_name }}
-  </a></li>
+  {% if team_names_string contains page.team_school_name %}
+  <!-- {{ page.team_school_name }} {{ page.team_name }} -->
+  {% else %}
+  <li>{{ page.team_school_name }}</li><!-- {{ page.team_name }} -->
+  {% endif %}
+  {% assign team_names_string=team_names_string | append:page.team_school_name %}
   {% endfor %}
 </ol>
 
