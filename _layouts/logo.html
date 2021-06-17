@@ -48,6 +48,16 @@
 </div>
 <div style="clear:both"></div>
 
+<h2>参加CCiC8的学校/学院</h2>
+<ol>
+  {% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
+  {% for page in sorted_posts %}
+  <li><a href="{{ page.url }}">
+    {{ page.team_school_name }}
+  </a></li>
+  {% endfor %}
+</ol>
+
 <h2>Teams</h2>
 <div class="teams-logo">
   {% assign team_counter = 0 %}
