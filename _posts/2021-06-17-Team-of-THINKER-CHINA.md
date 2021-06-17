@@ -1,6 +1,6 @@
 ---
 layout: post
-team_name: "THINKER-CHINAs"
+team_name: "THINKER-CHINA"
 team_igem_id: "3984"
 team_logo_status: "1"
 team_insured: ""
