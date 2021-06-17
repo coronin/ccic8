@@ -45,8 +45,8 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 ## CCiC8 Volunteers
 
-| 张荣梅 | 胡海荣 | 蔡亮 | 田仕峥 | 姚奕阳 | 梁说今 | 姜晓慧 |
-| 黄昕瑜 | 陈炯霖 | 李承 | 张秋 | &nbsp;| &nbsp;| &nbsp;|
+| 胡海荣 | 张荣梅 | 蔡亮 | 田仕峥 | 姚奕阳 | 梁说今 | 姜晓慧 |
+| 黄昕瑜 | 陈炯霖 | 李承 | 张秋 | 钱吉 | &nbsp;| &nbsp;|
 
 <br/>
 

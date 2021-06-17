@@ -1,22 +1,22 @@
 ---
 layout: post
-team_name: "Nanjing_NFLS"
-team_igem_id: "3964"
-team_logo_status: ""
+team_name: "XHD-Wuhan-Pro-China"
+team_igem_id: "3925"
+team_logo_status: "1"
 team_insured: ""
-project_title: "Improved microbial fuel cells"
-people_onsite_count: 2
-people_onsite_names: ["雍晓雨","陆佳睿","其余未定"]
-team_school_name: "南京外国语学校"
+project_title: "漆酶"
+people_onsite_count: 9
+people_onsite_names: ["贾昊","田家","吴梦韩","张磊磊","田博","赵一清","肖晓","赵显庆","李蕾"]
+team_school_name: "兰州大学生命科学学院"
 ---
 
 
 ### Team Leader
-* 陆佳睿
+* 刘觐荣*
 
 ### Contact
-* 2025293160 AT qq.com
+* 1746921258 AT qq.com
 
-### A High-School Energy Project
+### A High-School Project
 
 tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 

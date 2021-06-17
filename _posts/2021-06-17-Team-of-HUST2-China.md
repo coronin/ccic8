@@ -1,22 +1,22 @@
 ---
 layout: post
-team_name: "Nanjing_NFLS"
-team_igem_id: "3964"
-team_logo_status: ""
+team_name: "HUST2-China"
+team_igem_id: "3712"
+team_logo_status: "1"
 team_insured: ""
-project_title: "Improved microbial fuel cells"
-people_onsite_count: 2
-people_onsite_names: ["雍晓雨","陆佳睿","其余未定"]
-team_school_name: "南京外国语学校"
+project_title: "Nanocleaner"
+people_onsite_count: 4
+people_onsite_names: ["李一凡","聂凤桐","梁川","陈泽乐"]
+team_school_name: "华中科技大学生命科学与技术学院"
 ---
 
 
 ### Team Leader
-* 陆佳睿
+* 李一凡
 
 ### Contact
-* 2025293160 AT qq.com
+* 1195626066 AT qq.com
 
-### A High-School Energy Project
+### A Diagnostics Project
 
 tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
