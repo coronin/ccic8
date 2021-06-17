@@ -1,6 +1,6 @@
 ---
 layout: post
-team_name: "WHU-China"
+team_name: "HUST-China"
 team_igem_id: "3711"
 team_logo_status: ""
 team_insured: ""
