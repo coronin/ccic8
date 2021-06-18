@@ -6,7 +6,7 @@ team_logo_status: "1"
 team_insured: ""
 project_title: "漆酶"
 people_onsite_count: 9
-people_onsite_names: ["贾昊","田家","吴梦韩","张磊磊","田博","赵一清","肖晓","赵显庆","李蕾"]
+people_onsite_names: ["刘觐荣","林洋","王捷","谢永菲","高莉","许可","欧鸿政","杨龙华","李娟娟","王欢"]
 team_school_name: "兰州大学生命科学学院"
 ---
 
