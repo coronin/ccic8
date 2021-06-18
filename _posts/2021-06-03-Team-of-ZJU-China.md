@@ -2,9 +2,10 @@
 layout: post
 team_name: "ZJU-China"
 team_igem_id: "3730"
-team_logo_status: ""
+team_logo_status: "1"
 team_insured: ""
-project_title: "病毒卫士：基于RNAi特异性的原发性肝癌靶向的基因重编辑溶瘤腺病毒疗法"
+project_title: "肝卫士: 基于增强型溶瘤腺病毒的特异性肝癌靶向治疗
+Liver Guard: Precise therapy of hepatocellular carcinoma based on engineered oncolytic adenovirus"
 people_onsite_count: 11
 people_onsite_names: ["吴浩然","毛卓","黄冠睿","张伯彦","程纪瓯","汪泳茵","雷江楚","胡泷双","汪奕晨","陈项境","黄余飞"]
 team_school_name: "浙江大学"
@@ -19,4 +20,6 @@ team_school_name: "浙江大学"
 
 ### A Therapeutics Project
 
-tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
+溶瘤病毒疗法是目前治疗癌症的新途径，但由于感染效率低、特异性不足、瘤内传播障碍等问题而未在临床上得到广泛应用。本项目通过对腺病毒进行合成生物学改造，增强病毒对肝癌细胞的特异性侵染、复制及瘤内传播，并加入免疫伪装机制，减少由于机体免疫造成的溶瘤病毒清除，实现原发性肝癌高效靶向治疗，为癌症的精准治疗提供科学依据。
+
+Oncolytic virus (OV) is a promising method to treat hepatocellular carcinoma, yet it has not been widely used clinically due to low infection efficiency, insufficient specificity, compromised intertumoral transmission and etc. Our project designed a genetically modified adenovirus using synthetic biology approach to overcome current problems with oncolytic virus. We also enables engineered adenovirus to escape from immunity trap with immunocamouflage, which increases the titre of viral infection. It is highly hoped that our project can give a new insight into precise oncolytic treatment of HCC.
