@@ -48,7 +48,7 @@ CCiC8将使用商用场馆【上海市杨浦区江湾体育场综合馆】为主
 * 2021/6/30之前的预定价：460元/间含早
 * 标间30间
 
-## 酒店预定请联系【曾楠】18825110151
+## 酒店预定请直接联系代理【曾楠】18825110151
 
 ![wechat w/ the hotel agent](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/zengnan.jpg)
 
