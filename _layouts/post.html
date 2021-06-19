@@ -39,7 +39,7 @@
   11. Software
   12. Therapeutics
   -->
-{% if page.team_igem_id != '4888' %}<p>Submitted on {{ page.date | date_to_string: "ordinal", "US" }}<br/>
+{% if page.team_igem_id != '4888' %}<!-- Submitted on --><p>{{ page.date | date_to_string: "ordinal", "US" }}<br/>
   <img alt="{{ site.url }}" src="https://chart.actin.cn/chart?chs=64x64&cht=qr&chld=M|1&chl={{ site.url }}{{ page.url }}" /></p>
 {% endif %}
 <p>来自<span {% if page.team_insured == '1' %}style="text-decoration:underline"{% endif %}>{{ page.team_school_name }}</span>的{{ page.people_onsite_names | join: "、"
@@ -64,7 +64,7 @@
     </div><!-- .wrapper -->
     <footer>
       <p>{{ site.url }}{{ page.url }}</p>
-      <p>&copy;CCiC8 &middot; <a href="/">Homepage</a></p>
+      <p>&copy;CCiC8<span class="not-print"> &middot; <a href="/">Homepage</a></span></p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 
