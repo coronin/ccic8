@@ -39,7 +39,7 @@
   {% for page in sorted_posts %}{% assign team_counter=team_counter | plus:1 %}
   <div><a href="{{ page.url }}">
        <img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo_status == '' or page.team_logo_status == nil %}logoR{% else %}{{ page.team_name }}{% endif %}{% if page.team_logo_status != '1' %}{{ page.team_logo_status }}{% endif %}.png" />
-       <br/><span style="font-size:67%{% if page.team_insured == "1" %};font-weight:bold{% endif %}">
+       <br/><span style="font-size:67%{% if page.team_insured == '1' %};font-weight:bold{% endif %}">
          {{ team_counter }}.&nbsp;{{ page.team_name }}</span>
      </a></div>
   {% endfor %}
@@ -68,7 +68,7 @@
   {% for page in sorted_posts %}{% assign team_counter=team_counter | plus:1 %}
   <div><a href="{{ page.url }}">
        <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" />
-       <br/><span style="font-size:67%{% if page.team_insured == "1" %};font-weight:bold{% endif %}">
+       <br/><span style="font-size:67%{% if page.team_insured == '1' %};font-weight:bold{% endif %}">
          {{ team_counter }}.&nbsp;{{ page.team_name }}</span>
      </a></div>
   {% endfor %}
