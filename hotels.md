@@ -2,9 +2,9 @@
 
 ## 主会场
 
-CCiC8将使用商用场馆【上海市杨浦区江湾体育场综合馆】为主会场。场内有一大一小包间，用于嘉宾休息及封闭讨论。场内为标准篮球场，拟放置200把座椅。四周的2000人观众席，将设计开放讨论空间。具体场地设计将在7月中公布。
+CCiC8将使用商用场馆【上海市杨浦区江湾体育场综合馆】为主会场。场内有一大一小包间，用于嘉宾休息及封闭讨论。场内为标准篮球场，拟放置200把座椅。四周的2000人观众席，将设计开放讨论空间。具体场地设计将在7月公布。
 
-主会场照片可参考[https://wx.zsxq.com/dweb2/index/group/15288841585112](https://wx.zsxq.com/dweb2/index/topic_detail/215114888155181)，就场馆布置的任何建议，欢迎在贴内留言。江湾体育场内有游泳、篮球、射箭等场地，会议期间能否/如何对参会人员开放，尚在沟通中；如有需求，也欢迎在贴内留言。
+主会场照片可参考[wx.zsxq.com/dweb2/index/group/15288841585112](https://wx.zsxq.com/dweb2/index/topic_detail/215114888155181)，就场地布置的任何建议，欢迎在贴内留言。江湾体育场内有游泳、篮球、射箭等场地，会议期间能否/如何对参会人员开放，尚在沟通中；如有需求，也欢迎在贴内留言。
 
 会议期间进入复旦校区，需提交[申请](https://www.wjx.cn/vj/r6cE82R.aspx)。届时将有若干次志愿者引导的校园行，请关注[首页](https://ccic8.site)的更新。
 
@@ -50,7 +50,7 @@ CCiC8将使用商用场馆【上海市杨浦区江湾体育场综合馆】为主
 
 ## 酒店预定请联系【曾楠】18825110151
 
-![wechat to the hotel agent](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/zengnan.jpg)
+![wechat w/ the hotel agent](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/zengnan.jpg)
 
     支付途径一
     中国工商银行杭州市中河支行
