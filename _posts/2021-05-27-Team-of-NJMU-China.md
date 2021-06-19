@@ -1,7 +1,7 @@
 ---
 layout: post
 team_name: "NJMU-China"
-team_igem_id: "3837"
+team_igem_id: "3873"
 team_logo_status: ""
 team_insured: ""
 project_title: "Stairway to Starlight:Treatment of autism with engineering probiotics"

@@ -1,7 +1,7 @@
 ---
 layout: post
 team_name: "Tianjin"
-team_igem_id: "3937"
+team_igem_id: "3939"
 team_logo_status: ""
 team_insured: ""
 project_title: "未确定"
