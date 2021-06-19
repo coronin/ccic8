@@ -1,6 +1,6 @@
 ---
 layout: post
-team_name: "HiZJU—China"
+team_name: "HiZJU-China"
 team_igem_id: "3978"
 team_logo_status: ""
 team_insured: ""
