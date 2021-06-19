@@ -52,12 +52,13 @@
 <ol>
   {% assign team_names_string = '' %}
   {% for page in sorted_posts %}
-  {% if team_names_string contains (page.team_school_name | append:',') %}
+  {% assign team_name_comma = page.team_school_name | append:',' %}
+  {% if team_names_string contains team_name_comma %}
   <!-- {{ page.team_school_name }} {{ page.team_name }} -->
   {% else %}
   <li>{{ page.team_school_name }}</li><!-- {{ page.team_name }} -->
   {% endif %}
-  {% assign team_names_string=(team_names_string | append:page.team_school_name | append:',') %}
+  {% assign team_names_string=team_names_string | append:team_name_comma %}
   {% endfor %}
 </ol><!-- {{ team_names_string }} -->
 
