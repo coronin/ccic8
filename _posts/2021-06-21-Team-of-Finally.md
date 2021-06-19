@@ -5,14 +5,11 @@ team_igem_id: "4888"
 team_logo_status: ""
 team_insured: ""
 project_title: "Are you ready? Oops, still not registered, please read"
-people_onsite_count: 5
-people_onsite_names: ["王五", "张三"]
+people_onsite_count: 0
+people_onsite_names: []
 team_school_name: "CCiC8组委会"
 ---
 
-
-### Team Leader
-* 王五
 
 ### Contact
 * ccic AT fudan.edu.cn
