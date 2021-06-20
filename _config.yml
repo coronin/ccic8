@@ -9,4 +9,4 @@ collections:
     permalink: /:title/
   volunteers:
     output: true
-    permalink: /:title/
+    permalink: /:title
