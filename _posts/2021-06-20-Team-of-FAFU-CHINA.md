@@ -2,7 +2,7 @@
 layout: post
 team_name: "FAFU-CHINA"
 team_igem_id: "3732"
-team_logo_status: ""
+team_logo_status: "1"
 team_insured: ""
 project_title: "基于基因工程方法构建微生物产香工厂"
 people_onsite_count: 8
