@@ -38,6 +38,7 @@
 {% assign counter = 0 %}
 {% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
 {% for page in sorted_posts %}
+{% if page.team_name != 'Finally' %}
 <h4>{{ site.url }}{{ page.url }}</h4>
 {% for a_name in page.people_onsite_names %}{% assign counter=counter | plus:1 %}
 <p>
@@ -46,7 +47,8 @@
   {% if page.team_insured == '1' %}<input type="checkbox" name="test" checked/><label for="test">Insured</label>{% endif %}
   </p>
 {% assign people_names_string=people_names_string | append:a_name %}
-{% endfor %}{% endfor %}
+{% endfor %}
+{% endif %}{% endfor %}
 
       </section>
     </div><!-- .wrapper -->
