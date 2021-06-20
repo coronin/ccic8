@@ -20,7 +20,7 @@
       <header style="background:#469E99 url(https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL400corner.png) no-repeat bottom right;height:72px" {% unless site.description %} class="without-description" {% endunless %}>
         <h1>Team: {{ page.team_name }}</h1>
         <!-- https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL.png -->
-        <p>{{ site.description }}</p>
+        <p class="post">{{ site.description }}</p>
       </header>
       <section>
 <h2><br/>{{ page.project_title | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
