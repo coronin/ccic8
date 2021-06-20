@@ -16,16 +16,50 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
+    <div class="wrapper print-escape">
       <header style="background:#469E99 url(https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL400corner.png) no-repeat bottom right;height:72px" {% unless site.description %} class="without-description" {% endunless %}>
-        <h1>Team: {{ page.team_name }}</h1>
+        <h1>Volunteer: {{ page.v_name_en }}</h1>
         <!-- https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL.png -->
-        <p>{{ site.description }}</p>
+        <p>{{ site.title }}, {{ site.description }}</p>
       </header>
       <section>
-<h2><br/>{{ page.v_name | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
 
-      {{ content }}
+<h2>Certificate of Voluntary Service</h2>
+
+<p>This is to certify that {{ page.v_name_en }} has been fully involved in and finished xxxx, jointly organized by xxxx, xxxx, and xxxx.<br/><br/>
+2021 August 31th<br/>
+<img alt="https://ccic.actin.cn/{{ page.url }}" src="https://chart.actin.cn/chart?chs=64x64&cht=qr&chld=M|1&chl=https://ccic.actin.cn/{{ page.url }}" /></p>
+
+<h2>志愿服务记录证明</h2>
+
+<table>
+  <tr>
+    <td rowspan="2">志愿者信息</td>
+    <td>姓名</td>
+    <td>{{ page.v_name }}</td>
+  </tr>
+  <tr>
+    <td>身份证</td>
+    <td><textarea></textarea></td>
+  </tr>
+  <tr>
+    <td>志愿者服务时间</td>
+    <td colspan="2">
+      统计日期：{{ page.v_dates }}<br/>
+      总计：{{ page.v_hours }}小时
+    </td>
+  </tr>
+  <tr>
+    <td>志愿服务内容</td>
+    <td colspan="2">{{ content }}</td>
+  </tr>
+  <tr>
+    <td>活动负责人</td>
+    <td colspan="2">卢大儒</td>
+  </tr>
+</table>
+
+<p>证明印章    证明印章    证明印章<br/>2021年8月31日</p>
 
       </section>
     </div><!-- .wrapper -->
