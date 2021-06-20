@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN"><!-- {{ site.time }} version {{ site.github.build_revision }} -->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>CCiC8 Volunteers</title>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header style="background:#469E99 url(https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL400corner.png) no-repeat bottom right;height:72px" {% unless site.description %} class="without-description" {% endunless %}>
+        <h1>Team: {{ page.team_name }}</h1>
+        <!-- https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL.png -->
+        <p>{{ site.description }}</p>
+      </header>
+      <section>
+<h2><br/>{{ page.v_name | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
+
+      {{ content }}
+
+      </section>
+    </div><!-- .wrapper -->
+    <footer>
+      <p>{{ site.url }}{{ page.url }}</p>
+      <p>&copy;CCiC8<span class="not-print"> &middot; <a href="/">Homepage</a></span></p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+    {% if site.google_analytics %}
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30563986-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+  </body>
+</html>

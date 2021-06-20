@@ -7,3 +7,6 @@ collections:
   posts:
     output: true
     permalink: /:title/
+  volunteers:
+    output: true
+    permalink: /:title/
