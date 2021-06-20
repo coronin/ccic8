@@ -1,22 +1,24 @@
 ---
 layout: post
-team_name: "XMU-China"
-team_igem_id: "3739"
+team_name: "FAFU-CHINA"
+team_igem_id: "3732"
 team_logo_status: ""
 team_insured: ""
-project_title: "*M.e.*rmaid"
-people_onsite_count: 12
-people_onsite_names: ["郑毅宪","耿世辰","王皓天","商志云","张雨豪","汤瑞瑶","杨文楷","陈紫岚","张子钰","刘博宇","曹湘蕾","郭妙婷"]
-team_school_name: "厦门大学"
+project_title: "基于基因工程方法构建微生物产香工厂"
+people_onsite_count: 8
+people_onsite_names: ["梁健翔","戚晓雯","叶杰辉","谭深滦","陈沁钰","袁谈","陈宇轩","李婧维"]
+team_school_name: "福建农林大学林学院"
 ---
 
 
 ### Team Leader
-* 郑毅宪
+* 梁健翔
+* 陈沁钰
+* 叶杰辉
 
 ### Contact
-* igem_xmu AT 163.com
+* ljx981207 AT 163.com
 
-### A New Application Project
+### A Foundational Advance Project
 
 tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
