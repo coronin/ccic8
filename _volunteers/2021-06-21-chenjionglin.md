@@ -7,6 +7,6 @@ v_hours: 100
 ---
 
 
-| &nbsp; | 第八届中国地区iGEMer交流会志愿者 |
-|r2 | daeasdeasde |
-|r3 | dsa3asd tite |
+| 担任 | 第八届中国地区iGEMer交流会志愿者 |
+| 负责 | daea sde asde |
+| 协助 | ds aasd ti te |
