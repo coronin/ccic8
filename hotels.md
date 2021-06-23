@@ -64,6 +64,7 @@ CCiC8将使用商用场馆【上海市杨浦区江湾体育场综合馆】为主
     4340 6115 4100 3500
     方田
 
+![组委会委托函](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/hotel-by-zengnan.jpg)
 
 ## Links related to CCiC8
 - [iGEM 2021 Global](https://igem2021global.slack.com)
