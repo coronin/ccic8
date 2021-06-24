@@ -54,6 +54,8 @@ CCiC8将使用商用场馆【上海市杨浦区江湾体育场综合馆】为主
 
 ![wechat w/ the hotel agent](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/zengnan.jpg)
 
+请先签订《委托旅行社代办合同》，再转账。
+
     支付途径一
     中国工商银行杭州市中河支行
     1202 0025 0990 0035 980
@@ -63,8 +65,6 @@ CCiC8将使用商用场馆【上海市杨浦区江湾体育场综合馆】为主
     中国建设银行杭州吴山支行梅花碑分理处
     4340 6115 4100 3500
     方田
-
-![组委会委托函](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/hotel-by-zengnan.jpg)
 
 ## Links related to CCiC8
 - [iGEM 2021 Global](https://igem2021global.slack.com)
