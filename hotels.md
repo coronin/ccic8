@@ -54,7 +54,7 @@ CCiC8将使用商用场馆【上海市杨浦区江湾体育场综合馆】为主
 
 ![wechat w/ the hotel agent](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/zengnan.jpg)
 
-请先签订《委托旅行社代办合同》，再转账。
+请先签订《委托旅行社代办合同》，再转账。企业信息可在[zj.gsxt.gov.cn](http://zj.gsxt.gov.cn)核验。
 
     支付途径一
     中国工商银行杭州市中河支行
