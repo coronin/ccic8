@@ -5,7 +5,7 @@ team_igem_id: "4888"
 team_logo_status: ""
 team_insured: ""
 project_title: "GBU-人工鲎试剂"
-people_onsite_count: 7
+people_onsite_count: 8
 people_onsite_names: ["张昆","王子墨","刘兆翔","刘一臻","李俊锡","赵鹤","孙智","张轩林"]
 team_school_name: "蓝晶实验室"
 ---
