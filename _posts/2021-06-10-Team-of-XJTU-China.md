@@ -2,7 +2,7 @@
 layout: post
 team_name: "XJTU-China"
 team_igem_id: "3832"
-team_logo_status: ""
+team_logo_status: "1"
 team_insured: ""
 project_title: "Efficient biosynthesis of tryptophan"
 people_onsite_count: 3
