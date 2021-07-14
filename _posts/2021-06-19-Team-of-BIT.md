@@ -7,7 +7,7 @@ team_insured: ""
 project_title: "ESC-Using MicroRNAs and Slipped Chip for Early Screening of Colorectal Cancer"
 people_onsite_count: 5
 people_onsite_names: ["周泰言","叶子帆","严梓涵","金灿","张昊天"]
-team_school_name: "北京理工大学"
+team_school_name: "北京理工大学生命学院"
 ---
 
 

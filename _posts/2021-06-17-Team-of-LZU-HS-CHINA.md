@@ -7,7 +7,7 @@ team_insured: ""
 project_title: "益生工程菌与乙醇降解"
 people_onsite_count: 10
 people_onsite_names: ["刘觐荣","吕梦","张逸杰","韩方","李艺民","张晓霞","吴欢晴","高欢","郑毅旻","李凌"]
-team_school_name: "兰州大学生命科学学院"
+team_school_name: "集思学院"
 ---
 
 
