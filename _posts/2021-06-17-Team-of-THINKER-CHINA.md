@@ -7,7 +7,7 @@ team_insured: ""
 project_title: "塑料降解"
 people_onsite_count: 9
 people_onsite_names: ["贾昊","田家","吴梦韩","张磊磊","田博","赵一清","肖晓","赵显庆","李蕾"]
-team_school_name: "兰州大学生命科学学院"
+team_school_name: "深圳思客教育科技"
 ---
 
 
