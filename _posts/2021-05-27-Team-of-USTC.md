@@ -5,15 +5,16 @@ team_igem_id: "3912"
 team_logo_status: ""
 team_insured: ""
 project_title: "AD早期检测"
-people_onsite_count: 7
-people_onsite_names: ["曹耀中","施珂玥","张广为","薛睿豪","李浩儒","苏航","孙晨阳"]
+people_onsite_count: 14
+people_onsite_names: ["曹耀中","张广为","薛睿豪","苏航","吴笑渔","李浩儒","叶润东","韩子骏","曹力文","夏姝严","谢文博","徐欣悦","孙晨阳","王涵"]
 team_school_name: "中国科学技术大学"
 ---
 
 
 ### Team Leader
-* 张广为
 * 曹耀中
+* 张广为
+* 薛睿豪
 
 ### Contact
 * ch0703 AT mail.ustc.edu.cn
