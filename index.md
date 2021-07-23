@@ -30,6 +30,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 
 ## Important Dates
+- 2021/8/17前通过邮件发送需制作的海报【尺寸不超过1.2m✕1.2m】，8/26前通过邮件发送用于展演ppt或在签到时提供U盘【之后不能更改，展演时上台直接播放，每个项目展演8分钟】
 - 2021/6/19 pricing of surrounding hotels updated at [/hotels](/hotels)
 - 2021/6/7 draft of [the sponsorship brochure](https://shimo.im/docs/yaWIlYCmSN4ahjwu/)
 - 2021/5/23 link to [submit participates info](https://www.wjx.cn/vj/hWQFAcz.aspx) (due by 2021/6/20 23:59)
