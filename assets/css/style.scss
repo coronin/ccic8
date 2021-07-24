@@ -18,7 +18,7 @@ td img {
   /* -webkit-filter: grayscale(100%);  Safari 6.0 - 9.0
   filter: grayscale(100%); */
 }
-tbody td:nth-child(2n+1), thead th:nth-child(2n+1) {color: #B25195}
+tr td:nth-child(2n+1) {color: #B25195}
 .schools-logo div, .teams-logo div {
   float: left;
   padding-right: 1rem;
