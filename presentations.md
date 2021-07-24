@@ -4,9 +4,9 @@ This page was updated on 2021/7/24.
 
 |---
 |Section 1 | Section 2 | Section 3|
-|:-:|:-:|:-:|
 |13:00-14:30 | 15:00-16:30 | 17:00-18:30 |
-|---
+|Manufacturing<br/>Software| Enviroment | Diagnostics<br/>Open|
+|:-:|:-:|:-:|
 |SZU-China| CPU_CHINA| NEU_CHINA|
 |NJTech_China|  Tongji_China|  XJTLU-CHINA|
 |SCUT-China| CAU_China| USTC|
@@ -18,16 +18,15 @@ This page was updated on 2021/7/24.
 |USTC-Software| SMS_Shenzhen|  GreatBay_United|
 |SYSU-Software| GDOU-China| NDNF_China|
 |===
-|Manufacturing<br/>Software| Enviroment | Diagnostics<br/>Open|
 
 
 ## 2021-8-28 8:30-12:00
 
 |---
 |Section 4 | Section 5|
-|:-:|:-:|
 |8:30-10:00 | 10:30-12:00 |
-|---
+|Therapeutics|Therapeutics<br/>Foundational&nbsp;Advance|
+|:-:|:-:|
 |BUCT|  WHU-China|
 |NMU_China| GreatBay_SCIE|
 |NJMU-China| Tsinghua|
@@ -39,16 +38,15 @@ This page was updated on 2021/7/24.
 |SUSTech_Shenzhen| FAFU-CHINA|
 |FZU-China| SCU-China|
 |===
-|Therapeutics|Therapeutics<br/>Foundational&nbsp;Advance|
 
 
 ## 2021-8-28 13:00-18:30
 
 |---
 |Section 6 | Section 7 | Section 8|
-|:-:|:-:|:-:|
 |13:00-14:30 | 15:00-16:30 | 17:00-18:30 |
-|---
+|Energy<br/>New&nbsp;Application| New&nbsp;Application| Others|
+|:-:|:-:|:-:|
 |Nanjing_NFLS|  NJU-China| NWU-CHINA-B|
 |CHINA-FAFU| Jilin_China| BNU-China|
 |NPU-CHINA| UESTC-China| LZU-HS-CHINA|
@@ -60,7 +58,6 @@ This page was updated on 2021/7/24.
 |ED-NAU| Whittle| &nbsp;|
 |NWU-CHINA-A| SZ-SHD| &nbsp;|
 |===
-|Energy<br/>New&nbsp;Application| New&nbsp;Application| Others|
 
 
 ## Links related to CCiC8
