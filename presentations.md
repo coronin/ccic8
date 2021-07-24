@@ -4,8 +4,7 @@ This page was updated on 2021/7/24.
 
 |---
 |Section 1 | Section 2 | Section 3|
-|13:00-14:30 | 15:00-16:30 | 17:00-18:30 |
-|Manufacturing<br/>Software| Enviroment | Diagnostics<br/>Open|
+|13:00-14:30<br/>Manufacturing<br/>Software| 15:00-16:30<br/>Enviroment | 17:00-18:30<br/>Diagnostics<br/>Open|
 |:-:|:-:|:-:|
 |SZU-China| CPU_CHINA| NEU_CHINA|
 |NJTech_China|  Tongji_China|  XJTLU-CHINA|
@@ -24,8 +23,7 @@ This page was updated on 2021/7/24.
 
 |---
 |Section 4 | Section 5|
-|8:30-10:00 | 10:30-12:00 |
-|Therapeutics|Therapeutics<br/>Foundational&nbsp;Advance|
+|8:30-10:00<br/>Therapeutics|10:30-12:00<br/>Therapeutics<br/>Foundational&nbsp;Advance|
 |:-:|:-:|
 |BUCT|  WHU-China|
 |NMU_China| GreatBay_SCIE|
@@ -44,8 +42,7 @@ This page was updated on 2021/7/24.
 
 |---
 |Section 6 | Section 7 | Section 8|
-|13:00-14:30 | 15:00-16:30 | 17:00-18:30 |
-|Energy<br/>New&nbsp;Application| New&nbsp;Application| Others|
+|13:00-14:30<br/>Energy<br/>New&nbsp;Application| 15:00-16:30<br/>New&nbsp;Application| 17:00-18:30<br/>Others|
 |:-:|:-:|:-:|
 |Nanjing_NFLS|  NJU-China| NWU-CHINA-B|
 |CHINA-FAFU| Jilin_China| BNU-China|
