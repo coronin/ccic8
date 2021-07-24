@@ -1,10 +1,10 @@
 This page was updated on 2021/7/24.
 
 ## 2021-8-27 13:00-18:30
-Section 1 | Section 2 | Section 3
-|----|----|----|
+
+|Section 1 | Section 2 | Section 3|
 |Manufacturing+Software| Enviroment | Diagnostics+Open|
-|----|----|----|
+|:--------:|:-------:|:--------:|
 |SZU-China| CPU_CHINA| NEU_CHINA|
 |NJTech_China|  Tongji_China|  XJTLU-CHINA|
 |SCUT-China| CAU_China| USTC|
@@ -17,10 +17,10 @@ Section 1 | Section 2 | Section 3
 |SYSU-Software| GDOU-China| NDNF_China|
 
 ## 2021-8-28 8:30-12:00
+
 |Section 4 | Section 5|
-|----|----|
 |Therapeutics|Therapeutics+Foundational&nbsp;Advance|
-|----|----|
+|:--------:|:-------:|
 |BUCT|  WHU-China|
 |NMU_China| GreatBay_SCIE|
 |NJMU-China| Tsinghua|
@@ -33,10 +33,10 @@ Section 1 | Section 2 | Section 3
 |FZU-China| SCU-China|
 
 ## 2021-8-28 13:00-18:30
+
 |Section 6 | Section 7 | Section 8|
-|----|----|----|
 |Energy+New&nbsp;Application| New&nbsp;Application| Others|
-|----|----|----|
+|:--------:|:-------:|:--------:|
 |Nanjing_NFLS|  NJU-China| NWU-CHINA-B|
 |CHINA-FAFU| Jilin_China| BNU-China|
 |NPU-CHINA| UESTC-China| LZU-HS-CHINA|
