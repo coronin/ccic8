@@ -69,6 +69,6 @@ CCiC8将使用商用场馆【上海市杨浦区江湾体育场综合馆】为主
 ## Links related to CCiC8
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - not ready [Participate Handbook for CCiC8]()
-- [CCiC8 Update Project Abstract](https://www.wjx.cn/vj/h4icxcB.aspx)
+- [Update Project Abstract](https://www.wjx.cn/vj/h4icxcB.aspx)
 - [Call for CCiC8 Volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)
 - [Permit to Enter into Fudan during CCiC8](https://www.wjx.cn/vj/r6cE82R.aspx)
