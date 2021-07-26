@@ -44,7 +44,7 @@
 <p>
   {{ counter }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
   {{ a_name }}{% if people_names_string contains a_name %}@同名@{% endif %}
-  {% if page.team_insured == '1' %}<input type="checkbox" name="test" checked/><label for="test">Insured</label>{% endif %}
+  {% if page.team_insured == '1' %}<input type="checkbox" name="test" checked/><label for="test">意外险</label>{% endif %}
   </p>
 {% assign people_names_string=people_names_string | append:a_name %}
 {% endfor %}

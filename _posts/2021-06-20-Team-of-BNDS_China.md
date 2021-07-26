@@ -3,8 +3,8 @@ layout: post
 team_name: "BNDS_China"
 team_igem_id: "3745"
 team_logo_status: ""
-team_insured: ""
-project_title: "High rhamnolipid production through *E. coli*"
+team_insured: "1"
+project_title: "Modified Metabolic Pathway for Rhamnolipids Synthesis using Directed Evolution"
 people_onsite_count: 9
 people_onsite_names: ["刘廷桢","林立涵","姜宇越","袁烁","唐佳祺","周子翔","宋健飞","陈怡安","宋林所"]
 team_school_name: "北京市十一学校"
@@ -18,6 +18,16 @@ team_school_name: "北京市十一学校"
 ### Contact
 * tingzhenliu AT brandeis.edu
 
-### A High-School project is being drafted
+### A High-School Manufacturing Project
 
-tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
+Rhamnolipid is an important family of biosurfactant, which has been extensively used in many application scenarios in place of its chemically synthesized counterparts.
+
+For commercial production, natural producer *Pseudomonas aeruginosa* is commonly used, whereas its pathogenicity is a huge problem. Safer chassis like *Escherichia coli* have been also engineered to produce rhamnolipids, but give less yield.
+
+To further increase the yield of rhamnolipids, we plan to perform directed evolution on rhamnolipid synthesis enzymes in *E. coli*, using an improved version of EvolvR mutator with higher mutation rate and larger mutation window.
+
+Based on rhamnosidase and rhamnose inducible promoter, a rhamnolipid sensor will be designed, enabling us to couple rhamnolipid biosynthesis to detectable output (e.g. fluorescent protein) or cell growth under certain selective pressure.
+
+Combining EvolvR mutator and rhamnolipid biosensor, Fluorescence-activated cell sorting (FACS) and continuous directed evolution will be performed to screen out enzyme variants with higher efficiency.
+
+Our work will not only increase the yield and safety of rhamnolipid production, but also have great potential to enhance the production of other bio-products sharing similar biosynthesis pathway.
