@@ -7,7 +7,7 @@ team_insured: "1"
 project_title: "肝卫士: 基于增强型溶瘤腺病毒的特异性肝癌靶向治疗
 Liver Guard: Precise therapy of hepatocellular carcinoma based on engineered oncolytic adenovirus"
 people_onsite_count: 6
-people_onsite_names: ["吴浩然","张伯彦","程纪瓯","雷江楚","胡泷双","王泳茵"]
+people_onsite_names: ["张伯彦","程纪瓯","胡泷双","吴浩然","雷江楚","王泳茵"]
 team_school_name: "浙江大学"
 ---
 
