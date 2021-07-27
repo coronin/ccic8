@@ -4,7 +4,7 @@ team_name: "BUCT"
 team_igem_id: "3875"
 team_logo_status: ""
 team_insured: "1"
-project_title: "Using fat to synthesis γ-Aminobutyric acid and 5-hydroxytryptophan in *E. coli*"
+project_title: "Delivering gaba and 5Htp through fatty acid lowering (DeliGHtFAL)"
 people_onsite_count: 4
 people_onsite_names: ["郑惠文","林羿妙","柯佳依","邹梓萱"]
 team_school_name: "北京化工大学"
