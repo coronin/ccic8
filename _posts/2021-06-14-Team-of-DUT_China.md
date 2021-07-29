@@ -5,14 +5,13 @@ team_igem_id: "3898"
 team_logo_status: ""
 team_insured: ""
 project_title: "未确定"
-people_onsite_count: 15
-people_onsite_names: ["杨君","霍玉亮","陈思哲","崔淇","刘原源","陈燕","周文婧","岳丽婷","张一涵","齐境萱","李宗奇","宋炳辉","周海月","马松林","金延铭"]
+people_onsite_count: 18
+people_onsite_names: ["杨君","崔淇","金延铭","宋炳辉","岳丽婷","马松林","齐境萱","周海月","顾沛航","方陶松","张轩硕","朴舒芃","侯灵杰","李宗奇","陈思哲","张恩泽","张一涵","周文婧","霍玉亮"]
 team_school_name: "大连理工大学"
 ---
 
 
 ### Team Leader
-* 陈思哲
 * 霍玉亮
 
 ### Contact
