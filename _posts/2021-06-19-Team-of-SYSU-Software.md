@@ -6,7 +6,7 @@ team_logo_status: ""
 team_insured: "1"
 project_title: "OptoLife: an Opto-controllable elements design Platform To build Opto-controllable Lives with InFinitE possibilities"
 people_onsite_count: 5
-people_onsite_names: ["莫若衡","金树林","梁彬润","曾宇康"，"黄靖云"]
+people_onsite_names: ["莫若衡","金树林","梁彬润","曾宇康","黄靖云"]
 team_school_name: "中山大学"
 ---
 
