@@ -6,7 +6,7 @@ team_logo_status: ""
 team_insured: "1"
 project_title: "Modified Metabolic Pathway for Rhamnolipids Synthesis using Directed Evolution"
 people_onsite_count: 9
-people_onsite_names: ["刘廷桢","林立涵","姜宇越","袁烁","唐佳祺","周子翔","宋健飞","陈怡安","宋林所"]
+people_onsite_names: ["刘廷桢","林立涵","姜宇越","袁烁","唐佳祺","周子翔","宋建飞","陈怡安","宋林所"]
 team_school_name: "北京市十一学校"
 ---
 
