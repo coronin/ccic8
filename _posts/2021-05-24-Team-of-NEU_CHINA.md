@@ -19,4 +19,4 @@ team_school_name: "东北大学"
 
 ### A Diagnostics Project
 
-Over the years, we have suffered from different kinds of corona-viruses, such as MERS, SARS-CoV-2 and so on. At present, the detection methods of these viruses are becoming mature, but prediction or detection systems for multiple corona-viruses is uncommon.   Our project intends to construct an engineering bacteria to detect MERS-CoV, HCoV-229E and SARS-CoV-2 at the same time. First, we used PmrCAB system to detect corona-virus protein. Then we used the  quorum sensing system based on *LuxI / LuxR* in *E. coli* and added HRP amplifier in order to amplify the signal. Finally, these three kinds of engineering bacteria are put in the same device to realize the multi virus detection in  environment.
+本项目以大肠杆菌为底盘，构建对MERS-CoV、HCoV-229E、SARS-CoV-2三种冠状病毒实现检测的工程菌。选用PmrCAB系统对冠状病毒S蛋白进行检测，使用大肠杆菌内的基于LuxI/LuxR的群体感应系统提高灵敏性，并加入hrp放大器以放大信号；最终将三种工程菌置于同一装置中实现多病毒检测。

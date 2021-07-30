@@ -3,10 +3,10 @@ layout: post
 team_name: "LZU-CHINA"
 team_igem_id: "3760"
 team_logo_status: ""
-team_insured: ""
+team_insured: "1"
 project_title: "基于CRISPPR-Cas13系统靶向抑制新冠病毒感染"
-people_onsite_count: 4
-people_onsite_names: ["朱坤","哈布尔","杨焠焱","甘梓澳"]
+people_onsite_count: 6
+people_onsite_names: ["朱坤","哈布尔","杨焠焱","甘梓澳","刘天锦","王芙蓉"]
 team_school_name: "兰州大学"
 ---
 

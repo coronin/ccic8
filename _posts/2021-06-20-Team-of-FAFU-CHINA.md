@@ -5,14 +5,14 @@ team_igem_id: "3732"
 team_logo_status: "1"
 team_insured: ""
 project_title: "基于基因工程方法构建微生物产香工厂"
-people_onsite_count: 8
-people_onsite_names: ["梁健翔","戚晓雯","叶杰辉","谭深滦","陈沁钰","袁谈","陈宇轩","李婧维"]
+people_onsite_count: 2
+people_onsite_names: ["叶杰辉","陈沁钰"]
 team_school_name: "福建农林大学林学院"
 ---
 
 
 ### Team Leader
-* 梁健翔
+* 梁健翔*
 * 陈沁钰
 * 叶杰辉
 
