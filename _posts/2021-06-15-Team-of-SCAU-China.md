@@ -3,10 +3,10 @@ layout: post
 team_name: "SCAU-China"
 team_igem_id: "4014"
 team_logo_status: ""
-team_insured: ""
+team_insured: "1"
 project_title: "Metal Eater-Super Environmental Guard"
-people_onsite_count: 13
-people_onsite_names: ["梁经伦","邹慧祯","王鼎钧","张云翔","欧兆霖","程寸土","郭臣凯","张新瑞","赵肖凡","鲍成斌","张凯彬","冯紫婷"]
+people_onsite_count: 10
+people_onsite_names: ["梁经伦","邹慧祯","张云翔","赵肖凡","程寸土","冯紫婷","王鼎钧","曾梓榕","欧兆霖","邹嘉桦"]
 team_school_name: "华南农业大学"
 ---
 

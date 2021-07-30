@@ -3,10 +3,10 @@ layout: post
 team_name: "ZJUT-China"
 team_igem_id: "3885"
 team_logo_status: ""
-team_insured: ""
+team_insured: "1"
 project_title: "RNA Biosenser"
-people_onsite_count: 15
-people_onsite_names: ["王晓祺","姚夏","沙廉杰","应昕源","张明蔚","李雪","沈宇轩","杨淳一","任相宜","蔡文凤","黄方茜","方健伟","王璐","张烨涛","汪逸欣"]
+people_onsite_count: 11
+people_onsite_names: ["葛璟燕","应昕源","钱威威","王晓祺","姚夏","张明蔚","沙廉杰","王璐","杨淳一","李雪","郑伊帆"]
 team_school_name: "浙江工业大学"
 ---
 
