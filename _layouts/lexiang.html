@@ -33,12 +33,11 @@
 
       {{ content }}
 
-<h2>以下队伍请加入K吧</h2>
+<h2>以下成员请加入K吧</h2>
 {% assign shuyuan_teams = "Fudan,Tsinghua" | split:',' %}
 {% assign sorted_posts = site.posts | where_exp:"item", "shuyuan_teams contains item.team_name" %}
 {% for page in sorted_posts %}
-{% if page.team_name != 'Finally' %}
-<h4>{{ site.url }}{{ page.url }}</h4>
+<!-- h4>{{ site.url }}{{ page.url }}</h4 -->
 {% for a_name in page.people_onsite_names %}
 <p>
   {{ page.team_name }} &middot; <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
@@ -46,7 +45,7 @@
   {% if page.team_insured == '1' %}<input type="checkbox" name="test" checked/><label for="test">意外险</label>{% endif %}
   </p>
 {% endfor %}
-{% endif %}{% endfor %}
+{% endfor %}
 
       </section>
     </div><!-- .wrapper -->
