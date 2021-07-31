@@ -33,9 +33,9 @@
 
       {{ content }}
 
-<h2>People in Teams</h2>
+<h2>以下队伍请加入K吧</h2>
 {% assign shuyuan_teams = ['Fudan', 'Tsinghua'] %}
-{% assign sorted_posts = site.posts | where_exp:"item", "item.team_name contains shuyuan_teams" %}
+{% assign sorted_posts = site.posts | where_exp:"item", "shuyuan_teams contains item.team_name" %}
 {% for page in sorted_posts %}
 {% if page.team_name != 'Finally' %}
 <h4>{{ site.url }}{{ page.url }}</h4>
