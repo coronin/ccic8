@@ -2,7 +2,7 @@
 layout: post
 team_name: "HUST-China"
 team_igem_id: "3711"
-team_logo_status: ""
+team_logo_status: "1"
 team_insured: "1"
 project_title: "Mr. Tony"
 people_onsite_count: 12
@@ -21,4 +21,4 @@ team_school_name: "华中科技大学生命科学与技术学院"
 
 ### A New Application Project
 
-tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
+Our project is about an engineering yeast which can secrete peptides and/or pigments to perm and dye people's hair without harm and it can also straight hair and decompose pigments. We also design a device and hair creams to use at daily lives. We hope our products can fly people's dreams which to pursuit beauty and make the elderly to color their hair without worries.
