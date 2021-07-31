@@ -34,16 +34,14 @@
       {{ content }}
 
 <h2>以下成员请加入K吧</h2>
-{% assign shuyuan_teams = "Fudan,Tsinghua" | split:',' %}
+{% assign shuyuan_teams = "SCU-China,Nanjing-China,XMU-China,SYSU-Software,NUDT_CHINA,HZAU-China,BNUZ-China,BIT,Tsinghua,ECUST_China,HUST2-China,HUST-China,WHU-China,USTC-Software,UCAS-China,Tianjin,TJUSLS_China,OUC-China,LZU-CHINA,DUT_China,BIT-China,BNU-China,UESTC-China,Jilin_China,XJTU-China,Tongji_China,CSU_CHINA-iDEC,NJU-China,SYSU-CHINA,NWU-CHINA-A,ZJU-China,Fudan,Tongji_Software,SJTU-Software,USTC,NWU-CHINA-B,CSU_CHINA,CPU_CHINA,NPU-CHINA" | split:',' %}
 {% assign sorted_posts = site.posts | where_exp:"item", "shuyuan_teams contains item.team_name" %}
 {% for page in sorted_posts %}
 <!-- h4>{{ site.url }}{{ page.url }}</h4 -->
 {% for a_name in page.people_onsite_names %}
 <p>
   {{ page.team_name }} &middot; <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
-  {{ a_name }}
-  {% if page.team_insured == '1' %}<input type="checkbox" name="test" checked/><label for="test">意外险</label>{% endif %}
-  </p>
+  {{ a_name }}</p>
 {% endfor %}
 {% endfor %}
 
