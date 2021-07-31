@@ -34,7 +34,7 @@
       {{ content }}
 
 <h2>以下队伍请加入K吧</h2>
-{% assign shuyuan_teams = ['Fudan', 'Tsinghua'] %}
+{% assign shuyuan_teams = "Fudan,Tsinghua" | split:',' %}
 {% assign sorted_posts = site.posts | where_exp:"item", "shuyuan_teams contains item.team_name" %}
 {% for page in sorted_posts %}
 {% if page.team_name != 'Finally' %}
