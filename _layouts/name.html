@@ -34,7 +34,7 @@
       {{ content }}
 
 <h2>People in Teams</h2>
-{% assign people_names_array = [] %}
+{% assign people_names_array = "" | split:',' %}
 {% assign counter = 0 %}
 {% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
 {% for page in sorted_posts %}

@@ -52,16 +52,15 @@
 
 <h2>参加CCiC8的学校/学院</h2>
 <ol>
-  {% assign team_names_array = [] %}
+  {% assign team_names_array = "" | split:',' %}
   {% for page in sorted_posts %}
   {% if page.team_name != 'Finally' %}
-  {% assign team_name_comma = page.team_school_name | append:',' %}
-  {% if team_names_array contains team_name_comma %}
+  {% if team_names_array contains page.team_school_name %}
   <!-- {{ page.team_school_name }} {{ page.team_name }} -->
   {% else %}
   <li>{{ page.team_school_name }}</li><!-- {{ page.team_name }} -->
   {% endif %}
-  {% assign team_names_array=team_names_array | push:team_name_comma %}
+  {% assign team_names_array=team_names_array | push:page.team_school_name %}
   {% endif %}{% endfor %}
 </ol><!-- {{ team_names_array }} -->
 
