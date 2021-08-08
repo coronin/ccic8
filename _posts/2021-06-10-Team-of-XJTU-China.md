@@ -13,7 +13,7 @@ team_school_name: "西安交通大学"
 
 ### Team Leader
 * 陈泓宇
-* 姚海龙*
+* 姚海龙
 
 ### Contact
 * 2696331468 AT qq.com
