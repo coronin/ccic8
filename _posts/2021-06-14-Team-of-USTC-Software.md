@@ -5,8 +5,8 @@ team_igem_id: "3958"
 team_logo_status: ""
 team_insured: "1"
 project_title: "未确定"
-people_onsite_count: 8
-people_onsite_names: ["沈蜀媛","王昊元","彭炫超","关佳旺","刘隆邦","楊星月","张闰昊","陈艺文"]
+people_onsite_count: 4
+people_onsite_names: ["沈蜀媛","王昊元","彭炫超","陈艺文"]
 team_school_name: "中国科学技术大学"
 ---
 

@@ -3,10 +3,10 @@ layout: post
 team_name: "XJTU-China"
 team_igem_id: "3832"
 team_logo_status: "1"
-team_insured: ""
-project_title: "Efficient biosynthesis of tryptophan"
+team_insured: "1"
+project_title: "Tryptophan iDream"
 people_onsite_count: 3
-people_onsite_names: ["陈泓宇","董岱昀","周初筱"]
+people_onsite_names: ["陈泓宇","姚海龙","周初筱"]
 team_school_name: "西安交通大学"
 ---
 
