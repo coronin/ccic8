@@ -3,6 +3,8 @@ markdown: kramdown
 title: CCiC8 - Conference of China iGEMer Community
 url: https://ccic8.site
 
+redirects: yes
+
 collections:
   posts:
     output: true

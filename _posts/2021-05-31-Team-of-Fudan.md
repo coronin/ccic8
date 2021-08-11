@@ -9,6 +9,10 @@ people_onsite_count: 13
 people_onsite_names: ["兰心","卢绍荣","池冠桥","刘任滨","蔡国楠","任卡娜","张超尘","颜裴松","曹翀闻","胡菲","苗润泽","龚诗涛","邵文成"]
 team_school_name: "复旦大学"
 promotion_video_URL: "https://video.igem.org/w/7nsVni1Fc2HXbewZ6U3quV"
+
+redirects:
+- /keiths/redirect/works
+- /or-use-this-one
 ---
 
 
