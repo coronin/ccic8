@@ -11,7 +11,7 @@ team_school_name: "复旦大学"
 promotion_video_URL: "https://video.igem.org/w/7nsVni1Fc2HXbewZ6U3quV"
 redirect_from:
   - /host
-  - /just-a-test/
+  - /3790
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-team_name: "ICJNFLS"
+team_name: "ICJFLS"
 team_igem_id: "3867"
 team_logo_status: ""
 team_insured: ""
@@ -12,7 +12,7 @@ team_school_name: "济南外国语学校"
 
 
 ### Team Leader
-* 刘子涵
+* 隋丰骏
 
 ### Contact
 * fengjunsui AT 163.com
