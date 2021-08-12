@@ -36,6 +36,7 @@
 
 {% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
 <h2>Teams</h2>
+<div style="margin-left:auto;margin-right:auto;padding-left: 1rem">
 <div class="teams-logo">
   {% assign team_counter = 0 %}
   {% for page in sorted_posts %}
@@ -47,7 +48,7 @@
          {{ team_counter }}.&nbsp;{{ page.team_name }}</span>
      </a></div>
   {% endif %}{% endfor %}
-</div>
+</div></div>
 <div style="clear:both"></div>
 
 <h2>参加CCiC8的学校/学院</h2>
@@ -65,8 +66,8 @@
 </ol><!-- {{ team_names_array }} -->
 
 <h2>Schools</h2>
+<div style="margin-left:auto;margin-right:auto;padding-left: 1rem">
 <div class="schools-logo">
-
   {% assign team_counter = 0 %}
   {% for page in sorted_posts %}
   {% if page.team_name != 'Finally' %}
@@ -77,7 +78,7 @@
          {{ team_counter }}.&nbsp;{{ page.team_name }}</span>
      </a></div>
   {% endif %}{% endfor %}
-</div>
+</div></div>
 <div style="clear:both"></div>
 <!-- sorted_posts -->
 
