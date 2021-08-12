@@ -36,7 +36,7 @@
 
 {% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
 <h2>Teams</h2>
-<div style="margin-left:auto;margin-right:auto;padding-left: 1rem">
+<div class="center-logos">
 <div class="teams-logo">
   {% assign team_counter = 0 %}
   {% for page in sorted_posts %}
@@ -66,7 +66,7 @@
 </ol><!-- {{ team_names_array }} -->
 
 <h2>Schools</h2>
-<div style="margin-left:auto;margin-right:auto;padding-left: 1rem">
+<div class="center-logos">
 <div class="schools-logo">
   {% assign team_counter = 0 %}
   {% for page in sorted_posts %}

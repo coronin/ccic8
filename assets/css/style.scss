@@ -19,6 +19,11 @@ td img {
   filter: grayscale(100%); */
 }
 tr td:nth-child(even) {color: #B25195}
+.center-logos {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem
+}
 .schools-logo div, .teams-logo div {
   float: left;
   padding-right: 1rem;
