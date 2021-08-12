@@ -51,6 +51,6 @@ tr td:nth-child(even) {color: #B25195}
   p {
     page-break-inside: avoid;
   }
-  p.not-print, span.not-print {display: none}
+  p.not-print, span.not-print, h1.not-print {display: none}
   div.print-escape {padding-top: 4rem}
 }
