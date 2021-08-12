@@ -19,6 +19,10 @@ td img {
   filter: grayscale(100%); */
 }
 tr td:nth-child(even) {color: #B25195}
+.schools-logo, .teams-logo {
+  margin-left: auto;
+  margin-right: auto;
+}
 .schools-logo div, .teams-logo div {
   float: left;
   padding-right: 1rem;
@@ -27,8 +31,8 @@ tr td:nth-child(even) {color: #B25195}
   text-align: center
 }
 .schools-logo div img, .teams-logo div img {
-  width: 125px;
-  height: 125px
+  width: 120px;
+  height: 120px
 }
 
 /* https://flaviocopes.com/css-printing/
