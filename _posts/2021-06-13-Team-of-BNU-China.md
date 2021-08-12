@@ -8,6 +8,7 @@ project_title: "A Cheater-proof System"
 people_onsite_count: 8
 people_onsite_names: ["陈乐然","唐悦","李雨默","姬润娟","陈珺玥","王运梓","张瀚霖","古秋辰"]
 team_school_name: "北京师范大学"
+promotion_video_URL: "https://video.igem.org/w/u5dDYRwud2bYMRoED2kfNa"
 ---
 
 
