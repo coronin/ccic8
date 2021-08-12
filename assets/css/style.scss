@@ -43,10 +43,10 @@ tr td:nth-child(even) {color: #B25195}
  */
 @media print {
   @page {
-    margin-top: 2cm;
+    margin-top: 2.2cm;
     margin-bottom: 2cm;
-    margin-left: 2cm;
-    margin-right: 2cm;
+    margin-left: 1.8cm;
+    margin-right: 1.8cm;
   }
   p {
     page-break-inside: avoid;
