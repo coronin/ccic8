@@ -57,10 +57,10 @@
 <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" style="width:250px" /></p><div style="clear:both"></div>
 
 <p>{% if page.team_igem_id != '4888' %}
-{% if page.promotion_video_URL %}<a rel="external" href="{{ page.promotion_video_URL }}" target="_blank">project&nbsp;promotion&nbsp;video</a><br/>
-{% endif %}<a rel="external" href="https://2021.igem.org/Team:{{ page.team_name }}" target="_blank">https://2021.igem.org/Team:{{ page.team_name }}</a><br/>
+<a rel="external" href="https://2021.igem.org/Team:{{ page.team_name }}" target="_blank">https://2021.igem.org/Team:{{ page.team_name }}</a><br/>
 <a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">https://igem.org/Team.cgi?id={{ page.team_igem_id }}</a><br/>
 <a rel="external" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K{{ page.team_igem_id }}000" target="_blank">http://parts.igem.org/wiki/index.php?title=Part:BBa_K{{ page.team_igem_id }}000</a>
+{% if page.promotion_video_URL %}<br/><a rel="external" href="{{ page.promotion_video_URL }}" target="_blank">project&nbsp;promotion&nbsp;video at igem.org</a>{% endif %}
 {% endif %}</p>
 
       </section>
