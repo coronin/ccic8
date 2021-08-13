@@ -57,7 +57,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 | 胡海荣 | 张荣梅 | 蔡亮   | 田仕峥 | 姚奕阳 | 梁说今 | 姜晓慧 |
 | 黄昕瑜 | 陈炯霖 | 李承   | 张秋   | 钱吉   | 李欣然 | 张靖淇 |
-| 李泓泳 | 刘一辰 | 韩丞治 | 鲁朝臻 | 褚婕妤 | &nbsp;|&nbsp;|
+| 李泓泳 | 刘一辰 | 韩丞治 | 鲁朝臻 | 褚婕妤 | 史珩 |&nbsp;|
 
 <br/>
 
