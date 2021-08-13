@@ -5,8 +5,8 @@ team_igem_id: "3822"
 team_logo_status: "1"
 team_insured: ""
 project_title: "Non-Invasive Diagnosis of Colorectal Cancer"
-people_attending_count: 5
-people_attending_names: ["李佳佳","刘婷","邱天","Selina Hu","张阳阳"]
+people_attending_count: 12
+people_attending_names: ["唐恺文","张阳阳","邱天","毛嘉乐","李太白","Selina Hu","吕国晶","刘海缘","马悦洋","姜舒馨","李佳佳","刘婷"]
 team_school_name: "一叶学院"
 promotion_video_URL: "https://video.igem.org/w/vRvCp5ZYbBqpBA2QCDN2Yc"
 ---
