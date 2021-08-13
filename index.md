@@ -25,13 +25,13 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [Sponsorship Brochure for CCiC8](https://shimo.im/docs/yaWIlYCmSN4ahjwu/)
 - not ready [Participate Handbook for CCiC8]()
 - [CCiC8参会意向](https://www.wjx.cn/vj/hWQFAcz.aspx) &rarr; &rarr; [参会项目信息](https://www.wjx.cn/vj/h4icxcB.aspx)
-- [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)【欢迎个人以志愿者身份参加会议】
+- [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)
 - [CCiC8期间的入校申请](https://www.wjx.cn/vj/r6cE82R.aspx)
 
 
 ## Important Dates
 - 2021/8/26前 通过邮件发送用于展演ppt或在签到时提供U盘【之后不能更改，展演时上台直接播放，每个项目展演8分钟】
-- 2021/8/17前 通过邮件发送需制作的海报【尺寸不超过1.2m✕1.2m，画面精度够的JPG即可】
+- 2021/8/20前 通过邮件发送需打印的线下参会时使用的海报【尺寸不超过1.2m✕1.2m，画面精度够的JPG即可】
 - 2021/8/7 公告：会议将按期举行。场地防疫细节等待相关部门确认及批准。请根据各自学校、单位、所在地区的疫情防控要求，决定是否参加线下活动。CCiC8将通过腾讯会议为无法到上海参会的队伍提供线上展示的机会。
 - 2021/7/24 onsite [/presentations](/presentations) schedule is live
 - 2021/6/19 pricing of surrounding hotels updated at [/hotels](/hotels)
