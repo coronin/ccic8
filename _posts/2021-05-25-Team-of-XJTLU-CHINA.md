@@ -2,12 +2,13 @@
 layout: post
 team_name: "XJTLU-CHINA"
 team_igem_id: "4054"
-team_logo_status: ""
+team_logo_status: "1"
 team_insured: "yes"
-project_title: "利用CRISPR/CAS改造噬菌体并在Cell-free环境中构建双稳态系统进行细菌的定量检测"
+project_title: "Dr. Phage"
 people_attending_count: 7
 people_attending_names: ["韩欣研","聂欣辰","杨翊伟","刘炜琳","杨书淮","陈力哲","王思淼"]
 team_school_name: "西交利物浦大学"
+promotion_video_URL: "https://video.igem.org/w/9j3Nw6jSXViYmAEkbKJ2D2"
 ---
 
 
@@ -19,4 +20,4 @@ team_school_name: "西交利物浦大学"
 
 ### A Diagnostics Project
 
-tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
+Our project is to use edited phages containing specific protein-coding genes to infect and lyse bacteria and release the transfected exogenous protein “luxR”, which can then activate downstream cell-free gene circuit and generate visual signal. At that time, the edited phage will not be assembled as the gene of related key protein is cleaved. The downstream circuit outputs binary signals indicating the bacteria concentration meets the national standard or not.
