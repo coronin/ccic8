@@ -3,7 +3,7 @@ layout: post
 team_name: "NWU-CHINA-A"
 team_igem_id: "3722"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "Construction of the *Escherichia coli* two-cell system for monarch violet dye production"
 people_attending_count: 7
 people_attending_names: ["魏岱旭","范铭沁","高琪","王若舟","李永珠","高展","叶少杰"]

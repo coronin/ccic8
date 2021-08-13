@@ -3,7 +3,7 @@ layout: post
 team_name: "NEU_CHINA"
 team_igem_id: "3896"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "Using PmrCAB system and quorum sensing, and building a hardware to achieve multivirus detection"
 people_attending_count: 3
 people_attending_names: ["吴自涵","郑培宣","王钦"]

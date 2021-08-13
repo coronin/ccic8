@@ -3,7 +3,7 @@ layout: post
 team_name: "IvyMaker-China"
 team_igem_id: "3829"
 team_logo_status: ""
-team_insured: "1"
+team_insured: "yes"
 project_title: "The Game-changing Magic Yeast"
 people_attending_count: 10
 people_attending_names: ["周菁","夏媛媛","江一达","张颖","Jonathan Shang-Hong Ji

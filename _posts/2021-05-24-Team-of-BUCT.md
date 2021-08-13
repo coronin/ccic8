@@ -3,7 +3,7 @@ layout: post
 team_name: "BUCT"
 team_igem_id: "3875"
 team_logo_status: ""
-team_insured: "1"
+team_insured: "yes"
 project_title: "Delivering gaba and 5Htp through fatty acid lowering (DeliGHtFAL)"
 people_attending_count: 4
 people_attending_names: ["郑惠文","林羿妙","柯佳依","邹梓萱"]

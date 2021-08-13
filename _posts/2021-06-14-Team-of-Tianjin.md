@@ -3,7 +3,7 @@ layout: post
 team_name: "Tianjin"
 team_igem_id: "3939"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "CREATE: Chromosome Released Eukaryocyte which is Active, Transitory and Environment-friendly"
 people_attending_count: 6
 people_attending_names: ["丁泠薇","常靖雨","黄宇","刘睿琦","杨宇辰","吴津荣"]

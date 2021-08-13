@@ -3,7 +3,7 @@ layout: post
 team_name: "XJTU-China"
 team_igem_id: "3832"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "Tryptophan iDream"
 people_attending_count: 3
 people_attending_names: ["陈泓宇","姚海龙","周初筱"]

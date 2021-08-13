@@ -3,7 +3,7 @@ layout: post
 team_name: "BIT-China"
 team_igem_id: "3852"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "Creative Tasting Officer -- Smart yeast knows your taste: Customized plant-derived food seasonings"
 people_attending_count: 5
 people_attending_names: ["孙一洋","靳晓菊","王宁","曹伟杰","陈泓铭"]

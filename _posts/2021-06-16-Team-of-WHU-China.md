@@ -3,7 +3,7 @@ layout: post
 team_name: "WHU-China"
 team_igem_id: "3763"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "Acneraser"
 people_attending_count: 4
 people_attending_names: ["毛丽然","闫旭","王国楷","张朝栋"]

@@ -3,7 +3,7 @@ layout: post
 team_name: "SYSU-CHINA"
 team_igem_id: "3960"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "CircRNA Assembly FacTory"
 people_attending_count: 6
 people_attending_names: ["余雅婷","赵炳喃","尹思思","邬雅萱","曾旭明","边靖元"]

@@ -3,7 +3,7 @@ layout: post
 team_name: "NPU-CHINA"
 team_igem_id: "3937"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "A Self-lysis Feed Toxinicide"
 people_attending_count: 6
 people_attending_names: ["张烜槊","李宇航","柴子涵","段苏扬","杨芳","何金亮"]

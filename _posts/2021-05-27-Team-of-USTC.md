@@ -3,7 +3,7 @@ layout: post
 team_name: "USTC"
 team_igem_id: "3912"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "AD early diagnosis"
 people_attending_count: 14
 people_attending_names: ["曹耀中","张广为","薛睿豪","苏航","吴笑渔","李浩儒","叶润东","韩子骏","曹力文","夏姝严","谢文博","徐欣悦","孙晨阳","王涵"]

@@ -3,7 +3,7 @@ layout: post
 team_name: "BNUZ-China"
 team_igem_id: "3784"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "*E. coli* Keen Doctor"
 people_attending_count: 19
 people_attending_names: ["刘路旋","杜芸希","卢嘉阳","黄昱","鄢碧莹","苏梓南","陆飞扬","李霁筱","范思婷","吴静怡","李浩","薛婉颖","阳文婧","高天雨","邓颖嘉","李健中","梁理骐","谭佳伦","叶舒丹"]

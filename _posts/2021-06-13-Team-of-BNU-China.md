@@ -3,7 +3,7 @@ layout: post
 team_name: "BNU-China"
 team_igem_id: "3805"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "A Cheater-proof System"
 people_attending_count: 8
 people_attending_names: ["陈乐然","唐悦","李雨默","姬润娟","陈珺玥","王运梓","张瀚霖","古秋辰"]

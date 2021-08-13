@@ -3,7 +3,7 @@ layout: post
 team_name: "UCAS-China"
 team_igem_id: "3817"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "DeCaffi"
 people_attending_count: 4
 people_attending_names: ["陈冠羽","刘昱辰","董可昕","黄枫凌"]

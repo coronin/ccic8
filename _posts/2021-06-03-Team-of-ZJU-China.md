@@ -3,7 +3,7 @@ layout: post
 team_name: "ZJU-China"
 team_igem_id: "3730"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "肝卫士: 基于增强型溶瘤腺病毒的特异性肝癌靶向治疗
 Liver Guard: Precise therapy of hepatocellular carcinoma based on engineered oncolytic adenovirus"
 people_attending_count: 6

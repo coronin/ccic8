@@ -3,7 +3,7 @@ layout: post
 team_name: "NWU-CHINA-B"
 team_igem_id: "3779"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "稀有人参皂苷的转化"
 people_attending_count: 4
 people_attending_names: ["李佳程","武阳","张雨柔","屈皓琪"]

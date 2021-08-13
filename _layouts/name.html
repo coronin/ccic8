@@ -44,7 +44,8 @@
 <p>
   {{ counter }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
   {{ a_name }}{% if people_names_array contains a_name %}@同名@{% endif %}
-  {% if page.team_insured == '1' %}<input type="checkbox" name="test" checked/><label for="test">意外险</label>{% endif %}
+  {% if page.team_insured == 'yes' %}<input type="checkbox" name="insured" checked/><label for="insured">已购保险</label>{% endif %}
+  {% if page.onsite_people_0812count %}<input type="checkbox" name="onsite" checked/><label for="onsite">线下参会</label>{% endif %}
   </p>
 {% assign people_names_array=people_names_array | push:a_name %}
 {% endfor %}

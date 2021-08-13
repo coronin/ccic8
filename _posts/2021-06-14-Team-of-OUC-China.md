@@ -3,7 +3,7 @@ layout: post
 team_name: "OUC-China"
 team_igem_id: "3777"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "ALLPASs"
 people_attending_count: 6
 people_attending_names: ["彭思源","李若萱","李皓羽","刘歌行","钟振波","张馥淳"]

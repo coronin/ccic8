@@ -3,7 +3,7 @@ layout: post
 team_name: "XJTLU-CHINA"
 team_igem_id: "4054"
 team_logo_status: ""
-team_insured: "1"
+team_insured: "yes"
 project_title: "利用CRISPR/CAS改造噬菌体并在Cell-free环境中构建双稳态系统进行细菌的定量检测"
 people_attending_count: 7
 people_attending_names: ["韩欣研","聂欣辰","杨翊伟","刘炜琳","杨书淮","陈力哲","王思淼"]

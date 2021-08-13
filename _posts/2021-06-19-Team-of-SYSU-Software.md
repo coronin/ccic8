@@ -3,7 +3,7 @@ layout: post
 team_name: "SYSU-Software"
 team_igem_id: "3976"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "*Phoebus*"
 people_attending_count: 5
 people_attending_names: ["莫若衡","金树林","梁彬润","曾宇康","黄靖云"]

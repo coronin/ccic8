@@ -3,7 +3,7 @@ layout: post
 team_name: "ZJUT-China"
 team_igem_id: "3885"
 team_logo_status: "1"
-team_insured: "1"
+team_insured: "yes"
 project_title: "A portable diagnostic platform based on RNA biomarkers"
 people_attending_count: 11
 people_attending_names: ["葛璟燕","应昕源","钱威威","王晓祺","姚夏","张明蔚","沙廉杰","王璐","杨淳一","李雪","郑伊帆"]
