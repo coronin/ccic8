@@ -13,10 +13,16 @@ header h1, header p {font-family: MyriadPro-Regular, "Myriad Pro Regular", Myria
 footer, footer a {color: #E8903F}
 li {color: #B25195}
 td img {
+  width: auto;
   height: 64px;
   vertical-align: middle;
   /* -webkit-filter: grayscale(100%);  Safari 6.0 - 9.0
   filter: grayscale(100%); */
+}
+td.team img {
+  width: 64px;
+  height: auto;
+  vertical-align: middle;
 }
 tr td:nth-child(even) {color: #B25195}
 .center-logos {
