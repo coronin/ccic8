@@ -43,13 +43,13 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 ## CCiC8 Sponsors
 
-|Sponsor |Logo |
-|----|----|
-|[云锋基金 &nbsp; Yunfeng Capital](http://www.yfc.cn) |![logo of yfc](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/yunfeng.png) |
-|[近岸蛋白质 &nbsp; Novoprotein](https://www.novoprotein.com.cn/) | ![logo of novoprotein](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/novoprotein.png) |
-|[华大基因 &nbsp; BGI](https://www.genomics.cn/) | ![logo of BGI](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/bgi.png) |
-| to be added | ![logoS](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoS.png) |
-| to be added | ![logoR](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoR.png) |
+|Sponsor |&nbsp; |Logo |
+|----|----|----|
+|[云锋基金](http://www.yfc.cn) |Yunfeng Capital |![logo of yfc](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/yunfeng.png) |
+|[近岸蛋白质](https://www.novoprotein.com.cn/) |Novoprotein |![logo of novoprotein](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/novoprotein.png) |
+|[华大基因](https://www.genomics.cn/) |BGI |![logo of BGI](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/bgi.png) |
+| to be added |english | ![logoS](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoS.png) |
+| to be added |english | ![logoR](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoR.png) |
 
 <br/>
 
