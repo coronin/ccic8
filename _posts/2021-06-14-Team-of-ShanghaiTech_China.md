@@ -5,10 +5,11 @@ team_igem_id: "3755"
 team_logo_status: "1"
 team_insured: ""
 project_title: "Mussel Inspired Biologically Operational Material (MIBOM)"
-people_onsite_count: 12
-people_onsite_names: ["苏睿","辛骐","李卓雅","贾涵迪","丁诗悦","孙静","王化雨","丁涵","王恺君","凌子傲","朱轶尧","苏舒摇"]
+people_attending_count: 12
+people_attending_names: ["苏睿","辛骐","李卓雅","贾涵迪","丁诗悦","孙静","王化雨","丁涵","王恺君","凌子傲","朱轶尧","苏舒摇"]
 team_school_name: "上海科技大学"
 promotion_video_URL: "https://video.igem.org/w/oBWPv3ZEZGkXiGfdwzXMpR"
+onsite_people_0812count: 8
 ---
 
 

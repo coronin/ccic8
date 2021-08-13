@@ -5,8 +5,8 @@ team_igem_id: "3990"
 team_logo_status: ""
 team_insured: ""
 project_title: "It's Gum!"
-people_onsite_count: 5
-people_onsite_names: ["李文希","赵一苇","龙凤","张榕莹","张绍熙"]
+people_attending_count: 5
+people_attending_names: ["李文希","赵一苇","龙凤","张榕莹","张绍熙"]
 team_school_name: "深圳中学"
 ---
 

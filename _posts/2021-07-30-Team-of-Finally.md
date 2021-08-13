@@ -5,8 +5,8 @@ team_igem_id: "4888"
 team_logo_status: ""
 team_insured: ""
 project_title: "Are you ready? Oops, still not registered, please read"
-people_onsite_count: 0
-people_onsite_names: []
+people_attending_count: 0
+people_attending_names: []
 team_school_name: "CCiC8组委会"
 ---
 

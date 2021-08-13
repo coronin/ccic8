@@ -5,8 +5,8 @@ team_igem_id: "3867"
 team_logo_status: ""
 team_insured: ""
 project_title: "淀粉制吸管"
-people_onsite_count: 6
-people_onsite_names: ["苏娜","任桂杰","隋丰骏","刘子涵","李大伟","黄雷"]
+people_attending_count: 6
+people_attending_names: ["苏娜","任桂杰","隋丰骏","刘子涵","李大伟","黄雷"]
 team_school_name: "济南外国语学校"
 ---
 

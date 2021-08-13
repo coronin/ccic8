@@ -5,9 +5,10 @@ team_igem_id: "3896"
 team_logo_status: "1"
 team_insured: "1"
 project_title: "Using PmrCAB system and quorum sensing, and building a hardware to achieve multivirus detection"
-people_onsite_count: 3
-people_onsite_names: ["吴自涵","郑培宣","王钦"]
+people_attending_count: 3
+people_attending_names: ["吴自涵","郑培宣","王钦"]
 team_school_name: "东北大学"
+onsite_people_0812count: 3
 ---
 
 

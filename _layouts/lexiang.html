@@ -38,7 +38,7 @@
 {% assign sorted_posts = site.posts | where_exp:"item", "shuyuan_teams contains item.team_name" %}
 {% for page in sorted_posts %}
 <!-- h4>{{ site.url }}{{ page.url }}</h4 -->
-{% for a_name in page.people_onsite_names %}
+{% for a_name in page.people_attending_names %}
 <p>
   {{ page.team_name }} &middot; <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
   {{ a_name }}</p>

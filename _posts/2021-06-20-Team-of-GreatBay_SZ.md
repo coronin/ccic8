@@ -5,8 +5,8 @@ team_igem_id: "3859"
 team_logo_status: "1"
 team_insured: ""
 project_title: "ARTAG"
-people_onsite_count: 4
-people_onsite_names: ["程冰静","吕澄","罗佳音","黄天懿"]
+people_attending_count: 4
+people_attending_names: ["程冰静","吕澄","罗佳音","黄天懿"]
 team_school_name: "蓝晶实验室"
 promotion_video_URL: "https://video.igem.org/w/8zjHA3pr7WnZMc4iiG8aiL"
 ---

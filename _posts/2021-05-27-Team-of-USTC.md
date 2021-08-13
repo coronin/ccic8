@@ -5,10 +5,11 @@ team_igem_id: "3912"
 team_logo_status: "1"
 team_insured: "1"
 project_title: "AD early diagnosis"
-people_onsite_count: 14
-people_onsite_names: ["曹耀中","张广为","薛睿豪","苏航","吴笑渔","李浩儒","叶润东","韩子骏","曹力文","夏姝严","谢文博","徐欣悦","孙晨阳","王涵"]
+people_attending_count: 14
+people_attending_names: ["曹耀中","张广为","薛睿豪","苏航","吴笑渔","李浩儒","叶润东","韩子骏","曹力文","夏姝严","谢文博","徐欣悦","孙晨阳","王涵"]
 team_school_name: "中国科学技术大学"
 promotion_video_URL: "https://video.igem.org/w/9KNJ1sXNyDKTH3S8sBY6vE"
+onsite_people_0812count: 14
 ---
 
 

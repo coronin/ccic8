@@ -5,9 +5,10 @@ team_igem_id: "3779"
 team_logo_status: "1"
 team_insured: "1"
 project_title: "稀有人参皂苷的转化"
-people_onsite_count: 4
-people_onsite_names: ["李佳程","武阳","张雨柔","屈皓琪"]
+people_attending_count: 4
+people_attending_names: ["李佳程","武阳","张雨柔","屈皓琪"]
 team_school_name: "西北大学化工学院"
+onsite_people_0812count: 4
 ---
 
 

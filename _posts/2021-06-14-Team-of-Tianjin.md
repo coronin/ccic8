@@ -5,10 +5,11 @@ team_igem_id: "3939"
 team_logo_status: "1"
 team_insured: "1"
 project_title: "CREATE: Chromosome Released Eukaryocyte which is Active, Transitory and Environment-friendly"
-people_onsite_count: 6
-people_onsite_names: ["丁泠薇","常靖雨","黄宇","刘睿琦","杨宇辰","吴津荣"]
+people_attending_count: 6
+people_attending_names: ["丁泠薇","常靖雨","黄宇","刘睿琦","杨宇辰","吴津荣"]
 team_school_name: "天津大学化工学院"
 promotion_video_URL: "https://video.igem.org/w/fBhJRd7irTLZTm7BPynGak"
+onsite_people_0812count: 6
 ---
 
 

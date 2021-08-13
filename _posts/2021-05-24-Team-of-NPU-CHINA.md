@@ -5,8 +5,8 @@ team_igem_id: "3937"
 team_logo_status: "1"
 team_insured: "1"
 project_title: "A Self-lysis Feed Toxinicide"
-people_onsite_count: 6
-people_onsite_names: ["张烜槊","李宇航","柴子涵","段苏扬","杨芳","何金亮"]
+people_attending_count: 6
+people_attending_names: ["张烜槊","李宇航","柴子涵","段苏扬","杨芳","何金亮"]
 team_school_name: "西北工业大学"
 promotion_video_URL: "https://video.igem.org/w/cmwUL7jjCqRsb4gqYh19Bu"
 ---

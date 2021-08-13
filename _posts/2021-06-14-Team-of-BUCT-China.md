@@ -5,8 +5,8 @@ team_igem_id: "3742"
 team_logo_status: ""
 team_insured: ""
 project_title: "Future Food on Mars"
-people_onsite_count: 16
-people_onsite_names: ["屈云凤","王婷","黄斯佳","朱翊凡","李雨蒴","杨昕晨","徐海川","杨洋","朱馨仪","杨斯潆","马昕毓","谢曦雯","吕文涛","张抒雨","张鑫伟","张炜亮"]
+people_attending_count: 16
+people_attending_names: ["屈云凤","王婷","黄斯佳","朱翊凡","李雨蒴","杨昕晨","徐海川","杨洋","朱馨仪","杨斯潆","马昕毓","谢曦雯","吕文涛","张抒雨","张鑫伟","张炜亮"]
 team_school_name: "北京化工大学"
 ---
 

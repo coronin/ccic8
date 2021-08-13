@@ -5,8 +5,8 @@ team_igem_id: "3873"
 team_logo_status: "1"
 team_insured: ""
 project_title: "Stairway to starlight: Maternal prevention and offspring treatment of autism induced by maternal infection during pregnancy"
-people_onsite_count: 3
-people_onsite_names: ["姜璇玮","王沁雯","王舒宇"]
+people_attending_count: 3
+people_attending_names: ["姜璇玮","王沁雯","王舒宇"]
 team_school_name: "南京医科大学"
 promotion_video_URL: "https://video.igem.org/w/wHC2UUhKevLbbU7zfEz4SC"
 ---

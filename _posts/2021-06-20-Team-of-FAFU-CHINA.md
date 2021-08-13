@@ -5,9 +5,10 @@ team_igem_id: "3732"
 team_logo_status: "1"
 team_insured: "1"
 project_title: "基于基因工程方法构建微生物产香工厂"
-people_onsite_count: 2
-people_onsite_names: ["叶杰辉","陈沁钰"]
+people_attending_count: 2
+people_attending_names: ["叶杰辉","陈沁钰"]
 team_school_name: "福建农林大学林学院"
+onsite_people_0812count: 2
 ---
 
 

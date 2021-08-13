@@ -5,10 +5,11 @@ team_igem_id: "3970"
 team_logo_status: "1"
 team_insured: ""
 project_title: "Magic Blue"
-people_onsite_count: 6
-people_onsite_names: ["陆宇晴","张博雅","姜皓","叶婷","李萌华","左帅德"]
+people_attending_count: 6
+people_attending_names: ["陆宇晴","张博雅","姜皓","叶婷","李萌华","左帅德"]
 team_school_name: "华东理工大学"
 promotion_video_URL: "https://video.igem.org/w/nMCYSPcaEtS4CFKLZNmVsb"
+onsite_people_0812count: 6
 ---
 
 

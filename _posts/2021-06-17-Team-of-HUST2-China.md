@@ -5,8 +5,8 @@ team_igem_id: "3712"
 team_logo_status: "1"
 team_insured: ""
 project_title: "Nanocleaner"
-people_onsite_count: 4
-people_onsite_names: ["李一凡","聂凤桐","梁川","陈泽乐"]
+people_attending_count: 4
+people_attending_names: ["李一凡","聂凤桐","梁川","陈泽乐"]
 team_school_name: "华中科技大学生命科学与技术学院"
 ---
 

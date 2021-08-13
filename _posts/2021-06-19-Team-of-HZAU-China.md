@@ -5,8 +5,8 @@ team_igem_id: "3733"
 team_logo_status: ""
 team_insured: ""
 project_title: "Puppyicare"
-people_onsite_count: 4
-people_onsite_names: ["孙元辉","韩振昊","聂江来","吴子云"]
+people_attending_count: 4
+people_attending_names: ["孙元辉","韩振昊","聂江来","吴子云"]
 team_school_name: "华中农业大学"
 ---
 

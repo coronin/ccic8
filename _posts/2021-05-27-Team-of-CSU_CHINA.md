@@ -5,10 +5,11 @@ team_igem_id: "3734"
 team_logo_status: "1"
 team_insured: ""
 project_title: "Sweet Guard"
-people_onsite_count: 6
-people_onsite_names: ["王泽元","赵星钧","陈姝亦","刘思彤","曾星辰","于承平"]
+people_attending_count: 6
+people_attending_names: ["王泽元","赵星钧","陈姝亦","刘思彤","曾星辰","于承平"]
 team_school_name: "中南大学"
 promotion_video_URL: "https://video.igem.org/w/ggEtsPspZBPGat7y4GyWbB"
+onsite_people_0812count: 6
 ---
 
 

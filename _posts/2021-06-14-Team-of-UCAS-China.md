@@ -5,9 +5,10 @@ team_igem_id: "3817"
 team_logo_status: "1"
 team_insured: "1"
 project_title: "DeCaffi"
-people_onsite_count: 4
-people_onsite_names: ["陈冠羽","刘昱辰","董可昕","黄枫凌"]
+people_attending_count: 4
+people_attending_names: ["陈冠羽","刘昱辰","董可昕","黄枫凌"]
 team_school_name: "中国科学院大学"
+onsite_people_0812count: 4
 ---
 
 

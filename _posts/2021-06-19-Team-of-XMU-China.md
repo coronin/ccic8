@@ -5,8 +5,8 @@ team_igem_id: "3739"
 team_logo_status: ""
 team_insured: ""
 project_title: "*M.e.*rmaid"
-people_onsite_count: 5
-people_onsite_names: ["郑毅宪","耿世辰","杨文楷","张子钰","刘博宇"]
+people_attending_count: 5
+people_attending_names: ["郑毅宪","耿世辰","杨文楷","张子钰","刘博宇"]
 team_school_name: "厦门大学"
 ---
 

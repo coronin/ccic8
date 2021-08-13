@@ -5,9 +5,10 @@ team_igem_id: "3760"
 team_logo_status: ""
 team_insured: "1"
 project_title: "基于CRISPPR-Cas13系统靶向抑制新冠病毒感染"
-people_onsite_count: 6
-people_onsite_names: ["朱坤","哈布尔","杨焠焱","甘梓澳","刘天锦","王芙蓉"]
+people_attending_count: 6
+people_attending_names: ["朱坤","哈布尔","杨焠焱","甘梓澳","刘天锦","王芙蓉"]
 team_school_name: "兰州大学"
+onsite_people_0812count: 6
 ---
 
 
