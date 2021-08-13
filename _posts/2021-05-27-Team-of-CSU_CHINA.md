@@ -4,10 +4,11 @@ team_name: "CSU_CHINA"
 team_igem_id: "3734"
 team_logo_status: "1"
 team_insured: ""
-project_title: "Sweet guard"
+project_title: "Sweet Guard"
 people_onsite_count: 6
 people_onsite_names: ["王泽元","赵星钧","陈姝亦","刘思彤","曾星辰","于承平"]
 team_school_name: "中南大学"
+promotion_video_URL: "https://video.igem.org/w/ggEtsPspZBPGat7y4GyWbB"
 ---
 
 
@@ -20,5 +21,4 @@ team_school_name: "中南大学"
 
 ### A Therapeutics Project
 
-Over the years, we have suffered from different kinds of corona-viruses, such as MERS, SARS-CoV-2 and so on. At present, the detection methods of these viruses are becoming mature, but prediction or detection systems for multiple corona-viruses is uncommon.  
-Our project intends to construct an engineering bacteria to detect MERS-CoV, HCoV-229E and SARS-CoV-2 at the same time. First, we used PmrCAB system to detect corona-virus protein. Then we used the  quorum sensing system based on *LuxI / LuxR* in *E. coli* and added HRP amplifier in order to amplify the signal. Finally, these three kinds of engineering bacteria are put in the same device to realize the multi virus detection in  environment.
+Our project aims to find a new method of treating type 1 diabetes with the help of synthetic biology. Our engineered cells will be implanted subcutaneously by mature embedding technology. Blue light activates the automatic insulin production pathway in the cell, meanwhile, its sensation of insulin concentration acts as a detector to cut off the pathway in time to ensure safety.
