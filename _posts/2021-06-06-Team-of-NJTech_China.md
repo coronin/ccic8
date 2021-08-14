@@ -8,7 +8,7 @@ project_title: "Saving Rose Plan : Design and Construction of Synthetic Microalg
 people_attending_count: 11
 people_attending_names: ["王宇娇","章益蜻","曹一平","汤昱萱","侯惠心","曾钰婷","戴翊飞","张文东","胡佳颖","刘庆莹","仲森林"]
 team_school_name: "南京工业大学"
-promotion_video_URL: "https://video.igem.org/videos/w/87ec05c5-2922-4f94-8841-b70b3cbc8555"
+promotion_video_URL: "https://video.igem.org/w/hMu8pFLufMJa8c43KBPaqZ"
 ---
 
 

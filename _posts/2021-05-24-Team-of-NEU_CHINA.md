@@ -4,10 +4,11 @@ team_name: "NEU_CHINA"
 team_igem_id: "3896"
 team_logo_status: "1"
 team_insured: "yes"
-project_title: "Using PmrCAB system and quorum sensing, and building a hardware to achieve multivirus detection"
+project_title: "Environmental multivirus detection based on PmrCAB and LuxI/LuxR quorum sensing system"
 people_attending_count: 3
 people_attending_names: ["吴自涵","郑培宣","王钦"]
 team_school_name: "东北大学"
+promotion_video_URL: "https://video.igem.org/w/9Vmg11qcBtWQNirCAq46BU"
 onsite_people_0812count: 3
 ---
 
@@ -20,4 +21,4 @@ onsite_people_0812count: 3
 
 ### A Diagnostics Project
 
-本项目以大肠杆菌为底盘，构建对MERS-CoV、HCoV-229E、SARS-CoV-2三种冠状病毒实现检测的工程菌。选用PmrCAB系统对冠状病毒S蛋白进行检测，使用大肠杆菌内的基于LuxI/LuxR的群体感应系统提高灵敏性，并加入hrp放大器以放大信号；最终将三种工程菌置于同一装置中实现多病毒检测。
+Over the years, humans have suffered from coronavirus several times, and today we still troubled by SARS-CoV-2. It’s unknown whether we will be affected by the coronavirus in the future. Detection of environmental coronavirus would be a critical step for cutting off the source and route of its infection. Therefore, it is necessary to design a multivirus detector to help solve epidemic caused by coronavirus. In this study, we developed an environmental multivirus detection device based on engineered *E. coli* to capture coronavirus, such as SARS-CoV-2, MERS-CoV and HCoV-229E, to spark fluorescence reporter gene. The PmrCAB system derived from *Salmonella* was recombined onto the surface of *E. coli*, and the Fe(III) recognition site of PmrB was replaced with the receptor of targeted coronavirus. Therefore, the bacteria can capture coronavirus via binding to their receptors and transport signaling to the downstream components. LuxI/LuxR quorum sensing system from *E. coli* and Hrp amplifier from *Pseudomonas* syringae were used to enhance the sensitivity and output signal. In addition, we also develop an improved air sampler to enrich nanoparticle in air onto engineered *E. coli*. The implementation of the environmental multivirus detection would be helpful for establish a preventive system in public place, such as hospital and super market.
