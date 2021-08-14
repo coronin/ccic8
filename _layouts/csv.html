@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh-CN"><!-- {{ site.time }} version {{ site.github.build_revision }} -->
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <title>CCiC8 People v2</title>
+
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -25,36 +25,33 @@
 
       {{ content }}
 
-<h4>以下学校已经开通了线上书院，可以加入K吧</h4>
-{% assign shuyuan_teams = "SCU-China,Nanjing-China,XMU-China,SYSU-Software,NUDT_CHINA,HZAU-China,BNUZ-China,BIT,Tsinghua,ECUST_China,HUST2-China,HUST-China,WHU-China,USTC-Software,UCAS-China,Tianjin,TJUSLS_China,OUC-China,LZU-CHINA,DUT_China,BIT-China,BNU-China,UESTC-China,Jilin_China,XJTU-China,Tongji_China,CSU_CHINA-iDEC,NJU-China,SYSU-CHINA,NWU-CHINA-A,ZJU-China,Fudan,Tongji_Software,SJTU-Software,USTC,NWU-CHINA-B,CSU_CHINA,CPU_CHINA,NPU-CHINA" | split:',' %}
-{% assign sorted_posts = site.posts | where_exp:"item", "shuyuan_teams contains item.team_name" %}
+<pre>
+Team ID,"Team Name","School Logo URL","Team Logo URL","Project Title","Project Abstract"
+{% assign sorted_posts = site.posts | where_exp:"item", "item.content" not contains 'ttba tba tba tbba tbaa' %}
 {% for page in sorted_posts %}
-<!-- h4>{{ site.url }}{{ page.url }}</h4 -->
-{% for a_name in page.people_attending_names %}
-<p>
-  {{ page.team_name }} &middot; <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
-  {{ a_name }}</p>
+{{ page.team_igem_id }},"{{ page.team_name }}","https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{{ page.team_name }}.png","https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png","{{ page.project_title }}","{{ page.content }}"
 {% endfor %}
-{% endfor %}
+</pre>
 
       </section>
     </div><!-- .wrapper -->
     <footer>
       <p>Maintained by <a rel="external" href="https://2020.igem.org/Team:Fudan/" target="_blank">Team:Fudan</a> <!-- a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a -->
         </p>
-      <p>&copy; CCiC8<span class="not-print"> &middot; <a href="/">Homepage</a></span></p>
+      <p>2021 <!-- Hosted on GitHub &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a -->
+        &middot; <a rel="external" href="https://beian.miit.gov.cn/" target="_blank">沪ICP备13004343-15号</a>
         </p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 
     {% if site.google_analytics %}
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30563986-1"></script>
       <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
       </script>
     {% endif %}
   </body>
