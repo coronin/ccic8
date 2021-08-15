@@ -18,16 +18,16 @@ This page was updated on 2021/7/24.
 |Section 1 | <span style="color:#B25195">Section 2</span> | Section 3|
 |13:00-14:30<br/>Manufacturing<br/>Software| <span style="color:#B25195">15:00-16:30<br/>Enviroment</span> | 17:00-18:30<br/>Diagnostics<br/>Open|
 |:-:|:-:|:-:|
-|SZU-China| CPU_CHINA| NEU_CHINA|
-|NJTech_China|  Tongji_China|  XJTLU-CHINA|
-|SCUT-China| CAU_China| USTC|
-|Jiangnan_China| OUC-China| Fudan|
-|NNU-China| DUT_China| HUST2-China|
-|CSU_CHINA(iDEC)| NAU-CHINA| BIT|
-|SJTU-Software| SCAU-China| HZAU-China|
-|Tongji_Software| HiZJU—China| YiYe-China|
-|USTC-Software| SMS_Shenzhen|  GreatBay_United|
-|SYSU-Software| GDOU-China| NDNF_China|
+|SCUT-China| NWU-CHINA-B| CPU_CHINA|
+|NJTech_China| BNU-China| OUC-China|
+|SZU-China| LZU-HS-CHINA| DUT_China|
+|NNU-China| THINKER-CHINA| Tongji_China|
+|Jiangnan_China| XHD-Wuhan-Pro-China| CAU_China|
+|CSU_CHINA(iDEC)| IvyMaker-China| NAU-CHINA|
+|SJTU-Software| LINKS_China| GDOU-China|
+|Tongji_Software| BNDS_China| SMS_Shenzhen|
+|USTC-Software| SJTU-BioX-Shanghai| HiZJU—China|
+|SYSU-Software|  &nbsp;  | SCAU-China|
 |===
 
 
@@ -37,16 +37,16 @@ This page was updated on 2021/7/24.
 |Section 4 | <span style="color:#B25195">Section 5</span>|
 |8:30-10:00<br/>Therapeutics| <span style="color:#B25195">10:30-12:00<br/>Therapeutics<br/>Foundational&nbsp;Advance</span>|
 |:-:|:-:|
-|BUCT|  WHU-China|
-|NMU_China| GreatBay_SCIE|
+|BUCT| WHU-China|
+|ZJU-China| GreatBay_SCIE|
 |NJMU-China| Tsinghua|
 |CSU_CHINA| BNUZ-China|
-|ZJU-China| Nanjing-China|
+|NMU_China| Nanjing-China|
 |LZU-CHINA| SYSU-CHINA|
-|SZPT-CHINA| Tianjin|
+|SZPT-CHINA| SCU-China|
 |ShanghaiTech_China| NUDT_CHINA|
 |SUSTech_Shenzhen| FAFU-CHINA|
-|FZU-China| SCU-China|
+|FZU-China| Tianjin|
 |===
 
 
@@ -56,16 +56,16 @@ This page was updated on 2021/7/24.
 |Section 6 | <span style="color:#B25195">Section 7</span> | Section 8|
 |13:00-14:30<br/>Energy<br/>New&nbsp;Application| <span style="color:#B25195">15:00-16:30<br/>New&nbsp;Application</span> | 17:00-18:30<br/>Others|
 |:-:|:-:|:-:|
-|Nanjing_NFLS|  NJU-China| NWU-CHINA-B|
-|CHINA-FAFU| Jilin_China| BNU-China|
-|NPU-CHINA| UESTC-China| LZU-HS-CHINA|
-|XJTU-China| TJUSLS_China| THINKER-CHINA|
-|BIT-China| ZJUT-China| XHD-Wuhan-Pro-China|
-|UCAS-China| HUST-China| IvyMaker-China|
-|BUCT-China| XMU-China| LINKS_China|
-|ECUST_China| GreatBay_SZ| BNDS_China|
-|ED-NAU| Whittle| &nbsp;|
-|NWU-CHINA-A| SZ-SHD| &nbsp;|
+|Nanjing_NFLS| SZ-SHD| HZAU-China|
+|XJTU-China| Jilin_China| XJTLU-CHINA|
+|UCAS-China| UESTC-China| NDNF_China|
+|CHINA-FAFU| TJUSLS_China| YiYe-China|
+|BIT-China| ZJUT-China| HUST2-China|
+|NPU-CHINA| HUST-China| BIT|
+|BUCT-China| XMU-China| NEU_CHINA|
+|ED-NAU| GreatBay_SZ| Fudan|
+|ECUST_China| Whittle| GreatBay_United|
+|NWU-CHINA-A| NJU-China| USTC|
 |===
 
 
