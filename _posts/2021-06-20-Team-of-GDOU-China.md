@@ -8,6 +8,7 @@ project_title: "基于微生物吸附治理环境砷污染的复合装置开发�
 people_attending_count: 3
 people_attending_names: ["胡瑶","刘德凡","陈智轩"]
 team_school_name: "广东海洋大学"
+onsite_people_0812count: 0
 ---
 
 

@@ -9,6 +9,7 @@ people_attending_count: 3
 people_attending_names: ["姜璇玮","王沁雯","王舒宇"]
 team_school_name: "南京医科大学"
 promotion_video_URL: "https://video.igem.org/w/wHC2UUhKevLbbU7zfEz4SC"
+onsite_people_0812count: 0
 ---
 
 

@@ -10,6 +10,7 @@ people_attending_names: ["曾徽","蔡兰馨","巫景行","韩宗霖","刘耀铭
 team_school_name: "华南理工大学"
 except_early_stop: "28"
 promotion_video_URL: "https://video.igem.org/w/pPc11iq9W2s51axSG2J2bD"
+onsite_people_0812count: 0
 ---
 
 

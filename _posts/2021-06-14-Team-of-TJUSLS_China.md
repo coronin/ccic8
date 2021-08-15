@@ -8,6 +8,7 @@ project_title: "Lover Or Killer - The Evil Male Mosquito"
 people_attending_count: 6
 people_attending_names: ["陆言骄","高国生","冯韵然","王义萱","杨淑君","张文君"]
 team_school_name: "天津大学生命科学学院"
+onsite_people_0812count: 0
 ---
 
 

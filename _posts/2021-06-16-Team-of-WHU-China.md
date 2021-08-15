@@ -9,6 +9,7 @@ people_attending_count: 4
 people_attending_names: ["毛丽然","闫旭","王国楷","张朝栋"]
 team_school_name: "武汉大学生命科学学院"
 promotion_video_URL: "https://video.igem.org/w/89LTifDbpfJ6S2sYpXxNzc"
+onsite_people_0812count: 0
 ---
 
 

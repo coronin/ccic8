@@ -9,6 +9,7 @@ people_attending_count: 16
 people_attending_names: ["屈云凤","王婷","黄斯佳","朱翊凡","李雨蒴","杨昕晨","徐海川","杨洋","朱馨仪","杨斯潆","马昕毓","谢曦雯","吕文涛","张抒雨","张鑫伟","张炜亮"]
 team_school_name: "北京化工大学"
 promotion_video_URL: "https://video.igem.org/w/sBsvYbTeYbR7Nz9qF5M17s"
+onsite_people_0812count: 0
 ---
 
 

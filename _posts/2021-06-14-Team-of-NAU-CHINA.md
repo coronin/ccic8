@@ -8,6 +8,7 @@ project_title: "High-efficiency selenium recovery bioreactor:engineered *E. coli
 people_attending_count: 8
 people_attending_names: ["石国龙","王哲","杨毅恒","秦夏妍","高戎光","邹宗佑","闫开拓","陈鹏"]
 team_school_name: "南京农业大学"
+onsite_people_0812count: 0
 ---
 
 

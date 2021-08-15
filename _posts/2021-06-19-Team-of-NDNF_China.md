@@ -8,6 +8,7 @@ project_title: "Hidro"
 people_attending_count: 8
 people_attending_names: ["赵宇杰","郭璟颐","芮泽云","汪天好","许欣怡","单嵩高","王天姝","许宸昊"]
 team_school_name: "蓝晶实验室"
+onsite_people_0812count: 0
 ---
 
 

@@ -9,6 +9,7 @@ people_attending_count: 4
 people_attending_names: ["李一凡","聂凤桐","梁川","陈泽乐"]
 team_school_name: "华中科技大学生命科学与技术学院"
 promotion_video_URL: "https://video.igem.org/w/mgpajRJyEGsVQnDwtuHudc"
+onsite_people_0812count: 0
 ---
 
 

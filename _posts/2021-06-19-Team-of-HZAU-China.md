@@ -8,6 +8,7 @@ project_title: "Puppyicare"
 people_attending_count: 4
 people_attending_names: ["孙元辉","韩振昊","聂江来","吴子云"]
 team_school_name: "华中农业大学"
+onsite_people_0812count: 0
 ---
 
 
