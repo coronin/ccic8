@@ -18,6 +18,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 <div style="clear:both"></div>
 
 ## Links
+- 会议通知：[一](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w)、[二](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ)
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - [CCiC在书院](https://lexiangla.com/teams/k100014/)
 - [Application to Host CCiC8](https://shimo.im/docs/osqPvsJl3IcnSFlF/)
