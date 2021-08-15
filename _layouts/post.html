@@ -45,7 +45,7 @@
   </p>{% endif %}
 {% if page.people_attending_count > 0 %}<p>
   来自<span {% if page.team_insured == 'yes' %}style="text-decoration:underline"{% endif %}>{{ page.team_school_name }}</span>的{{ page.people_attending_names | join: "、"
-}}将{% if page.onsite_people_0812count %}到沪并{% endif %}出席第八届中国地区iGEMer交流会（2021年8月27至{% if page.except_early_stop %}{{ page.except_early_stop }}{% else %}29{% endif %}日，中国上海）。
+}}将{% if page.onsite_people_0812count > 0 %}到沪并{% endif %}出席第八届中国地区iGEMer交流会（2021年8月27至{% if page.except_early_stop %}{{ page.except_early_stop }}{% else %}29{% endif %}日，中国上海）。
   {% if page.team_insured == 'yes' %}组委会已经收到来沪人员的意外险保单。{% endif %}
   </p>{% endif %}
 
