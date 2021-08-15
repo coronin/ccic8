@@ -17,6 +17,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 Professor Lu is an instructor of genetics, one of the well recognized national top-quality courses. He is the chief editor of *Medical Molecular Genetics*, *Gene Therapy*, and several other textbooks. He got recognized as a *National Outstanding Teacher*. He won the *Science and Technology Award for Chinese Youth*. He is a fellow in the *One Hundred, One Thousand, and Ten Thousands of Talent Program*.
 <div style="clear:both"></div>
 
+
 ## Links
 - 会议通知：[一](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w)、[二](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ)
 - [iGEM 2021 Global](https://igem2021global.slack.com)
@@ -33,7 +34,6 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 ## Important Dates
 - 2021/8/26前 通过邮件发送用于展演ppt或在签到时提供U盘【之后不能更改，展演时上台直接播放，每个项目展演8分钟】
 - 2021/8/20前 通过邮件发送需打印的线下参会时使用的海报【尺寸不超过1.2m✕1.2m，画面精度够的JPG即可】
-- 2021/8/7 公告：会议将按期举行。场地防疫细节等待相关部门确认及批准。请根据各自学校、单位、所在地区的疫情防控要求，决定是否参加线下活动。CCiC8将通过腾讯会议为无法到上海参会的队伍提供线上展示的机会。
 - 2021/7/24 onsite [/presentations](/presentations) schedule is live
 - 2021/6/19 pricing of surrounding hotels updated at [/hotels](/hotels)
 - 2021/6/7 draft of [the sponsorship brochure](https://shimo.im/docs/yaWIlYCmSN4ahjwu/)
