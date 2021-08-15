@@ -32,32 +32,38 @@
 {% for page in sorted_posts %}
 {% if page.team_name != 'Finally' and page.onsite_people_0812count > 0 %}
 <h4>{{ site.url }}{{ page.url }}</h4>
+{% if page.onsite_people_0812count != page.people_attending_count %}<p style="background-color:red">需要精确线下参会的人名</p>{% endif %}
 {% for a_name in page.people_attending_names %}{% assign counter=counter | plus:1 %}
 <p>
   {{ counter }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
   {{ a_name }}{% if people_names_array contains a_name %}@同名@{% endif %}
-  {% if page.team_insured == 'yes' %}<input type="checkbox" name="insured" checked/><label for="insured">已购保险</label>{% endif %}
-  {% if page.onsite_people_0812count %}<input type="checkbox" name="onsite" checked/><label for="onsite">线下参会</label>{% endif %}
+  {% if page.team_insured == 'yes' %}<input type="checkbox" name="insured{{ counter }}" checked/><label for="insured{{ counter }}">已购保险</label>{% endif %}
+  <input type="checkbox" name="onsite" checked/><label for="onsite">线下参会</label>
   </p>
 {% assign people_names_array=people_names_array | push:a_name %}
 {% endfor %}
-{% if page.onsite_people_0812count != page.people_attending_count %}<p style="background-color:red">需要精确线下参会的人名</p>{% endif %}
 {% endif %}{% endfor %}
 
 <h2>Teams have confirmed to attend the meeting online</h2>
 {% for page in sorted_posts %}
 {% if page.onsite_people_0812count == 0 %}
-<p><a href="{{ page.url }}">{{ page.team_name }}</a>
+<p>
   <a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">{{ page.team_igem_id }}</a>
-  {{ page.team_school_name }}</p>
+  <a href="{{ page.url }}">{{ page.team_name }}</a>
+  {{ page.team_school_name }}
+  </p>
 {% endif %}{% endfor %}
 
-<h2>Not response or not sure</h2>
+<h2 style="background-color:red">Not response or not sure</h2>
 {% for page in sorted_posts %}
 {% if page.onsite_people_0812count == 0 %}
-<p><a href="{{ page.url }}">{{ page.team_name }}</a>
+<p>
   <a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">{{ page.team_igem_id }}</a>
-  {{ page.team_school_name }}</p>
+  <a href="{{ page.url }}">{{ page.team_name }}</a>
+  {{ page.team_school_name }}
+  原计划{{ page.people_attending_count }}人
+  {% if page.team_insured == 'yes' %}<input type="checkbox" name="insured{{ page.team_name }}" checked/><label for="insured{{ page.team_name }}">已购保险</label>{% endif %}
+  </p>
 {% endif %}{% endfor %}
 
       </section>
