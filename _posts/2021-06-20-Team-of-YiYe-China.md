@@ -9,6 +9,7 @@ people_attending_count: 12
 people_attending_names: ["唐恺文","张阳阳","邱天","毛嘉乐","李太白","Selina Hu","吕国晶","刘海缘","马悦洋","姜舒馨","李佳佳","刘婷"]
 team_school_name: "一叶学院"
 promotion_video_URL: "https://video.igem.org/w/vRvCp5ZYbBqpBA2QCDN2Yc"
+onsite_people_0812count: 0
 ---
 
 

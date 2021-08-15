@@ -9,7 +9,7 @@ people_attending_count: 4
 people_attending_names: ["陈冠羽","刘昱辰","董可昕","黄枫凌"]
 team_school_name: "中国科学院大学"
 promotion_video_URL: "https://video.igem.org/w/92VHYCZ9cXW21a4JfhS9wY"
-onsite_people_0812count: 4
+onsite_people_0812count: 0
 ---
 
 

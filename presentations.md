@@ -1,4 +1,4 @@
-This page was updated on 2021/7/24.
+This page was updated on 2021/8/16.
 
 | 27#1 |腾讯会议 654 242 648
 | 27#2 |腾讯会议 598 872 024
@@ -20,8 +20,8 @@ This page was updated on 2021/7/24.
 |:-:|:-:|:-:|
 |SCUT-China| NWU-CHINA-B| CPU_CHINA|
 |NJTech_China| BNU-China| OUC-China|
-|SZU-China| LZU-HS-CHINA| DUT_China|
-|NNU-China| THINKER-CHINA| Tongji_China|
+|NNU-China| LZU-HS-CHINA| DUT_China|
+|SZU-China| THINKER-CHINA| Tongji_China|
 |Jiangnan_China| XHD-Wuhan-Pro-China| CAU_China|
 |CSU_CHINA(iDEC)| IvyMaker-China| NAU-CHINA|
 |SJTU-Software| LINKS_China| GDOU-China|
@@ -40,13 +40,13 @@ This page was updated on 2021/7/24.
 |BUCT| WHU-China|
 |ZJU-China| GreatBay_SCIE|
 |NJMU-China| Tsinghua|
-|CSU_CHINA| BNUZ-China|
+|FZU-China| BNUZ-China|
 |NMU_China| Nanjing-China|
 |LZU-CHINA| SYSU-CHINA|
 |SZPT-CHINA| SCU-China|
 |ShanghaiTech_China| NUDT_CHINA|
 |SUSTech_Shenzhen| FAFU-CHINA|
-|FZU-China| Tianjin|
+|CSU_CHINA| Tianjin|
 |===
 
 
@@ -57,7 +57,7 @@ This page was updated on 2021/7/24.
 |13:00-14:30<br/>Energy<br/>New&nbsp;Application| <span style="color:#B25195">15:00-16:30<br/>New&nbsp;Application</span> | 17:00-18:30<br/>Others|
 |:-:|:-:|:-:|
 |Nanjing_NFLS| SZ-SHD| HZAU-China|
-|XJTU-China| Jilin_China| XJTLU-CHINA|
+|NWU-CHINA-A| Jilin_China| XJTLU-CHINA|
 |UCAS-China| UESTC-China| NDNF_China|
 |CHINA-FAFU| TJUSLS_China| YiYe-China|
 |BIT-China| ZJUT-China| HUST2-China|
@@ -65,7 +65,7 @@ This page was updated on 2021/7/24.
 |BUCT-China| XMU-China| NEU_CHINA|
 |ED-NAU| GreatBay_SZ| Fudan|
 |ECUST_China| Whittle| GreatBay_United|
-|NWU-CHINA-A| NJU-China| USTC|
+|XJTU-China| NJU-China| USTC|
 |===
 
 

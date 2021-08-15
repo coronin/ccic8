@@ -9,6 +9,7 @@ people_attending_count: 7
 people_attending_names: ["魏岱旭","范铭沁","高琪","王若舟","李永珠","高展","叶少杰"]
 team_school_name: "西北大学生命科学学院"
 promotion_video_URL: "https://video.igem.org/w/kE9VkEAnLpHz1s3nnFtXhy"
+onsite_people_0812count: 0
 ---
 
 

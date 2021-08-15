@@ -8,6 +8,7 @@ project_title: "Antibiotic Killer"
 people_attending_count: 2
 people_attending_names: ["雍晓雨","陆佳睿","其余未定"]
 team_school_name: "南京外国语学校"
+onsite_people_0812count: 0
 ---
 
 
