@@ -46,11 +46,11 @@
        <img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo_status == '' or page.team_logo_status == nil %}logoR{% else %}{{ page.team_name }}{% endif %}{% if page.team_logo_status != '1' %}{{ page.team_logo_status }}{% endif %}.png" />
        <br/><span style="font-size: 67%;
        {% if page.team_insured == 'yes' %}font-weight: bold;{% endif %}
-       {% if page.onsite_people_0812count and page.onsite_people_0812count != page.people_atteding_count %};background-color: red;{% endif %}
+       {% if page.onsite_people_0812count == nil %};background-color: red;{% endif %}
        ">
          {{ team_counter }}.&nbsp;{{ page.team_name }}</span>
        <!-- 2021-8-13 -->
-       {% if page.onsite_people_0812count and page.team_insured != 'yes' %}保险{% endif %}
+       {% if page.onsite_people_0812count and page.team_insured != 'yes' %}<sup>是否保险</sup>{% endif %}
      </a></div>
   {% endif %}{% endfor %}
 </div></div>
