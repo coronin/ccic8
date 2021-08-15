@@ -26,7 +26,7 @@ This page was updated on 2021/8/16.
 |CSU_CHINA(iDEC)| IvyMaker-China| NAU-CHINA|
 |SJTU-Software| LINKS_China| GDOU-China|
 |Tongji_Software| BNDS_China| SMS_Shenzhen|
-|USTC-Software| SJTU-BioX-Shanghai| HiZJU—China|
+|USTC-Software| SJTU-BioX-Shanghai| HiZJU-China|
 |SYSU-Software|  &nbsp;  | SCAU-China|
 |===
 
