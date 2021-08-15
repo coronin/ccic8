@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-CN"><!-- {{ site.time }} version {{ site.github.build_revision }} -->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>CCiC8 People Onsite</title>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header style="background:#469E99 url(https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoL400corner.png) no-repeat bottom right;height:80px" {% unless site.description %} class="without-description" {% endunless %}>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+      </header>
+      <section>
+
+      {{ content }}
+
+{% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
+
+<h2>People will be onsite</h2>
+{% assign counter = 0 %}
+{% for page in sorted_posts %}
+{% if page.team_name != 'Finally' and page.onsite_people_0812count > 0 %}
+<h4>{{ site.url }}{{ page.url }}</h4>
+{% for a_name in page.people_attending_names %}{% assign counter=counter | plus:1 %}
+<p>
+  {{ counter }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
+  {{ a_name }}{% if people_names_array contains a_name %}@同名@{% endif %}
+  {% if page.team_insured == 'yes' %}<input type="checkbox" name="insured" checked/><label for="insured">已购保险</label>{% endif %}
+  {% if page.onsite_people_0812count %}<input type="checkbox" name="onsite" checked/><label for="onsite">线下参会</label>{% endif %}
+  </p>
+{% assign people_names_array=people_names_array | push:a_name %}
+{% endfor %}
+{% if page.onsite_people_0812count != page.people_attending_count %}<p style="background-color:red">需要精确线下参会的人名</p>{% endif %}
+{% endif %}{% endfor %}
+
+<h2>Teams have confirmed to attend the meeting online</h2>
+{% for page in sorted_posts %}
+{% if page.onsite_people_0812count == 0 %}
+<p><a href="{{ page.url }}">{{ page.team_name }}</a>
+  <a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">{{ page.team_igem_id }}</a>
+  {{ page.team_school_name }}</p>
+{% endif %}{% endfor %}
+
+<h2>Not response or not sure</h2>
+{% for page in sorted_posts %}
+{% if page.onsite_people_0812count == 0 %}
+<p><a href="{{ page.url }}">{{ page.team_name }}</a>
+  <a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">{{ page.team_igem_id }}</a>
+  {{ page.team_school_name }}</p>
+{% endif %}{% endfor %}
+
+      </section>
+    </div><!-- .wrapper -->
+    <footer>
+      <p>Maintained by <a rel="external" href="https://2020.igem.org/Team:Fudan/" target="_blank">Team:Fudan</a> <!-- a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a -->
+        </p>
+      <p>&copy; CCiC8<span class="not-print"> &middot; <a href="/">Homepage</a></span></p>
+        </p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+    {% if site.google_analytics %}
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30563986-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+  </body>
+</html>
