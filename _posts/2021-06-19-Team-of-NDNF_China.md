@@ -2,13 +2,14 @@
 layout: post
 team_name: "NDNF_China"
 team_igem_id: "3886"
-team_logo_status: ""
+team_logo_status: "1"
 team_insured: ""
 project_title: "Hidro"
 people_attending_count: 8
 people_attending_names: ["赵宇杰","郭璟颐","芮泽云","汪天好","许欣怡","单嵩高","王天姝","许宸昊"]
 team_school_name: "蓝晶实验室"
 onsite_people_0812count: 0
+promotion_video_URL: "https://video.igem.org/w/sCZLayN1tKnhBqDfTupE7L"
 ---
 
 
@@ -21,4 +22,4 @@ onsite_people_0812count: 0
 
 ### A High-School Open Project
 
-tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba tba tba tbba tbaa ttba 
+The potential of engineered organisms is currently restricted due to concerns related their risks and hazards, as well as lack of effective tracking after an escape and appropriate platforms for them to function beyond laboratory conditions. To address the above setbacks, we have designed Hidro: hydrogel systems that enable engineered bacterial strains to carry out their “programmed” tasks safely and at high efficiency.
