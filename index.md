@@ -18,7 +18,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 <div style="clear:both"></div>
 
 
-## Links
+## Useful Links
 - 会议通知：[一](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w)、[二](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ)
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - [CCiC在书院](https://lexiangla.com/teams/k100014/)
@@ -32,10 +32,10 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 
 ## Important Dates
-- 2021/8/26前 通过邮件发送用于展演ppt或在签到时提供U盘【之后不能更改，展演时上台直接播放，每个项目展演8分钟】
-- 2021/8/20前 通过邮件发送需打印的线下参会时使用的海报【尺寸不超过1.2m✕1.2m，画面精度够的JPG即可】
+- Before 2021/8/26 通过邮件发送用于展演ppt或在签到时提供U盘【之后不能更改，展演时上台直接播放，每个项目展演8分钟】
+- Before 2021/8/20 通过邮件发送需打印的线下参会时使用的海报【尺寸不超过1.2m✕1.2m，画面精度够的JPG即可】
 - 2021/7/24 [presentations](/presentations) schedule is live
-- 2021/6/19 pricing of surrounding hotels updated at [/hotels](/hotels)
+- 2021/6/19 pricing of surrounding [hotels](/hotels)
 - 2021/6/7 draft of [the sponsorship brochure](https://shimo.im/docs/yaWIlYCmSN4ahjwu/)
 - 2021/5/23 link to [submit participates info](https://www.wjx.cn/vj/hWQFAcz.aspx) (due by 2021/6/20 23:59)
 - 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; [call for volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)
