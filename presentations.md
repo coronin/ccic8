@@ -16,7 +16,7 @@ This page was updated on 2021/8/16.
 
 |---
 |Section 1 | <span style="color:#B25195">Section 2</span> | Section 3|
-|13:00-14:30<br/>Manufacturing<br/>Software| <span style="color:#B25195">15:00-16:30<br/>Enviroment</span> | 17:00-18:30<br/>Diagnostics<br/>Open|
+|13:00-14:30<br/>Manufacturing<br/>Software| <span style="color:#B25195">15:00-16:30<br/>Others</span> | 17:00-18:30<br/>Enviroment |
 |:-:|:-:|:-:|
 |SCUT-China| NWU-CHINA-B| CPU_CHINA|
 |NJTech_China| BNU-China| OUC-China|
@@ -27,7 +27,7 @@ This page was updated on 2021/8/16.
 |SJTU-Software| LINKS_China| GDOU-China|
 |Tongji_Software| BNDS_China| SMS_Shenzhen|
 |USTC-Software| SJTU-BioX-Shanghai| HiZJU-China|
-|SYSU-Software|  &nbsp;  | SCAU-China|
+|SYSU-Software| Nanjing_NFLS | SCAU-China|
 |===
 
 
@@ -44,9 +44,9 @@ This page was updated on 2021/8/16.
 |NMU_China| Nanjing-China|
 |LZU-CHINA| SYSU-CHINA|
 |SZPT-CHINA| SCU-China|
-|ShanghaiTech_China| NUDT_CHINA|
+|CSU_CHINA| NUDT_CHINA|
 |SUSTech_Shenzhen| FAFU-CHINA|
-|CSU_CHINA| Tianjin|
+| &nbsp; | Tianjin|
 |===
 
 
@@ -54,9 +54,9 @@ This page was updated on 2021/8/16.
 
 |---
 |Section 6 | <span style="color:#B25195">Section 7</span> | Section 8|
-|13:00-14:30<br/>Energy<br/>New&nbsp;Application| <span style="color:#B25195">15:00-16:30<br/>New&nbsp;Application</span> | 17:00-18:30<br/>Others|
+|13:00-14:30<br/>Energy<br/>New&nbsp;Application| <span style="color:#B25195">15:00-16:30<br/>New&nbsp;Application</span> | 17:00-18:30<br/>Diagnostics<br/>Open |
 |:-:|:-:|:-:|
-|Nanjing_NFLS| SZ-SHD| HZAU-China|
+|ShanghaiTech_China | SZ-SHD| HZAU-China|
 |NWU-CHINA-A| Jilin_China| XJTLU-CHINA|
 |UCAS-China| UESTC-China| NDNF_China|
 |CHINA-FAFU| TJUSLS_China| YiYe-China|

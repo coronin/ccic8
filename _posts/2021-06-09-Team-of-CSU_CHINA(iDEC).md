@@ -1,6 +1,6 @@
 ---
 layout: post
-team_name: "CSU_CHINA-iDEC"
+team_name: "CSU_CHINA(iDEC)"
 team_igem_id: "4888"
 team_logo_status: "1"
 team_insured: "yes"

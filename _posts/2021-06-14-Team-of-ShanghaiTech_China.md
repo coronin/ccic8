@@ -19,7 +19,7 @@ onsite_people_0812count: 8
 ### Contact
 * 352373393 AT qq.com
 
-### A Therapeutics Project
+### A New Application Project
 
 MIBOM全称为“Mussel Inspired Biologically Operational Material”，是以贻贝粘蛋白为核心，结合新材料与细胞工程开发的全新一代生物材料。目前项目已相对成熟地开发了新一代的骨修复凝胶，用于治疗粉碎性骨折。团队开发了独创的“贻贝粘蛋白+水凝胶+细胞工程”模块化开发思路，为多种产品的开发提供了高效率、低成本的研发潜力。
 
