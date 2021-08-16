@@ -19,6 +19,6 @@ team_school_name: "华中科技大学生命科学与技术学院"
 ### Contact
 * 867834428 AT qq.com
 
-### A New Application Project
+### A Manufacturing Project
 
 Our project is about an engineering yeast which can secrete peptides and/or pigments to perm and dye people's hair without harm and it can also straight hair and decompose pigments. We also design a device and hair creams to use at daily lives. We hope our products can fly people's dreams which to pursuit beauty and make the elderly to color their hair without worries.

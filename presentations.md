@@ -23,11 +23,12 @@ This page was updated on 2021/8/16.
 |NNU-China| LZU-HS-CHINA| DUT_China|
 |SZU-China| THINKER-CHINA| Tongji_China|
 |Jiangnan_China| XHD-Wuhan-Pro-China| CAU_China|
-|CSU_CHINA(iDEC)| IvyMaker-China| NAU-CHINA|
+| HUST-China | IvyMaker-China| NAU-CHINA|
 |SJTU-Software| LINKS_China| GDOU-China|
 |Tongji_Software| BNDS_China| SMS_Shenzhen|
 |USTC-Software| SJTU-BioX-Shanghai| HiZJU-China|
 |SYSU-Software| Nanjing_NFLS | SCAU-China|
+|CSU_CHINA(iDEC)| &nbsp; | &nbsp; |
 |===
 
 
@@ -61,11 +62,11 @@ This page was updated on 2021/8/16.
 |UCAS-China| UESTC-China| NDNF_China|
 |CHINA-FAFU| TJUSLS_China| YiYe-China|
 |BIT-China| ZJUT-China| HUST2-China|
-|NPU-CHINA| HUST-China| BIT|
+|NPU-CHINA| NJU-China | BIT|
 |BUCT-China| XMU-China| NEU_CHINA|
 |ED-NAU| GreatBay_SZ| Fudan|
 |ECUST_China| Whittle| GreatBay_United|
-|XJTU-China| NJU-China| USTC|
+|XJTU-China| &nbsp; | USTC|
 |===
 
 
