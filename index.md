@@ -17,6 +17,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 Professor Lu is an instructor of genetics, one of the well recognized national top-quality courses. He is the chief editor of *Medical Molecular Genetics*, *Gene Therapy*, and several other textbooks. He got recognized as a *National Outstanding Teacher*. He won the *Science and Technology Award for Chinese Youth*. He is a fellow in the *One Hundred, One Thousand, and Ten Thousands of Talent Program*.
 <div style="clear:both"></div>
 
+<br/>
 
 ## Useful Links
 - 会议通知：[一](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w)、[二](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ)
@@ -30,6 +31,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [CCiC8志愿者信息收集](https://www.wjx.cn/vj/rYR3vK6.aspx)
 - [CCiC8期间的入校申请](https://www.wjx.cn/vj/r6cE82R.aspx)
 
+<br/>
 
 ## Important Dates
 - Before 2021/8/26 通过邮件发送用于展演ppt或在签到时提供U盘【之后不能更改，展演时上台直接播放，每个项目展演8分钟】
@@ -41,6 +43,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; [call for volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)
 - 2021/3/14 application submitted
 
+<br/>
 
 ## CCiC8 Sponsors
 
