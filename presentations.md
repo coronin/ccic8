@@ -1,17 +1,17 @@
+| 讨论间<sup>27#1</sup> |腾讯会议 654 242 648
+| 讨论间<sup>27#2</sup> |腾讯会议 598 872 024
+| 讨论间<sup>27#3</sup> |腾讯会议 236 173 957
+| 讨论间<sup>27#4</sup> |腾讯会议 930 481 197
+| 讨论间<sup>27#5</sup> |腾讯会议 241 248 417
+| 讨论间<sup>28#1</sup> |腾讯会议 439 620 470
+| 讨论间<sup>28#2</sup> |腾讯会议 194 692 676
+| 讨论间<sup>28#3</sup> |腾讯会议 733 128 715
+| 讨论间<sup>28#4</sup> |腾讯会议 510 280 050
+| 讨论间<sup>28#5</sup> |腾讯会议 687 953 784
+
+![banner ads](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
+
 This page was updated on 2021/8/16.
-
-| 讨论间27#1 |腾讯会议 654 242 648
-| 讨论间27#2 |腾讯会议 598 872 024
-| 讨论间27#3 |腾讯会议 236 173 957
-| 讨论间27#4 |腾讯会议 930 481 197
-| 讨论间27#5 |腾讯会议 241 248 417
-| 讨论间28#1 |腾讯会议 439 620 470
-| 讨论间28#2 |腾讯会议 194 692 676
-| 讨论间28#3 |腾讯会议 733 128 715
-| 讨论间28#4 |腾讯会议 510 280 050
-| 讨论间28#5 |腾讯会议 687 953 784
-
-![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
 ## 2021-8-27 13:00-18:30
 
@@ -70,11 +70,10 @@ This page was updated on 2021/8/16.
 |XJTU-China<sup>28#5</sup> | &nbsp; | USTC<sup>28#5</sup> |
 |===
 
-![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
+![banner ads](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
 ## Links related to CCiC8
 - [iGEM 2021 Global](https://igem2021global.slack.com)
+- [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)s
 - not ready [Participate Handbook for CCiC8]()
-- [Update Project Abstract](https://www.wjx.cn/vj/h4icxcB.aspx)
-- [Call for CCiC8 Volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)
 - [Permit to Enter into Fudan during CCiC8](https://www.wjx.cn/vj/r6cE82R.aspx)

@@ -57,11 +57,10 @@ CCiC8将使用商用场馆为主会场。
     4340 6115 4100 3500
     方田
 
-![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
+![banner](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
 ## Links related to CCiC8
 - [iGEM 2021 Global](https://igem2021global.slack.com)
+- [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)s
 - not ready [Participate Handbook for CCiC8]()
-- [Update Project Abstract](https://www.wjx.cn/vj/h4icxcB.aspx)
-- [Call for CCiC8 Volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)
 - [Permit to Enter into Fudan during CCiC8](https://www.wjx.cn/vj/r6cE82R.aspx)
