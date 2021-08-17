@@ -29,7 +29,7 @@ This page was updated on 2021/8/16.
 |Tongji_Software<sup>27#3</sup> | BNDS_China<sup>27#3</sup> | SMS_Shenzhen<sup>27#3</sup> |
 |USTC-Software<sup>27#4</sup> | SJTU-BioX-Shanghai<sup>27#4</sup> | HiZJU-China<sup>27#4</sup> |
 |SYSU-Software<sup>27#5</sup> | Nanjing_NFLS<sup>27#5</sup>  | SCAU-China<sup>27#5</sup> |
-|CSU_CHINA(iDEC)<sup>27#1</sup> | &nbsp; | &nbsp; |
+|CSU_CHINA(iDEC)<sup>27#1</sup> | CHINA-FAFU<sup>27#1</sup> | &nbsp; |
 |===
 
 
@@ -56,24 +56,24 @@ This page was updated on 2021/8/16.
 
 |---
 |Section 6 | <span style="color:#B25195">Section 7</span> | Section 8|
-|13:00-14:30<br/>Energy<br/>New&nbsp;Application| <span style="color:#B25195">15:00-16:30<br/>New&nbsp;Application</span> | 17:00-18:30<br/>Diagnostics<br/>Open |
+|13:00-14:30<br/>Food &amp; Nutrition<br/>New&nbsp;Application| <span style="color:#B25195">15:00-16:30<br/>New&nbsp;Application</span> | 17:00-18:30<br/>Diagnostics<br/>Open |
 |:-:|:-:|:-:|
 |ShanghaiTech_China<sup>28#1</sup> | SZ-SHD<sup>28#1</sup> | HZAU-China<sup>28#1</sup> |
 |NWU-CHINA-A<sup>28#2</sup> | Jilin_China<sup>28#2</sup> | XJTLU-CHINA<sup>28#2</sup> |
 |UCAS-China<sup>28#3</sup> | UESTC-China<sup>28#3</sup> | NDNF_China<sup>28#3</sup> |
-|CHINA-FAFU<sup>28#4</sup> | TJUSLS_China<sup>28#4</sup> | YiYe-China<sup>28#4</sup> |
+|XJTU-China<sup>28#4</sup> | TJUSLS_China<sup>28#4</sup> | YiYe-China<sup>28#4</sup> |
 |BIT-China<sup>28#5</sup> | ZJUT-China<sup>28#5</sup> | HUST2-China<sup>28#5</sup> |
 |NPU-CHINA<sup>28#1</sup> | NJU-China<sup>28#1</sup> | BIT<sup>28#1</sup> |
 |BUCT-China<sup>28#2</sup> | XMU-China<sup>28#2</sup> | NEU_CHINA<sup>28#2</sup> |
 |ED-NAU<sup>28#3</sup> | GreatBay_SZ<sup>28#3</sup> | Fudan<sup>28#3</sup> |
 |ECUST_China<sup>28#4</sup> | Whittle<sup>28#4</sup> | GreatBay_United<sup>28#4</sup> |
-|XJTU-China<sup>28#5</sup> | &nbsp; | USTC<sup>28#5</sup> |
+| &nbsp; | &nbsp; | USTC<sup>28#5</sup> |
 |===
 
 ![banner ads](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
 ## Links related to CCiC8
 - [iGEM 2021 Global](https://igem2021global.slack.com)
-- [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)s
+- [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)
 - not ready [Participate Handbook for CCiC8]()
 - [Permit to Enter into Fudan during CCiC8](https://www.wjx.cn/vj/r6cE82R.aspx)
