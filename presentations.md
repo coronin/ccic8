@@ -21,7 +21,7 @@ This page was updated on 2021/8/16.
 |SCUT-China| NWU-CHINA-B| CPU_CHINA|
 |NJTech_China| BNU-China| OUC-China|
 |NNU-China| LZU-HS-CHINA| DUT_China|
-|SZU-China| THINKER-CHINA| Tongji_China|
+|SZU-China| Think_Edu_China | Tongji_China|
 |Jiangnan_China| XHD-Wuhan-Pro-China| CAU_China|
 | HUST-China | IvyMaker-China| NAU-CHINA|
 |SJTU-Software| LINKS_China| GDOU-China|
