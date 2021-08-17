@@ -11,7 +11,7 @@
 
 ![banner ads](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
-This page was updated on 2021/8/16.
+This page was updated on 2021/8/18.
 
 ## 2021-8-27 13:00-18:30
 
@@ -21,15 +21,15 @@ This page was updated on 2021/8/16.
 |:-:|:-:|:-:|
 |SCUT-China<sup>27#1</sup> | NWU-CHINA-B<sup>27#1</sup> | CPU_CHINA<sup>27#1</sup> |
 |NJTech_China<sup>27#2</sup> | BNU-China<sup>27#2</sup> | OUC-China<sup>27#2</sup> |
-|NNU-China<sup>27#3</sup> | LZU-HS-CHINA<sup>27#3</sup> | DUT_China<sup>27#3</sup> |
-|SZU-China<sup>27#4</sup> | Think_Edu_China<sup>27#4</sup>  | Tongji_China<sup>27#4</sup> |
+|NNU-China<sup>27#3</sup> | BNDS_China<sup>27#3</sup> | DUT_China<sup>27#3</sup> |
+|SZU-China<sup>27#4</sup> | Nanjing_NFLS<sup>27#4</sup> | Tongji_China<sup>27#4</sup> |
 |Jiangnan_China<sup>27#5</sup> | XHD-Wuhan-Pro-China<sup>27#5</sup> | CAU_China<sup>27#5</sup> |
 |HUST-China<sup>27#1</sup>  | IvyMaker-China<sup>27#1</sup> | NAU-CHINA<sup>27#1</sup> |
 |SJTU-Software<sup>27#2</sup> | LINKS_China<sup>27#2</sup> | GDOU-China<sup>27#2</sup> |
-|Tongji_Software<sup>27#3</sup> | BNDS_China<sup>27#3</sup> | SMS_Shenzhen<sup>27#3</sup> |
+|Tongji_Software<sup>27#3</sup> | CHINA-FAFU<sup>27#3</sup> | SMS_Shenzhen<sup>27#3</sup> |
 |USTC-Software<sup>27#4</sup> | SJTU-BioX-Shanghai<sup>27#4</sup> | HiZJU-China<sup>27#4</sup> |
-|SYSU-Software<sup>27#5</sup> | Nanjing_NFLS<sup>27#5</sup>  | SCAU-China<sup>27#5</sup> |
-|CSU_CHINA(iDEC)<sup>27#1</sup> | CHINA-FAFU<sup>27#1</sup> | &nbsp; |
+|SYSU-Software<sup>27#5</sup> | NDNF_China<sup>27#5</sup>  | SCAU-China<sup>27#5</sup> |
+|CSU_CHINA(iDEC)<sup>27#1</sup> | &nbsp; | Think_Edu_China<sup>27#1</sup> |
 |===
 
 
@@ -56,18 +56,18 @@ This page was updated on 2021/8/16.
 
 |---
 |Section 6 | <span style="color:#B25195">Section 7</span> | Section 8|
-|13:00-14:30<br/>Food &amp; Nutrition<br/>New&nbsp;Application| <span style="color:#B25195">15:00-16:30<br/>New&nbsp;Application</span> | 17:00-18:30<br/>Diagnostics<br/>Open |
+|13:00-14:30<br/>Food &amp; Nutrition<br/>New&nbsp;Application| <span style="color:#B25195">15:00-16:30<br/>New&nbsp;Application</span> | 17:00-18:30<br/>Diagnostics |
 |:-:|:-:|:-:|
 |ShanghaiTech_China<sup>28#1</sup> | SZ-SHD<sup>28#1</sup> | HZAU-China<sup>28#1</sup> |
 |NWU-CHINA-A<sup>28#2</sup> | Jilin_China<sup>28#2</sup> | XJTLU-CHINA<sup>28#2</sup> |
-|UCAS-China<sup>28#3</sup> | UESTC-China<sup>28#3</sup> | NDNF_China<sup>28#3</sup> |
+|UCAS-China<sup>28#3</sup> | UESTC-China<sup>28#3</sup> | USTC<sup>28#3</sup> |
 |XJTU-China<sup>28#4</sup> | TJUSLS_China<sup>28#4</sup> | YiYe-China<sup>28#4</sup> |
 |BIT-China<sup>28#5</sup> | ZJUT-China<sup>28#5</sup> | HUST2-China<sup>28#5</sup> |
 |NPU-CHINA<sup>28#1</sup> | NJU-China<sup>28#1</sup> | BIT<sup>28#1</sup> |
 |BUCT-China<sup>28#2</sup> | XMU-China<sup>28#2</sup> | NEU_CHINA<sup>28#2</sup> |
 |ED-NAU<sup>28#3</sup> | GreatBay_SZ<sup>28#3</sup> | Fudan<sup>28#3</sup> |
 |ECUST_China<sup>28#4</sup> | Whittle<sup>28#4</sup> | GreatBay_United<sup>28#4</sup> |
-| &nbsp; | &nbsp; | USTC<sup>28#5</sup> |
+| LZU-HS-CHINA<sup>28#5</sup> | &nbsp; | &nbsp; |
 |===
 
 ![banner ads](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)

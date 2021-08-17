@@ -20,7 +20,7 @@ onsite_people_0812count: 0
 ### Contact
 * 1419576562 AT qq.com
 
-### A Fantastic Project
+### A Manufacturing Project
 
 Ginsenosides, as active components of ginseng, have many pharmacological activities. Among them, ginsenoside CK has been widely studied for its excellent biological activities such as treating diabetes, anti-tumor, anti-inflammatory and anti-aging. However, CK almost does not exist in natural ginseng and can be produced by ginsenoside Rb1 through enzymatic conversion. In order to improve CK production, this project expressed β -glucoside enzyme derived from sulphurite leaf vulcanization bacteria in Pichia pastoris GS115 and applied it to deglycosylation of Rb1 and production of CK.
 
