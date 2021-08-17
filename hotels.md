@@ -57,6 +57,8 @@ CCiC8将使用商用场馆为主会场。
     4340 6115 4100 3500
     方田
 
+![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
+
 ## Links related to CCiC8
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - not ready [Participate Handbook for CCiC8]()

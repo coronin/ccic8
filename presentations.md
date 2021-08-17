@@ -11,6 +11,7 @@ This page was updated on 2021/8/16.
 | 讨论间28#4 |腾讯会议 510 280 050
 | 讨论间28#5 |腾讯会议 687 953 784
 
+![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
 ## 2021-8-27 13:00-18:30
 
@@ -69,6 +70,7 @@ This page was updated on 2021/8/16.
 |XJTU-China| &nbsp; | USTC|
 |===
 
+![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
 ## Links related to CCiC8
 - [iGEM 2021 Global](https://igem2021global.slack.com)
