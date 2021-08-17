@@ -9,6 +9,7 @@ people_attending_count: 3
 people_attending_names: ["陈泓宇","姚海龙","周初筱"]
 team_school_name: "西安交通大学"
 onsite_people_0812count: 3
+promotion_video_URL: "https://video.igem.org/w/j5E8xUwTq41LHSE7ivATE8"
 ---
 
 
