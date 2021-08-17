@@ -20,7 +20,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 <br/>
 
 ## Useful Links
-- 会议通知：[一](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w)、[二](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ)
+- 会议通知：[一](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w)、[二](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ)、[三](https://mp.weixin.qq.com/s/foGI_pvS9mgn7U4QnkgdJA)
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - [CCiC在书院](https://lexiangla.com/teams/k100014/)
 - [Application to Host CCiC8](https://shimo.im/docs/osqPvsJl3IcnSFlF/)
@@ -62,7 +62,8 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 | 胡海荣 | 张荣梅 | 蔡亮   | 田仕峥 | 姚奕阳 | 梁说今 | 姜晓慧 |
 | 黄昕瑜 | 陈炯霖 | 李承   | 张秋   | 钱吉   | 李欣然 | 张靖淇 |
-| 李泓泳 | 刘一辰 | 韩丞治 | 鲁朝臻 | 褚婕妤 | 史珩 |&nbsp;|
+| 李泓泳 | 刘一辰 | 韩丞治 | 鲁朝臻 | 褚婕妤 | 史珩   | 龚诗涛 |
+| 孙智   | 黄静波 | &nbsp;| &nbsp;| &nbsp;| &nbsp;| &nbsp; |
 
 <br/>
 
