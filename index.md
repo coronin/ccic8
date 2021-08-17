@@ -17,7 +17,7 @@ However, there are predecessors who have overcome all those challenges. In bring
 Professor Lu is an instructor of genetics, one of the well recognized national top-quality courses. He is the chief editor of *Medical Molecular Genetics*, *Gene Therapy*, and several other textbooks. He got recognized as a *National Outstanding Teacher*. He won the *Science and Technology Award for Chinese Youth*. He is a fellow in the *One Hundred, One Thousand, and Ten Thousands of Talent Program*.
 <div style="clear:both"></div>
 
-<br/>
+![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
 ## Useful Links
 - 会议通知：[一](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w)、[二](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ)、[三](https://mp.weixin.qq.com/s/foGI_pvS9mgn7U4QnkgdJA)
@@ -43,7 +43,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; [call for volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)
 - 2021/3/14 application submitted
 
-<br/>
+![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
 ## CCiC8 Sponsors
 
@@ -56,7 +56,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 | to be added |english | ![logoS](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoS.png) |
 | to be added |english | ![logoR](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/logoR.png) |
 
-<br/>
+![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
 ## CCiC8 Volunteers
 
