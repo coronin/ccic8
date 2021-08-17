@@ -19,17 +19,17 @@ This page was updated on 2021/8/16.
 |Section 1 | <span style="color:#B25195">Section 2</span> | Section 3|
 |13:00-14:30<br/>Manufacturing<br/>Software| <span style="color:#B25195">15:00-16:30<br/>Others</span> | 17:00-18:30<br/>Enviroment |
 |:-:|:-:|:-:|
-|SCUT-China| NWU-CHINA-B| CPU_CHINA|
-|NJTech_China| BNU-China| OUC-China|
-|NNU-China| LZU-HS-CHINA| DUT_China|
-|SZU-China| Think_Edu_China | Tongji_China|
-|Jiangnan_China| XHD-Wuhan-Pro-China| CAU_China|
-| HUST-China | IvyMaker-China| NAU-CHINA|
-|SJTU-Software| LINKS_China| GDOU-China|
-|Tongji_Software| BNDS_China| SMS_Shenzhen|
-|USTC-Software| SJTU-BioX-Shanghai| HiZJU-China|
-|SYSU-Software| Nanjing_NFLS | SCAU-China|
-|CSU_CHINA(iDEC)| &nbsp; | &nbsp; |
+|SCUT-China<sup>27#1</sup> | NWU-CHINA-B<sup>27#1</sup> | CPU_CHINA<sup>27#1</sup> |
+|NJTech_China<sup>27#2</sup> | BNU-China<sup>27#2</sup> | OUC-China<sup>27#2</sup> |
+|NNU-China<sup>27#3</sup> | LZU-HS-CHINA<sup>27#3</sup> | DUT_China<sup>27#3</sup> |
+|SZU-China<sup>27#4</sup> | Think_Edu_China<sup>27#4</sup>  | Tongji_China<sup>27#4</sup> |
+|Jiangnan_China<sup>27#5</sup> | XHD-Wuhan-Pro-China<sup>27#5</sup> | CAU_China<sup>27#5</sup> |
+|HUST-China<sup>27#1</sup>  | IvyMaker-China<sup>27#1</sup> | NAU-CHINA<sup>27#1</sup> |
+|SJTU-Software<sup>27#2</sup> | LINKS_China<sup>27#2</sup> | GDOU-China<sup>27#2</sup> |
+|Tongji_Software<sup>27#3</sup> | BNDS_China<sup>27#3</sup> | SMS_Shenzhen<sup>27#3</sup> |
+|USTC-Software<sup>27#4</sup> | SJTU-BioX-Shanghai<sup>27#4</sup> | HiZJU-China<sup>27#4</sup> |
+|SYSU-Software<sup>27#5</sup> | Nanjing_NFLS<sup>27#5</sup>  | SCAU-China<sup>27#5</sup> |
+|CSU_CHINA(iDEC)<sup>27#1</sup> | &nbsp; | &nbsp; |
 |===
 
 
@@ -39,16 +39,16 @@ This page was updated on 2021/8/16.
 |Section 4 | <span style="color:#B25195">Section 5</span>|
 |8:30-10:00<br/>Therapeutics| <span style="color:#B25195">10:30-12:00<br/>Therapeutics<br/>Foundational&nbsp;Advance</span>|
 |:-:|:-:|
-|BUCT| WHU-China|
-|ZJU-China| GreatBay_SCIE|
-|NJMU-China| Tsinghua|
-|FZU-China| BNUZ-China|
-|NMU_China| Nanjing-China|
-|LZU-CHINA| SYSU-CHINA|
-|SZPT-CHINA| SCU-China|
-|CSU_CHINA| NUDT_CHINA|
-|SUSTech_Shenzhen| FAFU-CHINA|
-| &nbsp; | Tianjin|
+|BUCT<sup>28#1</sup> | WHU-China<sup>28#1</sup> |
+|ZJU-China<sup>28#2</sup> | GreatBay_SCIE<sup>28#2</sup> |
+|NJMU-China<sup>28#3</sup> | Tsinghua<sup>28#3</sup> |
+|FZU-China<sup>28#4</sup> | BNUZ-China<sup>28#4</sup> |
+|NMU_China<sup>28#5</sup> | Nanjing-China<sup>28#5</sup> |
+|LZU-CHINA<sup>28#1</sup> | SYSU-CHINA<sup>28#1</sup> |
+|SZPT-CHINA<sup>28#2</sup> | SCU-China<sup>28#2</sup> |
+|CSU_CHINA<sup>28#3</sup> | NUDT_CHINA<sup>28#3</sup> |
+|SUSTech_Shenzhen<sup>28#4</sup> | FAFU-CHINA<sup>28#4</sup> |
+| &nbsp; | Tianjin<sup>28#5</sup> |
 |===
 
 
@@ -58,16 +58,16 @@ This page was updated on 2021/8/16.
 |Section 6 | <span style="color:#B25195">Section 7</span> | Section 8|
 |13:00-14:30<br/>Energy<br/>New&nbsp;Application| <span style="color:#B25195">15:00-16:30<br/>New&nbsp;Application</span> | 17:00-18:30<br/>Diagnostics<br/>Open |
 |:-:|:-:|:-:|
-|ShanghaiTech_China | SZ-SHD| HZAU-China|
-|NWU-CHINA-A| Jilin_China| XJTLU-CHINA|
-|UCAS-China| UESTC-China| NDNF_China|
-|CHINA-FAFU| TJUSLS_China| YiYe-China|
-|BIT-China| ZJUT-China| HUST2-China|
-|NPU-CHINA| NJU-China | BIT|
-|BUCT-China| XMU-China| NEU_CHINA|
-|ED-NAU| GreatBay_SZ| Fudan|
-|ECUST_China| Whittle| GreatBay_United|
-|XJTU-China| &nbsp; | USTC|
+|ShanghaiTech_China<sup>28#1</sup> | SZ-SHD<sup>28#1</sup> | HZAU-China<sup>28#1</sup> |
+|NWU-CHINA-A<sup>28#2</sup> | Jilin_China<sup>28#2</sup> | XJTLU-CHINA<sup>28#2</sup> |
+|UCAS-China<sup>28#3</sup> | UESTC-China<sup>28#3</sup> | NDNF_China<sup>28#3</sup> |
+|CHINA-FAFU<sup>28#4</sup> | TJUSLS_China<sup>28#4</sup> | YiYe-China<sup>28#4</sup> |
+|BIT-China<sup>28#5</sup> | ZJUT-China<sup>28#5</sup> | HUST2-China<sup>28#5</sup> |
+|NPU-CHINA<sup>28#1</sup> | NJU-China<sup>28#1</sup> | BIT<sup>28#1</sup> |
+|BUCT-China<sup>28#2</sup> | XMU-China<sup>28#2</sup> | NEU_CHINA<sup>28#2</sup> |
+|ED-NAU<sup>28#3</sup> | GreatBay_SZ<sup>28#3</sup> | Fudan<sup>28#3</sup> |
+|ECUST_China<sup>28#4</sup> | Whittle<sup>28#4</sup> | GreatBay_United<sup>28#4</sup> |
+|XJTU-China<sup>28#5</sup> | &nbsp; | USTC<sup>28#5</sup> |
 |===
 
 ![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
