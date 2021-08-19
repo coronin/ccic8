@@ -8,8 +8,8 @@ project_title: "Kissed by Light"
 people_attending_count: 9
 people_attending_names: ["隗晶晶","刘红波","刘婉婷","张敏","郑纯","梁颖楠","祝霏霏","林冰敏","黄桂怡"]
 team_school_name: "深圳职业技术学院"
-onsite_people_0812count: 8
 promotion_video_URL: "https://video.igem.org/w/4mCGZkJCF2ZDwC5d4zZq5q"
+onsite_people_0812count: 0
 ---
 
 

@@ -17,7 +17,7 @@ promotion_video_URL: "https://video.igem.org/w/1wRujvsqeZpjSg33fu1fQd"
 * 林霁煊
 
 ### Contact
-* linzhifanbio AT 163.com
+* 1950187 AT tongji.edu.cn
 
 ### An Environment Project
 
