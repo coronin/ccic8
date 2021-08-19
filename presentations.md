@@ -25,7 +25,7 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |SZU-China<sup>27#4</sup> | Nanjing_NFLS<sup>27#4</sup> | Tongji_China<sup>27#4</sup> |
 |Jiangnan_China<sup>27#5</sup> | XHD-Wuhan-Pro-China<sup>27#5</sup> | CAU_China<sup>27#5</sup> |
 |HUST-China<sup>27#1</sup>  | IvyMaker-China^<sup>27#1</sup> | NAU-CHINA<sup>27#1</sup> |
-|SJTU-Software^<sup>27#2</sup> | LINKS_China^<sup>27#2</sup> | GDOU-China<sup>27#2</sup> |
+|SJTU-Software^<sup>27#2</sup> | LINKS_China<sup>27#2</sup> | GDOU-China<sup>27#2</sup> |
 |Tongji_Software^<sup>27#3</sup> | CHINA-FAFU<sup>27#3</sup> | SMS_Shenzhen<sup>27#3</sup> |
 |USTC-Software^<sup>27#4</sup> | SJTU-BioX-Shanghai^<sup>27#4</sup> | HiZJU-China^<sup>27#4</sup> |
 |SYSU-Software<sup>27#5</sup> | NDNF_China<sup>27#5</sup>  | SCAU-China<sup>27#5</sup> |
@@ -60,7 +60,7 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |:-:|:-:|:-:|
 |ShanghaiTech_China^<sup>28#1</sup> | SZ-SHD<sup>28#1</sup> | HZAU-China<sup>28#1</sup> |
 |NWU-CHINA-A<sup>28#2</sup> | Jilin_China<sup>28#2</sup> | XJTLU-CHINA<sup>28#2</sup> |
-|UCAS-China<sup>28#3</sup> | UESTC-China^<sup>28#3</sup> | GreatBay_United<sup>28#3</sup> |
+|UCAS-China<sup>28#3</sup> | UESTC-China<sup>28#3</sup> | GreatBay_United<sup>28#3</sup> |
 |ED-NAU<sup>28#4</sup> | TJUSLS_China<sup>28#4</sup> | YiYe-China<sup>28#4</sup> |
 |BIT-China<sup>28#5</sup> | ZJUT-China<sup>28#5</sup> | HUST2-China<sup>28#5</sup> |
 |NPU-CHINA<sup>28#1</sup> | NJU-China<sup>28#1</sup> | BIT<sup>28#1</sup> |
