@@ -20,23 +20,22 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 ![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
 ## Useful Links
-- 会议通知：[一](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w)、[二](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ)、[三](https://mp.weixin.qq.com/s/foGI_pvS9mgn7U4QnkgdJA)、[四](https://mp.weixin.qq.com/s/kHSUv-n0_i8KB9p1VK6ZYg)、[五](https://mp.weixin.qq.com/s/G4kMQYmL63UeIRoJCmPEcg)
+- CCiC8 Announcements: [1](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w) &middot; [2](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ) &middot; [3](https://mp.weixin.qq.com/s/foGI_pvS9mgn7U4QnkgdJA) &middot; [4](https://mp.weixin.qq.com/s/kHSUv-n0_i8KB9p1VK6ZYg) &middot; [5](https://mp.weixin.qq.com/s/G4kMQYmL63UeIRoJCmPEcg) &middot; [6] &middot; [7] &middot; [8] &middot; [9]
 - [iGEM 2021 Global](https://igem2021global.slack.com)
-- [CCiC在书院](https://lexiangla.com/teams/k100014/)
+- [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)
 - [CCiC8期间的入校申请](https://www.wjx.cn/vj/r6cE82R.aspx)
-- [Application to Host CCiC8](https://shimo.im/docs/osqPvsJl3IcnSFlF/)
-- [Workbook for CCiC8](https://shimo.im/docs/r2SSnM80etAyLTP1/)
+- [CCiC8工作手册](https://shimo.im/docs/r2SSnM80etAyLTP1/)
 - not ready [Participate Handbook for CCiC8]()
 
 ## Important Dates
 - Before 2021/8/26 通过邮件发送用于展演ppt或在签到时提供U盘【之后不能更改，展演时上台直接播放，每个项目展演8分钟】
-- 2021/8/20 通过邮件发送需打印的线下参会时使用的海报【尺寸不超过1.2m✕1.2m，画面精度够的JPG即可】
+- 2021/8/20 poster due (width 0.6m, height 0.9m, format JPG)
 - 2021/7/24 [presentations](/presentations) schedule is live
 - 2021/6/19 pricing of surrounding [hotels](/hotels)
 - 2021/6/7 draft of [the sponsorship brochure](https://shimo.im/docs/yaWIlYCmSN4ahjwu/)
 - 2021/5/23 link to [submit participates info](https://www.wjx.cn/vj/hWQFAcz.aspx), link to [submit project abstract](https://www.wjx.cn/vj/h4icxcB.aspx)
 - 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; [call for volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)
-- 2021/3/14 application submitted
+- 2021/3/14 [application](https://shimo.im/docs/osqPvsJl3IcnSFlF/) submitted
 
 ![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
