@@ -9,6 +9,7 @@ people_attending_count: 8
 people_attending_names: ["张艺瀛","林霁煊","胡红娟","陈佳艺","石祐君","王远嘉","陇兴涛","赵瀚清"]
 team_school_name: "同济大学"
 promotion_video_URL: "https://video.igem.org/w/1wRujvsqeZpjSg33fu1fQd"
+onsite_people_0812count: 8
 ---
 
 
