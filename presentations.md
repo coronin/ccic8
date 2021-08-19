@@ -9,7 +9,9 @@
 | 讨论间<sup>28#4</sup> |腾讯会议 510 280 050
 | 讨论间<sup>28#5</sup> |腾讯会议 687 953 784
 
-We gratefully acknowledge the support of the following sponsors:<br/>![sponsors in a row](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/sponsors-v1.png)<br/>![banner ads](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
+We gratefully acknowledge the support of the following sponsors:
+
+![sponsors in a row](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/sponsors-v1.png)
 
 This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 
