@@ -8,7 +8,7 @@ project_title: "*E. coli* Keen Doctor"
 people_attending_count: 19
 people_attending_names: ["刘路旋","杜芸希","卢嘉阳","黄昱","鄢碧莹","苏梓南","陆飞扬","李霁筱","范思婷","吴静怡","李浩","薛婉颖","阳文婧","高天雨","邓颖嘉","李健中","梁理骐","谭佳伦","叶舒丹"]
 team_school_name: "北京师范大学珠海校区"
-onsite_people_0812count: 10
+onsite_people_0812count: 0
 ---
 
 

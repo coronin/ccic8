@@ -9,7 +9,7 @@ people_attending_count: 10
 people_attending_names: ["刘觐荣","吕梦","张逸杰","韩方","李艺民","张晓霞","吴欢晴","高欢","郑毅旻","李凌"]
 team_school_name: "集思学院"
 promotion_video_URL: "https://video.igem.org/w/ihwMoyxfUSQXyM8dB2wVeU"
-onsite_people_0812count: 5
+onsite_people_0812count: 0
 ---
 
 

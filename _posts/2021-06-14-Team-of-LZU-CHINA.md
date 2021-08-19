@@ -8,8 +8,8 @@ project_title: "利用CRISPR-Cas13系统靶向抑制SARS-CoV-2病毒感染"
 people_attending_count: 6
 people_attending_names: ["朱坤","哈布尔","杨焠焱","甘梓澳","刘天锦","王芙蓉"]
 team_school_name: "兰州大学"
-onsite_people_0812count: 6
 promotion_video_URL: "https://video.igem.org/w/7xeCJk7DPxMERSr9z6Ftsn"
+onsite_people_0812count: 0
 ---
 
 

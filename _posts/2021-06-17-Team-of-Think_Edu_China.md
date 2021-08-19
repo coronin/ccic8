@@ -8,8 +8,8 @@ project_title: "DEBIOTICS — Degradation of Antibiotics"
 people_attending_count: 9
 people_attending_names: ["贾昊","田家","吴梦韩","张磊磊","田博","赵一清","肖晓","赵显庆","李蕾"]
 team_school_name: "深圳思客教育科技"
-onsite_people_0812count: 5
 promotion_video_URL: "https://video.igem.org/w/m84UzewU64GfTb2Ww2p7h9"
+onsite_people_0812count: 0
 ---
 
 
