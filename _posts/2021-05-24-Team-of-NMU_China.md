@@ -9,6 +9,7 @@ people_attending_count: 22
 people_attending_names: ["雷长海","胡适","毛瑞雪","李琨","朱梦梅","华天桢","邵美瑄","林佳莉","沈晗婷","郑朱婷","江舒雅","丁子健","曾垣烨","何芸蕴","张田恬","丁瑜","舒惺贻","王璇","施欢笑","尹桐","俞逸捷","徐志豪"]
 team_school_name: "海军军医大学"
 promotion_video_URL: "https://video.igem.org/w/hCFRGMoWiS95iUq8yae1bG"
+onsite_people_0812count: 0
 ---
 
 

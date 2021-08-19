@@ -8,7 +8,7 @@ project_title: "To Realize In-situ Regeneration of Office Waste Paper: Recombina
 people_attending_count: 7
 people_attending_names: ["胡雨薇","周颖","王子睿","王树恒","陈希","李荐育","龙维汉"]
 team_school_name: "电子科技大学"
-onsite_people_0812count: 6
+onsite_people_0812count: 0
 ---
 
 
