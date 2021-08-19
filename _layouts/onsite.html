@@ -26,11 +26,12 @@
       {{ content }}
 
 {% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
-
+{% assign teams_array = "" | split:',' %}
 <h2>People will be onsite</h2>
 {% assign counter = 0 %}
 {% for page in sorted_posts %}
 {% if page.team_name != 'Finally' and page.onsite_people_0812count > 0 %}
+{% assign teams_array=teams_array | push:page.team_name %}
 <h4>{{ site.url }}{{ page.url }}
   {% if page.onsite_people_0812count != page.people_attending_count %}<span style="background-color:red">需要精确线下参会的人名</span>{% endif %}
   </h4>
@@ -44,6 +45,8 @@
 {% assign people_names_array=people_names_array | push:a_name %}
 {% endfor %}
 {% endif %}{% endfor %}
+
+<pre>{{ teams_array }}</pre>
 
 <h2>Teams have confirmed to attend the meeting online</h2>
 {% for page in sorted_posts %}
