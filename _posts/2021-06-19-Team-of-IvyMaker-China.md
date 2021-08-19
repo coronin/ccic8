@@ -5,11 +5,11 @@ team_igem_id: "3829"
 team_logo_status: ""
 team_insured: "yes"
 project_title: "The Game-changing Magic Yeast"
-people_attending_count: 10
+people_attending_count: 9
 people_attending_names: ["周菁","夏媛媛","江一达","张颖","Jonathan Shang-Hong Ji
-","Albert Ziye Ma","田加恩","王佳楠","李宇翔","楼博文"]
+","Albert Ziye Ma","田加恩","李宇翔","楼博文"]
 team_school_name: "上海烩客科技有限公司"
-onsite_people_0812count: 8
+onsite_people_0812count: 9
 ---
 
 

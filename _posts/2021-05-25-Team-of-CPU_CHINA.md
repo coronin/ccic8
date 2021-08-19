@@ -5,10 +5,10 @@ team_igem_id: "3853"
 team_logo_status: "1"
 team_insured: ""
 project_title: "Construction of MnP-AAO-HFB1 composite system based on CRISPR/dCas9 programmable assembly technology for the oxidation of polyethylene plastic"
-people_attending_count: 22
-people_attending_names: ["郑林雨","黄子洋","路维轩","管健翔","袁滢","沈泽楷","罗鹏","陈文韬","吕瞳","王端端","张佳","刘宫羽","袁梓涵","李笑莹","钱鸿颉","梁乐怡","刘衍锋","马如意","姚雨辰","王秦月","魏泽轩","任秋翰"]
+people_attending_count: 2
+people_attending_names: ["沈泽楷","刘衍锋"]
 team_school_name: "中国药科大学"
-onsite_people_0812count: 4
+onsite_people_0812count: 2
 promotion_video_URL: "https://video.igem.org/w/sHeaf3vk8E8Rv8bUy5dcb3"
 ---
 

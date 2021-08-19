@@ -14,7 +14,7 @@ onsite_people_0812count: 7
 
 
 ### Team Leader
-* 卢毓昕
+* 卢毓昕*
 
 ### Contact
 * lyxose1097 AT sjtu.edu.cn

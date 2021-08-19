@@ -5,10 +5,10 @@ team_igem_id: "3847"
 team_logo_status: "1"
 team_insured: ""
 project_title: "Phage_MAP"
-people_attending_count: 14
-people_attending_names: ["汪明杰","卓正一","赵艳萍","杨兴博","田霈","王上游","孟繁青","王立友","李乐天","汪峻","李松洋","段牧子","张诗曼","胡冉婷"]
+people_attending_count: 6
+people_attending_names: ["杨兴博","张诗曼","胡冉婷","赵艳萍","汪明杰","卓正一"]
 team_school_name: "同济大学"
-onsite_people_0812count: 8
+onsite_people_0812count: 6
 promotion_video_URL: "https://video.igem.org/w/hCHD2AAitBnumnyUab5LDZ"
 ---
 

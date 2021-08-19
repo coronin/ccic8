@@ -5,10 +5,10 @@ team_igem_id: "3731"
 team_logo_status: "1"
 team_insured: "yes"
 project_title: "Polyp Micro：Altering Polyp Synthesis for the Modulation of Gut Microbiome"
-people_attending_count: 8
-people_attending_names: ["齐冠曈","袁青青","李欣怡","郑婉婷","王俣涵","曾妍","胡鑫娜","赵嫣然"]
+people_attending_count: 4
+people_attending_names: ["张笛雅","曾妍","安光锴","齐冠曈"]
 team_school_name: "南京大学"
-onsite_people_0812count: 8
+onsite_people_0812count: 4
 ---
 
 
