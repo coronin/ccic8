@@ -8,8 +8,8 @@ project_title: "ONCOKILLER: Aptamer functionalized drugs for the curing of HER2 
 people_attending_count: 6
 people_attending_names: ["赵若朴","李行健","周芷漾","王子骄","胡琳青","付垂垂"]
 team_school_name: "深圳国际交流学院"
-onsite_people_0812count: 5
 promotion_video_URL: "https://video.igem.org/w/iv6QEJPGcCw15eHvxpd7mL"
+onsite_people_0812count: 0
 ---
 
 

@@ -8,8 +8,8 @@ project_title: "人工鲎试剂"
 people_attending_count: 9
 people_attending_names: ["张昆","王子墨","刘兆翔","刘一臻","李俊锡","赵鹤","孙智","张轩林","程仲昇"]
 team_school_name: "蓝晶实验室"
-onsite_people_0812count: 8
 promotion_video_URL: "https://video.igem.org/w/hfoB8ZVu1muKFLUvQeAPQV"
+onsite_people_0812count: 0
 ---
 
 
