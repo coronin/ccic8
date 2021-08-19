@@ -43,11 +43,11 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |ZJU-China<sup>28#2</sup> | GreatBay_SCIE<sup>28#2</sup> |
 |NJMU-China<sup>28#3</sup> | Tsinghua<sup>28#3</sup> |
 |FZU-China<sup>28#4</sup> | BNUZ-China<sup>28#4</sup> |
-|NMU_China<sup>28#5</sup> | Nanjing-China^<sup>28#5</sup> |
+|NMU_China<sup>28#5</sup> | FAFU-CHINA<sup>28#5</sup> |
 |LZU-CHINA<sup>28#1</sup> | SYSU-CHINA<sup>28#1</sup> |
 |SZPT-CHINA<sup>28#2</sup> | SCU-China<sup>28#2</sup> |
 |CSU_CHINA^<sup>28#3</sup> | NUDT_CHINA<sup>28#3</sup> |
-|SUSTech_Shenzhen^<sup>28#4</sup> | FAFU-CHINA<sup>28#4</sup> |
+|SUSTech_Shenzhen^<sup>28#4</sup> | Nanjing-China^<sup>28#4</sup> |
 | &nbsp; | Tianjin^<sup>28#5</sup> |
 |===
 
@@ -60,13 +60,13 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |:-:|:-:|:-:|
 |ShanghaiTech_China^<sup>28#1</sup> | SZ-SHD<sup>28#1</sup> | HZAU-China<sup>28#1</sup> |
 |NWU-CHINA-A<sup>28#2</sup> | Jilin_China<sup>28#2</sup> | XJTLU-CHINA<sup>28#2</sup> |
-|UCAS-China<sup>28#3</sup> | UESTC-China^<sup>28#3</sup> | USTC^<sup>28#3</sup> |
-|XJTU-China^<sup>28#4</sup> | TJUSLS_China<sup>28#4</sup> | YiYe-China<sup>28#4</sup> |
+|UCAS-China<sup>28#3</sup> | UESTC-China^<sup>28#3</sup> | GreatBay_United<sup>28#3</sup> |
+|ED-NAU<sup>28#4</sup> | TJUSLS_China<sup>28#4</sup> | YiYe-China<sup>28#4</sup> |
 |BIT-China<sup>28#5</sup> | ZJUT-China<sup>28#5</sup> | HUST2-China<sup>28#5</sup> |
 |NPU-CHINA<sup>28#1</sup> | NJU-China<sup>28#1</sup> | BIT<sup>28#1</sup> |
 |BUCT-China<sup>28#2</sup> | XMU-China<sup>28#2</sup> | NEU_CHINA<sup>28#2</sup> |
-|ED-NAU<sup>28#3</sup> | GreatBay_SZ<sup>28#3</sup> | Fudan^<sup>28#3</sup> |
-|ECUST_China^<sup>28#4</sup> | Whittle<sup>28#4</sup> | GreatBay_United<sup>28#4</sup> |
+|XJTU-China^<sup>28#3</sup> | GreatBay_SZ<sup>28#3</sup> | Fudan^<sup>28#3</sup> |
+|ECUST_China^<sup>28#4</sup> | Whittle<sup>28#4</sup> | USTC^<sup>28#4</sup> |
 | SJTang^<sup>28#5</sup> | LZU-HS-CHINA<sup>28#5</sup> | &nbsp; |
 |===
 
