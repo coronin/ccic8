@@ -8,6 +8,7 @@ project_title: "Mr. Tony"
 people_attending_count: 12
 people_attending_names: ["樊昌鑫","石家诚","王博涵","刘心敏","王腾","程名媛","杨洁","刘超然","李依瑾","张玉竹","黄天昊","陈雯菁"]
 team_school_name: "华中科技大学生命科学与技术学院"
+promotion_video_URL: "https://video.igem.org/w/aMwNT6eBryGs8xG5avXD51"
 ---
 
 
