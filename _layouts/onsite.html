@@ -45,8 +45,8 @@
 {% assign people_names_array=people_names_array | push:a_name %}
 {% endfor %}
 {% endif %}{% endfor %}
-
-<pre>{{ teams_array }}</pre>
+<!-- {% for a_team in teams_array %}{{ a_team }}
+{% endfor %} -->
 
 <h2>Teams have confirmed to attend the meeting online</h2>
 {% for page in sorted_posts %}
