@@ -8,8 +8,8 @@ project_title: "NEOLEATHIC AGE"
 people_attending_count: 12
 people_attending_names: ["张斯勤","吴若希","ZHANGZEXUAN","周子湘","吴美伦","江雨泽","赵尹涵","陈芃","王博祥","周莎","余俊","王天翔"]
 team_school_name: "灵珠科技"
-onsite_people_0812count: 11
 promotion_video_URL: "https://video.igem.org/w/iheNhZPU3mAxCfCMSwDYPD"
+onsite_people_0812count: 0
 ---
 
 
