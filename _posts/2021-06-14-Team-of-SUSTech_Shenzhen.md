@@ -9,6 +9,7 @@ people_attending_count: 8
 people_attending_names: ["龚颖璇","石松林","王纤纤","苏祺伦","屈泽阳","王叶晗","虞立卿","江南飞"]
 team_school_name: "南方科技大学"
 promotion_video_URL: "https://video.igem.org/w/4Khi8unRKGKcFQg3L4ShNL"
+onsite_people_0812count: 8
 ---
 
 

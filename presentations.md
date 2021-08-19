@@ -67,7 +67,7 @@ This page was updated on 2021/8/18.
 |BUCT-China<sup>28#2</sup> | XMU-China<sup>28#2</sup> | NEU_CHINA<sup>28#2</sup> |
 |ED-NAU<sup>28#3</sup> | GreatBay_SZ<sup>28#3</sup> | Fudan<sup>28#3</sup> |
 |ECUST_China<sup>28#4</sup> | Whittle<sup>28#4</sup> | GreatBay_United<sup>28#4</sup> |
-| LZU-HS-CHINA<sup>28#5</sup> | &nbsp; | &nbsp; |
+| SJTang<sup>28#5</sup> | LZU-HS-CHINA<sup>28#5</sup> | &nbsp; |
 |===
 
 ![banner ads](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)

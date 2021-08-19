@@ -8,6 +8,7 @@ project_title: "IBD的益生菌联合疗法与新型诊断工具"
 people_attending_count: 4
 people_attending_names: ["刘金澔","陈思屹","李若蘅","王睿"]
 team_school_name: "清华大学生命科学学院"
+onsite_people_0812count: 0
 ---
 
 

@@ -9,6 +9,7 @@ people_attending_count: 11
 people_attending_names: ["闵璐","邱鑫源","刘传扬","叶英钤","方芷欣","刘庆祎","胡玉","李芊谊","李泳江","王雨璇","谢聪"]
 team_school_name: "中国人民解放军国防科技大学"
 promotion_video_URL: "https://video.igem.org/w/81PAp7d9dLkjE23QuxdAnN"
+onsite_people_0812count: 0
 ---
 
 
