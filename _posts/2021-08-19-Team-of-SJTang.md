@@ -5,8 +5,8 @@ team_igem_id: "3888"
 team_logo_status: "1"
 team_insured: ""
 project_title: "Eco.H: Carbon-neutral Hydrogen Production"
-people_attending_count: 9
-people_attending_names: ["李家恒","王世崇","汪思宇","张登钤","雷林翰","张焱迪","倪好","白悦琪","钱秋烨"]
+people_attending_count: 7
+people_attending_names: ["李家恒","丁元枨","王世崇","汪思宇","郭子轩","白悦琪","钱秋烨"]
 team_school_name: "蓝晶实验室"
 promotion_video_URL: "https://video.igem.org/w/gqokztgG9DCyq4k7JgFpcy"
 onsite_people_0812count: 7
