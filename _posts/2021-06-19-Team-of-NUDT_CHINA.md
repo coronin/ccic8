@@ -2,7 +2,7 @@
 layout: post
 team_name: "NUDT_CHINA"
 team_igem_id: "4016"
-team_logo_status: ""
+team_logo_status: "1"
 team_insured: ""
 project_title: "Light-mediated control of cell cycle in mammalian cells"
 people_attending_count: 11

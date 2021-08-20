@@ -2,7 +2,7 @@
 layout: post
 team_name: "HZAU-China"
 team_igem_id: "3733"
-team_logo_status: ""
+team_logo_status: "1"
 team_insured: ""
 project_title: "P.E.T: Pets’ Enteric Test"
 people_attending_count: 4
