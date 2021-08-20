@@ -49,6 +49,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 |[镁伽](https://www.megarobo.tech/) |MEGAROBO |![logo of megarobo](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/meijia.png) |
 |[金斯瑞生物科技](https://www.genscript.com.cn/) |GenScript |![logo of genscript](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/genscript.png) |
 |[华大基因](https://www.genomics.cn/) |BGI |![logo of BGI](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/bgi.png) |
+|[因美纳](https://www.illumina.com/) |illumina |![logo of illumina](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/illumina.png) |
 
 ![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
