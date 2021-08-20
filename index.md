@@ -44,12 +44,12 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 |会议赞助商 |Sponsor |Logo |
 |----|----|----|
 |[云锋基金](http://www.yfc.cn) |Yunfeng Capital |![logo of yfc](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/yunfeng.png) |
-|[苏州生物医药产业园](http://www.biobay.com.cn/) |bioBAY |![logo of biobay](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/biobay.png) |
+|[苏州生物医药产业园](http://www.biobay.com.cn/) |BioBAY |![logo of biobay](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/biobay.png) |
 |[近岸蛋白质](https://www.novoprotein.com.cn/) |Novoprotein |![logo of novoprotein](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/novoprotein.png) |
 |[镁伽](https://www.megarobo.tech/) |MEGAROBO |![logo of megarobo](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/meijia.png) |
 |[金斯瑞生物科技](https://www.genscript.com.cn/) |GenScript |![logo of genscript](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/genscript.png) |
 |[华大基因](https://www.genomics.cn/) |BGI |![logo of BGI](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/bgi.png) |
-|[因美纳](https://www.illumina.com/) |illumina |![logo of illumina](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/illumina.png) |
+|[因美纳](https://www.illumina.com/) |Illumina |![logo of illumina](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/illumina.png) |
 
 ![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
