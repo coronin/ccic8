@@ -26,12 +26,12 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |NNU-China<sup>27#3</sup> | BNDS_China^<sup>27#3</sup> | DUT_China^<sup>27#3</sup> |
 |SZU-China<sup>27#4</sup> | Nanjing_NFLS<sup>27#4</sup> | NAU-CHINA<sup>27#4</sup> |
 |Jiangnan_China<sup>27#5</sup> | XHD-Wuhan-Pro-China<sup>27#5</sup> | CAU_China<sup>27#5</sup> |
-|HUST-China<sup>27#1</sup>  | IvyMaker-China^<sup>27#1</sup> | Tongji_China^<sup>27#1</sup> |
+|HUST-China<sup>27#1</sup>  | ICJFLS^<sup>27#1</sup> | Tongji_China^<sup>27#1</sup> |
 |SJTU-Software^<sup>27#2</sup> | LINKS_China<sup>27#2</sup> | GDOU-China<sup>27#2</sup> |
 |Tongji_Software^<sup>27#3</sup> | CHINA-FAFU<sup>27#3</sup> | SMS_Shenzhen<sup>27#3</sup> |
 |USTC-Software^<sup>27#4</sup> | SJTU-BioX-Shanghai^<sup>27#4</sup> | HiZJU-China^<sup>27#4</sup> |
 |SYSU-Software<sup>27#5</sup> | NDNF_China<sup>27#5</sup>  | SCAU-China<sup>27#5</sup> |
-|CSU_CHINA(iDEC)^<sup>27#1</sup> | ICJFLS^<sup>27#1</sup> | Think_Edu_China<sup>27#1</sup> |
+|CSU_CHINA(iDEC)^<sup>27#1</sup> | &nbsp; | Think_Edu_China<sup>27#1</sup> |
 |===
 
 
@@ -41,7 +41,7 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |Section 4 | <span style="color:#B25195">Section 5</span>|
 |8:30-10:00<br/>Therapeutics| <span style="color:#B25195">10:30-12:00<br/>Therapeutics<br/>Foundational&nbsp;Advance</span>|
 |:-:|:-:|
-|BUCT<sup>28#1</sup> | WHU-China<sup>28#1</sup> |
+|BUCT<sup>28#1</sup> | IvyMaker-China^<sup>28#1</sup> |
 |ZJU-China<sup>28#2</sup> | GreatBay_SCIE<sup>28#2</sup> |
 |NJMU-China<sup>28#3</sup> | Tsinghua<sup>28#3</sup> |
 |FZU-China<sup>28#4</sup> | BNUZ-China<sup>28#4</sup> |
@@ -50,7 +50,7 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |SZPT-CHINA<sup>28#2</sup> | SCU-China<sup>28#2</sup> |
 |CSU_CHINA^<sup>28#3</sup> | NUDT_CHINA<sup>28#3</sup> |
 |SUSTech_Shenzhen^<sup>28#4</sup> | Nanjing-China^<sup>28#4</sup> |
-| &nbsp; | Tianjin^<sup>28#5</sup> |
+| WHU-China<sup>28#5</sup> | Tianjin^<sup>28#5</sup> |
 |===
 
 
