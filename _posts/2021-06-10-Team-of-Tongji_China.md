@@ -5,11 +5,11 @@ team_igem_id: "3823"
 team_logo_status: "1"
 team_insured: ""
 project_title: "LOOK！"
-people_attending_count: 8
-people_attending_names: ["张艺瀛","林霁煊","胡红娟","陈佳艺","石祐君","王远嘉","陇兴涛","赵瀚清"]
+people_attending_count: 7
+people_attending_names: ["胡红娟","张艺瀛","陈佳艺","吴姜","赵瀚清","王远嘉","康蕴哲"]
 team_school_name: "同济大学"
 promotion_video_URL: "https://video.igem.org/w/1wRujvsqeZpjSg33fu1fQd"
-onsite_people_0812count: 8
+onsite_people_0812count: 7
 ---
 
 

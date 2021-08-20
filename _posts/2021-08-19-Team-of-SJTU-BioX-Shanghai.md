@@ -6,7 +6,7 @@ team_logo_status: "1"
 team_insured: ""
 project_title: "Detection Blitz：an automatic test strip developing system"
 people_attending_count: 7
-people_attending_names: ["朱子健","乔滢瑞","任思源","韩欣越","李奕帆","陈柏润","贺玉莹"]
+people_attending_names: ["朱子健","贺玉莹","陈柏润","李奕帆","乔滢瑞","任思源","韩欣越"]
 team_school_name: "上海交通大学"
 promotion_video_URL: "https://video.igem.org/w/o7uaVTpqo98B9jDFs1X2r4"
 onsite_people_0812count: 7
