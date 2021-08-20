@@ -20,7 +20,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 ![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
 ## Useful Links
-- CCiC8 Announcements: [1](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w) &middot; [2](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ) &middot; [3](https://mp.weixin.qq.com/s/foGI_pvS9mgn7U4QnkgdJA) &middot; [4](https://mp.weixin.qq.com/s/kHSUv-n0_i8KB9p1VK6ZYg) &middot; [5](https://mp.weixin.qq.com/s/G4kMQYmL63UeIRoJCmPEcg) &middot; [6] &middot; [7] &middot; [8] &middot; [9]
+- CCiC8 Announcements: [1](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w) &middot; [2](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ) &middot; [3](https://mp.weixin.qq.com/s/foGI_pvS9mgn7U4QnkgdJA) &middot; [4](https://mp.weixin.qq.com/s/kHSUv-n0_i8KB9p1VK6ZYg) &middot; [5](https://mp.weixin.qq.com/s/G4kMQYmL63UeIRoJCmPEcg) &middot; [6](https://mp.weixin.qq.com/s/1xznCj2jSFEyMcqDUmYtTA) &middot; [7] &middot; [8] &middot; [9]
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)
 - [CCiC8期间的入校申请](https://www.wjx.cn/vj/r6cE82R.aspx)
