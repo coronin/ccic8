@@ -9,7 +9,7 @@ people_attending_count: 6
 people_attending_names: ["苏娜","任桂杰","隋丰骏","刘子涵","李大伟","黄雷"]
 team_school_name: "济南外国语学校"
 promotion_video_URL: "https://video.igem.org/w/pA3UvhWxW1dKz4zpy1ohAV"
-onsite_people_0812count: 4
+onsite_people_0812count: 0
 ---
 
 
