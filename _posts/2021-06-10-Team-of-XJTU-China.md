@@ -5,10 +5,10 @@ team_igem_id: "3832"
 team_logo_status: "1"
 team_insured: "yes"
 project_title: "Tryptophan iDream"
-people_attending_count: 3
-people_attending_names: ["陈泓宇","姚海龙","周初筱"]
+people_attending_count: 2
+people_attending_names: ["陈泓宇","姚海龙"]
 team_school_name: "西安交通大学"
-onsite_people_0812count: 3
+onsite_people_0812count: 2
 promotion_video_URL: "https://video.igem.org/w/j5E8xUwTq41LHSE7ivATE8"
 ---
 
