@@ -67,7 +67,7 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |BIT-China<sup>28#5</sup> | ZJUT-China<sup>28#5</sup> | HUST2-China<sup>28#5</sup> |
 |NPU-CHINA<sup>28#1</sup> | NJU-China<sup>28#1</sup> | BIT<sup>28#1</sup> |
 |BUCT-China<sup>28#2</sup> | XMU-China<sup>28#2</sup> | NEU_CHINA<sup>28#2</sup> |
-|XJTU-China^<sup>28#3</sup> | GreatBay_SZ<sup>28#3</sup> | Fudan^<sup>28#3</sup> |
+|XJTU-China<sup>28#3</sup> | GreatBay_SZ<sup>28#3</sup> | Fudan^<sup>28#3</sup> |
 |ECUST_China^<sup>28#4</sup> | Whittle<sup>28#4</sup> | USTC^<sup>28#4</sup> |
 | SJTang^<sup>28#5</sup> | &nbsp; | &nbsp; |
 |===
