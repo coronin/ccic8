@@ -27,11 +27,11 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |SZU-China<sup>27#4</sup> | Nanjing_NFLS<sup>27#4</sup> | NAU-CHINA<sup>27#4</sup> |
 |Jiangnan_China<sup>27#5</sup> | XHD-Wuhan-Pro-China<sup>27#5</sup> | CAU_China<sup>27#5</sup> |
 |HUST-China<sup>27#1</sup>  | ICJFLS<sup>27#1</sup> | Tongji_China^<sup>27#1</sup> |
-|SJTU-Software^<sup>27#2</sup> | LINKS_China<sup>27#2</sup> | GDOU-China<sup>27#2</sup> |
+|SJTU-Software^<sup>27#2</sup> | LINKS_China<sup>27#2</sup> | Think_Edu_China<sup>27#2</sup> |
 |Tongji_Software^<sup>27#3</sup> | CHINA-FAFU<sup>27#3</sup> | SMS_Shenzhen<sup>27#3</sup> |
 |USTC-Software<sup>27#4</sup> | SJTU-BioX-Shanghai^<sup>27#4</sup> | HiZJU-China<sup>27#4</sup> |
 |SYSU-Software<sup>27#5</sup> | NDNF_China<sup>27#5</sup>  | SCAU-China<sup>27#5</sup> |
-|CSU_CHINA(iDEC)^<sup>27#1</sup> | &nbsp; | Think_Edu_China<sup>27#1</sup> |
+|CSU_CHINA(iDEC)^<sup>27#1</sup> | &nbsp; | &nbsp; |
 |===
 
 
