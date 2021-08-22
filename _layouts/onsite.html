@@ -33,7 +33,7 @@
 {% if page.team_name != 'Finally' and page.onsite_people_0812count > 0 %}
 {% assign teams_array=teams_array | push:page.team_name %}
 <h4>{{ site.url }}{{ page.url }}
-  {% if page.onsite_people_0812count != page.people_attending_count %}<span style="background-color:red">需要精确线下参会的人名</span>{% endif %}
+  {% if page.onsite_people_0812count < page.people_attending_count %}<span>线上参会人数({{ page.people_attending_count }}-{{ page.onsite_people_0812count }})={{ page.people_remote.size }}</span>{% endif %}
   </h4>
 {% for a_name in page.people_attending_names %}{% assign counter=counter | plus:1 %}
 <p>

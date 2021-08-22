@@ -5,10 +5,11 @@ team_igem_id: "3898"
 team_logo_status: "1"
 team_insured: ""
 project_title: "Intricate modular enzyme assembly for enhanced PET plastic degradation and metabolic flux"
-people_attending_count: 6
-people_attending_names: ["周海月","齐境萱","霍玉亮","赵奕恒","张恩泽","李宗奇"]
+people_attending_count: 21
+people_attending_names: ["周海月","齐境萱","霍玉亮","赵奕恒","张恩泽","李宗奇","崔淇","周文婧"]
+people_remote: ["陈思哲","陈静","陈燕","刘原源","朴舒芃","陈文博","任杰","马松林","金延铭","宋炳辉","岳丽婷","侯灵杰","张一涵"]
 team_school_name: "大连理工大学"
-onsite_people_0812count: 6
+onsite_people_0812count: 8
 promotion_video_URL: "https://video.igem.org/w/bgNjcwEgzp9B5t743Z4UrQ"
 ---
 
