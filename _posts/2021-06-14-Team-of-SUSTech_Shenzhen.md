@@ -5,11 +5,11 @@ team_igem_id: "3914"
 team_logo_status: "1"
 team_insured: "yes"
 project_title: "开发可防止腹泻脱水的肠道工程菌 Development of gut microbes to prevent diarrhea-related dehydration"
-people_attending_count: 6
-people_attending_names: ["石松林","屈泽阳","王叶晗","王纤纤","虞立卿","江南飞"]
+people_attending_count: 7
+people_attending_names: ["石松林","屈泽阳","王叶晗","王纤纤","虞立卿","江南飞","苏祺伦"]
 team_school_name: "南方科技大学"
 promotion_video_URL: "https://video.igem.org/w/4Khi8unRKGKcFQg3L4ShNL"
-onsite_people_0812count: 6
+onsite_people_0812count: 7
 ---
 
 
