@@ -3,7 +3,7 @@ layout: post
 team_name: "CPU_CHINA"
 team_igem_id: "3853"
 team_logo_status: "1"
-team_insured: ""
+team_insured: "1"
 project_title: "Construction of MnP-AAO-HFB1 composite system based on CRISPR/dCas9 programmable assembly technology for the oxidation of polyethylene plastic"
 people_attending_count: 22
 people_attending_names: ["沈泽楷","刘衍锋","张佳","任秋翰"]

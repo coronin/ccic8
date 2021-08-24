@@ -4,9 +4,9 @@ team_name: "LZU-CHINA"
 team_igem_id: "3760"
 team_logo_status: "1"
 team_insured: "yes"
-project_title: "利用CRISPR-Cas13系统靶向抑制SARS-CoV-2病毒感染"
-people_attending_count: 6
-people_attending_names: ["朱坤","哈布尔","杨焠焱","甘梓澳","刘天锦","王芙蓉"]
+project_title: "Targeted inhibition of SARS-CoV-2 infection based on CRISPR-Cas13d system"
+people_attending_count: 12
+people_attending_names: ["朱坤","哈布尔","杨焠焱","甘梓澳","刘天锦","王芙蓉","陈靖涵","陈良松","赵允浩","吴菁媛","游钦清","刘阳"]
 team_school_name: "兰州大学"
 promotion_video_URL: "https://video.igem.org/w/7xeCJk7DPxMERSr9z6Ftsn"
 onsite_people_0812count: 0
