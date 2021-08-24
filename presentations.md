@@ -87,7 +87,7 @@ This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
 |8/27 20:00 | Synbio beyond Containment |腾讯会议 970 555 580|
 |8/27 20:00 | iGEM Engineering |腾讯会议 487 382 727|
 |8/28 18:30 | iGEM Modeling |腾讯会议 467 437 912|
-|8/28 19:30 | High-School Meetup |腾讯会议 108 495 464|
+|8/28 20:30 | High-School Meetup |腾讯会议 108 495 464|
 
 ![banner ads](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
