@@ -8,7 +8,7 @@ project_title: "Polyp Micro：Altering Polyp Synthesis for the Modulation of Gut
 people_attending_count: 4
 people_attending_names: ["张笛雅","曾妍","安光锴","齐冠曈"]
 team_school_name: "南京大学"
-onsite_people_0812count: 4
+onsite_people_0812count: 0
 ---
 
 
