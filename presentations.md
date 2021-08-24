@@ -20,7 +20,7 @@ We gratefully acknowledge the support of the following sponsors:
 This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
 
 
-## 2021-8-27 13:00-18:30
+## Project Presentations 8/27 13:00-18:30
 
 |---
 |Section 1 | <span style="color:#B25195">Section 2</span> | Section 3|
@@ -40,7 +40,7 @@ This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
 |===
 
 
-## 2021-8-28 8:30-12:00
+## Project Presentations 8/28 8:30-12:00
 
 |---
 |Section 4 | <span style="color:#B25195">Section 5</span>|
@@ -59,7 +59,7 @@ This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
 |===
 
 
-## 2021-8-28 13:00-18:30
+## Project Presentations 8/28 13:00-18:30
 
 |---
 |Section 6 | <span style="color:#B25195">Section 7</span> | Section 8|
@@ -78,7 +78,7 @@ This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
 |===
 
 
-## Workshops and Presentations during CCiC8
+## Workshops and Sponsored Presentations during CCiC8
 
 |8/27 14:30 | Intelligent Automation in Synbio |腾讯会议 404 469 7665 |
 |8/27 16:30 | GEnSmart&trade; Codon Optimization |腾讯会议 404 469 7665 |
