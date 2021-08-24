@@ -81,7 +81,7 @@ This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
 ## Workshops and Sponsored Presentations during CCiC8
 
 |8/27 14:30 | Intelligent Automation in Synbio |腾讯会议 404 469 7665 |
-|8/27 16:30 | GEnSmart&trade; Codon Optimization |腾讯会议 404 469 7665 |
+|8/27 16:30 | GenSmart&trade; Codon Optimization |腾讯会议 404 469 7665 |
 |8/27 19:30 | iGEM EPIC |腾讯会议 174 184 303|
 |8/27 18:30 | CCiC Committee Report |腾讯会议 970 555 580|
 |8/27 20:00 | Synbio beyond Containment |腾讯会议 970 555 580|
