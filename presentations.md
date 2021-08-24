@@ -1,15 +1,15 @@
-项目展演将使用 腾讯会议 000 000 0000，晚间工作坊使用 腾讯会议 000 000 0000。
+The Opening Ceremony, Keynote Speech, Project Presentations, Closing Ceremony will be using 腾讯会议 404 469 7665 and live-broadcast at [https://b23.tv/NJhz79](https://b23.tv/NJhz79).
 
-| 讨论间<sup>27#1</sup> |腾讯会议 654 242 648
-| 讨论间<sup>27#2</sup> |腾讯会议 598 872 024
-| 讨论间<sup>27#3</sup> |腾讯会议 236 173 957
-| 讨论间<sup>27#4</sup> |腾讯会议 930 481 197
-| 讨论间<sup>27#5</sup> |腾讯会议 241 248 417
-| 讨论间<sup>28#1</sup> |腾讯会议 439 620 470
-| 讨论间<sup>28#2</sup> |腾讯会议 194 692 676
-| 讨论间<sup>28#3</sup> |腾讯会议 733 128 715
-| 讨论间<sup>28#4</sup> |腾讯会议 510 280 050
-| 讨论间<sup>28#5</sup> |腾讯会议 687 953 784
+| Project Discussion Chatroom<sup>27#1</sup> |腾讯会议 654 242 648
+| Project Discussion Chatroom<sup>27#2</sup> |腾讯会议 598 872 024
+| Project Discussion Chatroom<sup>27#3</sup> |腾讯会议 236 173 957
+| Project Discussion Chatroom<sup>27#4</sup> |腾讯会议 930 481 197
+| Project Discussion Chatroom<sup>27#5</sup> |腾讯会议 241 248 417
+| Project Discussion Chatroom<sup>28#1</sup> |腾讯会议 439 620 470
+| Project Discussion Chatroom<sup>28#2</sup> |腾讯会议 194 692 676
+| Project Discussion Chatroom<sup>28#3</sup> |腾讯会议 733 128 715
+| Project Discussion Chatroom<sup>28#4</sup> |腾讯会议 510 280 050
+| Project Discussion Chatroom<sup>28#5</sup> |腾讯会议 687 953 784
 
 各个会议间的进入密码，请见(参会手册)[]。
 
@@ -17,7 +17,8 @@ We gratefully acknowledge the support of the following sponsors:
 
 ![sponsors in a row](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/sponsors-v1.png)
 
-This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
+This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
+
 
 ## 2021-8-27 13:00-18:30
 
@@ -75,6 +76,18 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |ECUST_China^<sup>28#4</sup> | Whittle<sup>28#4</sup> | USTC<sup>28#4</sup> |
 | SJTang^<sup>28#5</sup> | &nbsp; | &nbsp; |
 |===
+
+
+## Workshops and Presentations during CCiC8
+
+|8/27 14:30 | Intelligent Automation in Synbio |腾讯会议 404 469 7665 |
+|8/27 16:30 | GEnSmart&trade; Codon Optimization |腾讯会议 404 469 7665 |
+|8/27 19:30 | iGEM EPIC |腾讯会议 174 184 303|
+|8/27 18:30 | CCiC Committee Report |腾讯会议 970 555 580|
+|8/27 20:00 | Synbio beyond Containment |腾讯会议 970 555 580|
+|8/27 20:00 | iGEM Engineering |腾讯会议 487 382 727|
+|8/28 18:30 | iGEM Modeling |腾讯会议 467 437 912|
+|8/28 19:30 | High-School Meetup |腾讯会议 108 495 464|
 
 ![banner ads](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 

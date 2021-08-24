@@ -5,8 +5,8 @@ team_igem_id: "3838"
 team_logo_status: "1"
 team_insured: "yes"
 project_title: "针对炎症性肠病的个性化定制辅剂生产工厂"
-people_attending_count: 13
-people_attending_names: ["陈伟钊","林晓君","黄炎","廖怿","郭凡昱","区锦妍","温丹鸿","刘梓忻","孙一帆","陈睿越","余思洋","马洛恒","熊宇翔"]
+people_attending_count: 14
+people_attending_names: ["陈伟钊","林晓君","黄炎","廖怿","郭凡昱","区锦妍","温丹鸿","刘梓忻","孙一帆","陈睿越","余思洋","马洛恒","熊宇翔","何珊"]
 team_school_name: "深圳大学"
 promotion_video_URL: "https://video.igem.org/w/a5tYeSh3GczSACFNgtVFYT"
 onsite_people_0812count: 0
