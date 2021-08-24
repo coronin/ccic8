@@ -53,7 +53,7 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |LZU-CHINA<sup>28#1</sup> | SYSU-CHINA<sup>28#1</sup> |
 |SZPT-CHINA<sup>28#2</sup> | SCU-China<sup>28#2</sup> |
 |CSU_CHINA^<sup>28#3</sup> | NUDT_CHINA<sup>28#3</sup> |
-|SUSTech_Shenzhen^<sup>28#4</sup> | Nanjing-China^<sup>28#4</sup> |
+|SUSTech_Shenzhen<sup>28#4</sup> | Nanjing-China^<sup>28#4</sup> |
 | WHU-China<sup>28#5</sup> | Tianjin^<sup>28#5</sup> |
 |===
 
@@ -72,7 +72,7 @@ This page was updated on 2021/8/19. Teams with ^ plan to attend on-site.
 |NPU-CHINA<sup>28#1</sup> | NJU-China<sup>28#1</sup> | BIT<sup>28#1</sup> |
 |BUCT-China<sup>28#2</sup> | XMU-China<sup>28#2</sup> | NEU_CHINA<sup>28#2</sup> |
 |XJTU-China<sup>28#3</sup> | GreatBay_SZ<sup>28#3</sup> | Fudan^<sup>28#3</sup> |
-|ECUST_China^<sup>28#4</sup> | Whittle<sup>28#4</sup> | USTC^<sup>28#4</sup> |
+|ECUST_China^<sup>28#4</sup> | Whittle<sup>28#4</sup> | USTC<sup>28#4</sup> |
 | SJTang^<sup>28#5</sup> | &nbsp; | &nbsp; |
 |===
 

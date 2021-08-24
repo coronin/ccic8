@@ -5,8 +5,8 @@ team_igem_id: "3875"
 team_logo_status: "1"
 team_insured: "yes"
 project_title: "DeliGHtFAL: Delivering GABA and 5HTP through Fatty Acid Lowering"
-people_attending_count: 4
-people_attending_names: ["郑惠文","林羿妙","柯佳依","邹梓萱"]
+people_attending_count: 16
+people_attending_names: ["陈青黎","林羿妙","柯佳依","邹梓萱","陈瑜璐","郭雯","黄琳琪","刘志廉","莫淇茜","沈麟","孙御婷","谭景","陶淘","王奥","徐子婷","刘淏晟"]
 team_school_name: "北京化工大学"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/9vDXKPTXmELUsiQX2dtmmA"
@@ -14,7 +14,7 @@ promotion_video_URL: "https://video.igem.org/w/9vDXKPTXmELUsiQX2dtmmA"
 
 
 ### Team Leader
-* 郑惠文
+* 陈青黎
 * 林羿妙
 * 莫淇茜*
 
