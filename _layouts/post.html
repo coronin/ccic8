@@ -69,85 +69,24 @@
 {% if page.promotion_video_URL %}<br/><a rel="external" href="{{ page.promotion_video_URL }}" target="_blank">{{ page.team_name }}&nbsp;Project&nbsp;Promotion&nbsp;video at igem.org</a>{% endif %}
 {% endif %}</p>
 
-{% assign session_1 = "SCUT-China27#1
-NJTech_China27#2
-NNU-China27#3
-SZU-China27#4
-Jiangnan_China27#5
-HUST-China27#1
-SJTU-Software27#2
-Tongji_Software27#3
-USTC-Software27#4
-SYSU-Software27#5
-CSU_CHINA(iDEC)27#1" | split:',' %}
-{% assign session_2 = "NWU-CHINA-B27#1
-BNU-China27#2
-BNDS_China27#3
-Nanjing_NFLS27#4
-XHD-Wuhan-Pro-China27#5
-ICJFLS
-LINKS_China27#2
-CHINA-FAFU27#3
-SJTU-BioX-Shanghai27#4
-NDNF_China27#5" | split:',' %}
-{% assign session_3 = "CPU_CHINA27#1
-OUC-China27#2
-DUT_China27#3
-NAU-CHINA
-CAU_China27#5
-Tongji_China
-Think_Edu_China
-SMS_Shenzhen27#3
-HiZJU-China27#4
-SCAU-China27#5" | split:',' %}
-{% assign session_4 = "BUCT28#1
-ZJU-China28#2
-NJMU-China28#3
-FZU-China28#4
-NMU_China28#5
-LZU-CHINA28#1
-SZPT-CHINA28#2
-CSU_CHINA28#3
-SUSTech_Shenzhen28#4
-WHU-China" | split:',' %}
-{% assign session_5 = "IvyMaker-China
-GreatBay_SCIE28#2
-Tsinghua28#3
-BNUZ-China28#4
-FAFU-CHINA
-SYSU-CHINA28#1
-SCU-China28#2
-NUDT_CHINA28#3
-Nanjing-China
-Tianjin28#5" | split:',' %}
-{% assign session_6 = "ShanghaiTech_China28#1
-NWU-CHINA-A28#2
-UCAS-China28#3
-ED-NAU
-BIT-China28#5
-NPU-CHINA28#1
-BUCT-China28#2
-XJTU-China
-ECUST_China28#4
-SJTang" | split:',' %}
-{% assign session_7 = "SZ-SHD28#1
-Jilin_China28#2
-UESTC-China28#3
-LZU-HS-CHINA
-ZJUT-China28#5
-NJU-China28#1
-XMU-China28#2
-GreatBay_SZ28#3
-Whittle28#4" | split:',' %}
-{% assign session_8 = "HZAU-China28#1
-XJTLU-CHINA28#2
-GreatBay_United
-YiYe-China28#4
-HUST2-China28#5
-BIT28#1
-NEU_CHINA28#2
-Fudan28#3
-USTC" | split:',' %}
+{% assign session_1 = "SCUT-China,NJTech_China,NNU-China,SZU-China,Jiangnan_China,HUST-China,SJTU-Software,Tongji_Software,USTC-Software,SYSU-Software,CSU_CHINA(iDEC)" | split:',' %}
+{% assign session_2 = "NWU-CHINA-B,BNU-China,BNDS_China,Nanjing_NFLS,XHD-Wuhan-Pro-China,ICJFLS,LINKS_China,CHINA-FAFU,SJTU-BioX-Shanghai,NDNF_China" | split:',' %}
+{% assign session_3 = "CPU_CHINA,OUC-China,DUT_China,NAU-CHINA,CAU_China,Tongji_China,Think_Edu_China,SMS_Shenzhen,HiZJU-China,SCAU-China" | split:',' %}
+{% assign session_4 = "BUCT,ZJU-China,NJMU-China,FZU-China,NMU_China,LZU-CHINA,SZPT-CHINA,CSU_CHINA,SUSTech_Shenzhen,WHU-China" | split:',' %}
+{% assign session_5 = "IvyMaker-China,GreatBay_SCIE,Tsinghua,BNUZ-China,FAFU-CHINA,SYSU-CHINA,SCU-China,NUDT_CHINA,Nanjing-China,Tianjin" | split:',' %}
+{% assign session_6 = "ShanghaiTech_China,NWU-CHINA-A,UCAS-China,ED-NAU,BIT-China,NPU-CHINA,BUCT-China,XJTU-China,ECUST_China,SJTang" | split:',' %}
+{% assign session_7 = "SZ-SHD,Jilin_China,UESTC-China,LZU-HS-CHINA,ZJUT-China,NJU-China,XMU-China,GreatBay_SZ,Whittle" | split:',' %}
+{% assign session_8 = "HZAU-China,XJTLU-CHINA,GreatBay_United,YiYe-China,HUST2-China,BIT,NEU_CHINA,Fudan,USTC" | split:',' %}
+<p>Team {{ page.team_name }} will present between
+  {% if session_1 contains page.team_name %}2021/8/27 13:00-14:30{% endif %}
+  {% if session_2 contains page.team_name %}2021/8/27 15:00-16:30{% endif %}
+  {% if session_3 contains page.team_name %}2021/8/27 17:00-18:30{% endif %}
+  {% if session_4 contains page.team_name %}2021/8/28 8:30-10:00{% endif %}
+  {% if session_5 contains page.team_name %}2021/8/28 10:30-12:00{% endif %}
+  {% if session_6 contains page.team_name %}2021/8/28 13:00-14:30{% endif %}
+  {% if session_7 contains page.team_name %}2021/8/28 15:00-16:30{% endif %}
+  {% if session_8 contains page.team_name %}2021/8/28 17:00-18:30{% endif %}
+, using 腾讯会议 404 469 7665.</p>
 
       </section>
     </div><!-- .wrapper -->
