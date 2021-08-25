@@ -26,7 +26,7 @@ This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
 |Section 1 | <span style="color:#B25195">Section 2</span> | Section 3|
 |13:00-14:30<br/>Manufacturing<br/>Software| <span style="color:#B25195">15:00-16:30<br/>Others</span> | 17:00-18:30<br/>Enviroment |
 |:-:|:-:|:-:|
-|SCUT-China<sup>27#1</sup> | NWU-CHINA-B<sup>27#1</sup> | CPU_CHINA^<sup>27#1</sup> |
+|[SCUT-China](/SCUT-China)<sup>27#1</sup> | NWU-CHINA-B<sup>27#1</sup> | CPU_CHINA^<sup>27#1</sup> |
 |NJTech_China<sup>27#2</sup> | BNU-China<sup>27#2</sup> | OUC-China<sup>27#2</sup> |
 |NNU-China<sup>27#3</sup> | BNDS_China<sup>27#3</sup> | DUT_China^<sup>27#3</sup> |
 |SZU-China<sup>27#4</sup> | Nanjing_NFLS<sup>27#4</sup> | NAU-CHINA<sup>27#4</sup> |
