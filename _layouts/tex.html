@@ -48,6 +48,25 @@
 {% endif %}
 
 \vfill{}
+
+{% assign session_1 = "SCUT-China,NJTech_China,NNU-China,SZU-China,Jiangnan_China,HUST-China,SJTU-Software,Tongji_Software,USTC-Software,SYSU-Software,CSU_CHINA(iDEC)" | split:',' %}
+{% assign session_2 = "NWU-CHINA-B,BNU-China,BNDS_China,Nanjing_NFLS,XHD-Wuhan-Pro-China,ICJFLS,LINKS_China,CHINA-FAFU,SJTU-BioX-Shanghai,NDNF_China" | split:',' %}
+{% assign session_3 = "CPU_CHINA,OUC-China,DUT_China,NAU-CHINA,CAU_China,Tongji_China,Think_Edu_China,SMS_Shenzhen,HiZJU-China,SCAU-China" | split:',' %}
+{% assign session_4 = "BUCT,ZJU-China,NJMU-China,FZU-China,NMU_China,LZU-CHINA,SZPT-CHINA,CSU_CHINA,SUSTech_Shenzhen,WHU-China" | split:',' %}
+{% assign session_5 = "IvyMaker-China,GreatBay_SCIE,Tsinghua,BNUZ-China,FAFU-CHINA,SYSU-CHINA,SCU-China,NUDT_CHINA,Nanjing-China,Tianjin" | split:',' %}
+{% assign session_6 = "ShanghaiTech_China,NWU-CHINA-A,UCAS-China,ED-NAU,BIT-China,NPU-CHINA,BUCT-China,XJTU-China,ECUST_China,SJTang" | split:',' %}
+{% assign session_7 = "SZ-SHD,Jilin_China,UESTC-China,LZU-HS-CHINA,ZJUT-China,NJU-China,XMU-China,GreatBay_SZ,Whittle" | split:',' %}
+{% assign session_8 = "HZAU-China,XJTLU-CHINA,GreatBay_United,YiYe-China,HUST2-China,BIT,NEU_CHINA,Fudan,USTC" | split:',' %}
+Team of {{ page.team_name }} will present between
+  {% if session_1 contains page.team_name %}2021/8/27 13:00-14:30{% endif %}
+  {% if session_2 contains page.team_name %}2021/8/27 15:00-16:30{% endif %}
+  {% if session_3 contains page.team_name %}2021/8/27 17:00-18:30{% endif %}
+  {% if session_4 contains page.team_name %}2021/8/28 8:30-10:00{% endif %}
+  {% if session_5 contains page.team_name %}2021/8/28 10:30-12:00{% endif %}
+  {% if session_6 contains page.team_name %}2021/8/28 13:00-14:30{% endif %}
+  {% if session_7 contains page.team_name %}2021/8/28 15:00-16:30{% endif %}
+  {% if session_8 contains page.team_name %}2021/8/28 17:00-18:30{% endif %}
+using 腾讯会议 404 469 7665.
 \newpage
 {% endfor %}
 </textarea>
