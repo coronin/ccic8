@@ -38,10 +38,8 @@
 \end{center}
 \vspace{5mm}
 {{ page.content |
-     replace_first: " AT ", "@" |
-     replace_first: "_", "\_" |
-     replace: '<em>', '\textit{' |
-     replace: '</em>', '}' | strip_html | rstrip
+   replace_first: " AT ", "@" |
+   replace_first: "_", "\_" | strip_html | rstrip
 }}
 \\
 {% if page.team_igem_id != '4888' %}
