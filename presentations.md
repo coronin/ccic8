@@ -23,7 +23,7 @@ This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
 ## Project Presentations 8/27 13:00-18:30
 
 |---
-|Section 1 | <span style="color:#B25195">Section 2</span> | Section 3|
+|Session 1 | <span style="color:#B25195">Session 2</span> | Session 3|
 |13:00-14:30<br/>Manufacturing<br/>Software| <span style="color:#B25195">15:00-16:30<br/>Others</span> | 17:00-18:30<br/>Enviroment |
 |:-:|:-:|:-:|
 |[SCUT-China](/SCUT-China)<sup>27#1</sup> | [NWU-CHINA-B](/NWU-CHINA-B)<sup>27#1</sup> | [CPU_CHINA](/CPU_CHINA)^<sup>27#1</sup> |
@@ -43,7 +43,7 @@ This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
 ## Project Presentations 8/28 8:30-12:00
 
 |---
-|Section 4 | <span style="color:#B25195">Section 5</span>|
+|Session 4 | <span style="color:#B25195">Session 5</span>|
 |8:30-10:00<br/>Therapeutics| <span style="color:#B25195">10:30-12:00<br/>Therapeutics<br/>Foundational&nbsp;Advance</span>|
 |:-:|:-:|
 |[BUCT](/BUCT)<sup>28#1</sup> | [IvyMaker-China](/IvyMaker-China)^<sup>28#1</sup> |
@@ -62,7 +62,7 @@ This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
 ## Project Presentations 8/28 13:00-18:30
 
 |---
-|Section 6 | <span style="color:#B25195">Section 7</span> | Section 8|
+|Session 6 | <span style="color:#B25195">Session 7</span> | Session 8|
 |13:00-14:30<br/>Food &amp; Nutrition<br/>New&nbsp;Application| <span style="color:#B25195">15:00-16:30<br/>New&nbsp;Application</span> | 17:00-18:30<br/>Diagnostics |
 |:-:|:-:|:-:|
 |[ShanghaiTech_China](/ShanghaiTech_China)^<sup>28#1</sup> | [SZ-SHD](/SZ-SHD)<sup>28#1</sup> | [HZAU-China](/HZAU-China)<sup>28#1</sup> |
