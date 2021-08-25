@@ -56,11 +56,13 @@
 <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" style="width:250px" /></p><div style="clear:both"></div>
 
 
-{% if page.redirect_from not contains "/" | append:page.team_name %}
+{% assign URL_check = "/" | append:page.team_name %}
+{% if page.redirect_from not contains URL_check %}
 <p>ALERT: /{{ page.team_name }}</p>{% endif %}
 
 <p>{% if page.team_igem_id != '4888' %}
-{% if page.redirect_from not contains "/" | append:page.team_igem_id %}
+{% assign URL_check = "/" | append:page.team_igem_id %}
+{% if page.redirect_from not contains URL_check %}
 <span>ALERT: /{{ page.team_igem_id }}</span><br/>{% endif %}
 <a rel="external" href="https://2021.igem.org/Team:{{ page.team_name }}" target="_blank">https://2021.igem.org/Team:{{ page.team_name }}</a><br/>
 <a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">https://igem.org/Team.cgi?id={{ page.team_igem_id }}</a><br/>
