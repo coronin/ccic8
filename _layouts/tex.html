@@ -37,11 +37,10 @@
   {% unless page.team_logo_status == '' %}\includegraphics[width=4cm,height=4cm]{ {{ page.team_name }}}{% endunless %}
 }
 \end{center}
-\vspace{5mm}
 {{ page.content |
    replace_first: " AT ", "@" |
    replace_first: "_", "\_" | strip_html | rstrip
-}}
+}}\end{spacing}
 \\
 {% if page.team_igem_id != '4888' %}
 \url{https://2021.igem.org/Team:{{ page.team_name | replace_first: "_", "\_" }} }\\
