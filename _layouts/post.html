@@ -57,8 +57,8 @@
 
 
 {% assign URL_check = "/" | append:page.team_name %}
-{% unless page.redirect_from contains URL_check %}
-<p>ALERT: /{{ page.team_name }}</p>{% endunless %}
+{% if page.redirect_from contains URL_check %}
+<p>ALERT: /{{ page.team_name }}</p>{% endif %}
 
 <p>{% if page.team_igem_id != '4888' %}
 {% assign URL_check = "/" | append:page.team_igem_id %}
