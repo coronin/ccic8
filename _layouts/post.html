@@ -55,15 +55,14 @@
 <p class="not-print"><img alt="team logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/team-logo/{% if page.team_logo_status == '' or page.team_logo_status == nil %}logoS{% else %}{{ page.team_name }}{% endif %}{% if page.team_logo_status != '1' %}{{ page.team_logo_status }}{% endif %}.png" style="width:250px;float:left;padding-right:1rem" />
 <img alt="school logo" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/school-logo/{{ page.team_name }}.png" style="width:250px" /></p><div style="clear:both"></div>
 
-
 {% assign URL_check = "/" | append:page.team_name %}
-{% if page.redirect_from contains URL_check %}
-<p>ALERT: /{{ page.team_name }}</p>{% endif %}
+{% unless page.redirect_from contains URL_check %}
+<p class="not-print">ALERT! /{{ page.team_name }} broken</p>{% endunless %}
 
 <p>{% if page.team_igem_id != '4888' %}
 {% assign URL_check = "/" | append:page.team_igem_id %}
 {% unless page.redirect_from contains URL_check %}
-<span>ALERT: /{{ page.team_igem_id }}</span><br/>{% endunless %}
+<span class="not-print">ALERT! /{{ page.team_igem_id }} broken</span><br/>{% endunless %}
 <a rel="external" href="https://2021.igem.org/Team:{{ page.team_name }}" target="_blank">https://2021.igem.org/Team:{{ page.team_name }}</a><br/>
 <a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">https://igem.org/Team.cgi?id={{ page.team_igem_id }}</a><br/>
 <a rel="external" href="http://parts.igem.org/wiki/index.php?title=Part:BBa_K{{ page.team_igem_id }}{% if page.specified_part %}{{ page.specified_part }}{% else %}000{% endif %}" target="_blank">http://parts.igem.org/wiki/index.php?title=Part:BBa_K{{ page.team_igem_id }}{% if page.specified_part %}{{ page.specified_part }}{% else %}000{% endif %}</a>
