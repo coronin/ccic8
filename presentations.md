@@ -1,4 +1,4 @@
-The Opening Ceremony, Keynote Speech, Project Presentations, Closing Ceremony will be using 腾讯会议 404 469 7665 and live-broadcast at [https://b23.tv/NJhz79](https://b23.tv/NJhz79).
+The Opening Ceremony, Keynote Speech, Project Presentations, Closing Ceremony will be using 腾讯会议 404 469 7665 and live-broadcast both at [https://b23.tv/NJhz79](https://b23.tv/NJhz79) and [https://lexiangla.com/lives/3811395c058811eca921a6a7e217e7ea](https://lexiangla.com/lives/3811395c058811eca921a6a7e217e7ea), the later will host videos for playback.
 
 | Project Discussion Chatroom<sup>27#1</sup> |腾讯会议 654 242 648
 | Project Discussion Chatroom<sup>27#2</sup> |腾讯会议 598 872 024
