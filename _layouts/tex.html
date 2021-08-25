@@ -39,9 +39,7 @@
 \vspace{5mm}
 {{ page.content |
    replace_first: " AT ", "@" |
-   replace_first: "_", "\_" | strip_html | rstrip |
-   replace_first: "Team Leader", '\textbf{\\Team Leader}' |
-   replace_first: "Contact", '\textbf{\\Contact}' |
+   replace_first: "_", "\_" | strip_html | rstrip
 }}
 {% unless page.team_logo_status == '' %}\\
 \includegraphics[width=4cm,height=4cm]{ {{ page.team_name }} }{% endif %}
