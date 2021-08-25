@@ -10,6 +10,9 @@ people_attending_names: ["李明阳","杨飞月","王仪炜","王波爽","张宇
 team_school_name: "中国农业大学"
 promotion_video_URL: "https://video.igem.org/w/mpDErSEW314zVRoSwMWm1j"
 onsite_people_0812count: 0
+redirect_from:
+  - /3796
+  - /CAU_China
 ---
 
 

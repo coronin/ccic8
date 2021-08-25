@@ -10,6 +10,9 @@ people_attending_names: ["盖春晓","王博祥","李圜祺","常乐","花健行
 team_school_name: "深圳荟同学校"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/58kE5heHcMUxk7WgAJcXJ5"
+redirect_from:
+  - /Whittle
+  - /4013
 ---
 
 

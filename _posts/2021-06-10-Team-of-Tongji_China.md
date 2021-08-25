@@ -10,6 +10,9 @@ people_attending_names: ["胡红娟","张艺瀛","陈佳艺","吴姜","赵瀚清
 team_school_name: "同济大学"
 promotion_video_URL: "https://video.igem.org/w/1wRujvsqeZpjSg33fu1fQd"
 onsite_people_0812count: 7
+redirect_from:
+  - /3823
+  - /Tongji_China
 ---
 
 

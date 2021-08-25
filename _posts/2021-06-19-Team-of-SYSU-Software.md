@@ -9,6 +9,9 @@ people_attending_count: 5
 people_attending_names: ["莫若衡","金树林","梁彬润","曾宇康","黄靖云"]
 team_school_name: "中山大学"
 onsite_people_0812count: 0
+redirect_from:
+  - /3976
+  - /SYSU-Software
 ---
 
 

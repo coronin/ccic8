@@ -9,6 +9,9 @@ people_attending_count: 9
 people_attending_names: ["郭绍彬","林晶晶","张慧敏","洪家乐","黄山雨","庄心悦","陈思鹏","刘子晴","蒋诗洋"]
 team_school_name: "福州大学"
 onsite_people_0812count: 0
+redirect_from:
+  - /3769
+  - /FZU-China
 ---
 
 

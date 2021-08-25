@@ -10,6 +10,9 @@ people_attending_names: ["周泰言","叶子帆","严梓涵","金灿","张昊天
 team_school_name: "北京理工大学生命学院"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/iMMCBzkN2KVbRgUmix4Pm6"
+redirect_from:
+  - /3821
+  - /BIT
 ---
 
 

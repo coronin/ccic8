@@ -10,6 +10,9 @@ people_attending_names: ["杨兴博","张诗曼","胡冉婷","赵艳萍","汪明
 team_school_name: "同济大学"
 onsite_people_0812count: 6
 promotion_video_URL: "https://video.igem.org/w/hCHD2AAitBnumnyUab5LDZ"
+redirect_from:
+  - /3847
+  - /Tongji_Software
 ---
 
 

@@ -10,6 +10,9 @@ people_attending_names: ["李文希","赵一苇","龙凤","张榕莹","张绍熙
 team_school_name: "深圳中学"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/mXLMxwvGhxZBWzo7ndDHfx"
+redirect_from:
+  - /3990
+  - /SMS_Shenzhen
 ---
 
 

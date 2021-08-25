@@ -11,6 +11,9 @@ team_school_name: "西北大学化工学院"
 onsite_people_0812count: 4
 promotion_video_URL: "https://video.igem.org/w/xvh9pD5AF4uPJ9JthZovEX"
 onsite_people_0812count: 0
+redirect_from:
+  - /3779
+  - /NWU-CHINA-B
 ---
 
 

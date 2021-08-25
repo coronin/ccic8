@@ -10,6 +10,9 @@ people_attending_names: ["韩欣研","聂欣辰","杨翊伟","刘炜琳","杨书
 team_school_name: "西交利物浦大学"
 promotion_video_URL: "https://video.igem.org/w/9j3Nw6jSXViYmAEkbKJ2D2"
 onsite_people_0812count: 0
+redirect_from:
+  - /4054
+  - /XJTLU-CHINA
 ---
 
 

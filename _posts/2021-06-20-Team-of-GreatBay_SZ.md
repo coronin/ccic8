@@ -10,6 +10,9 @@ people_attending_names: ["程冰静","吕澄","罗佳音","黄天懿"]
 team_school_name: "蓝晶实验室"
 promotion_video_URL: "https://video.igem.org/w/8zjHA3pr7WnZMc4iiG8aiL"
 onsite_people_0812count: 0
+redirect_from:
+  - /3859
+  - /GreatBay_SZ
 ---
 
 

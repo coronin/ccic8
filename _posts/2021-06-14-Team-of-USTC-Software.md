@@ -10,6 +10,9 @@ people_attending_names: ["沈蜀媛","王昊元","彭炫超","陈艺文"]
 team_school_name: "中国科学技术大学"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/vNGx3WsXWis16YcqSDY3yB"
+redirect_from:
+  - /3958
+  - /USTC-Software
 ---
 
 

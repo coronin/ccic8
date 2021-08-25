@@ -10,6 +10,9 @@ people_attending_names: ["张斯勤","吴若希","ZHANGZEXUAN","周子湘","吴�
 team_school_name: "灵珠科技"
 promotion_video_URL: "https://video.igem.org/w/iheNhZPU3mAxCfCMSwDYPD"
 onsite_people_0812count: 0
+redirect_from:
+  - /4011
+  - /LINKS_China
 ---
 
 

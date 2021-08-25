@@ -11,6 +11,9 @@ team_school_name: "中国药科大学"
 onsite_people_0812count: 4
 promotion_video_URL: "https://video.igem.org/w/sHeaf3vk8E8Rv8bUy5dcb3"
 people_remote: ["黄子洋","郑林雨","路维轩","罗鹏","陈文韬","马如意","袁梓涵","刘宫羽","王秦月","钱鸿颉","管健翔","王端端","袁滢","梁乐怡","李芊","李笑莹","吕瞳","刘鑫"]
+redirect_from:
+  - /CPU_CHINA
+  - /3853
 ---
 
 

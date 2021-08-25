@@ -10,6 +10,9 @@ people_attending_names: ["余雅婷","赵炳喃","尹思思","邬雅萱","曾旭
 team_school_name: "中山大学"
 promotion_video_URL: "https://video.igem.org/w/qRfZFj3VJ78Whfhe22CRXc"
 onsite_people_0812count: 0
+redirect_from:
+  - /3960
+  - /SYSU-CHINA
 ---
 
 

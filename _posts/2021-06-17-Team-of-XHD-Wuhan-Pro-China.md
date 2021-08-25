@@ -9,6 +9,9 @@ people_attending_count: 10
 people_attending_names: ["刘觐荣","林洋","王捷","谢永菲","高莉","许可","欧鸿政","杨龙华","李娟娟","王欢"]
 team_school_name: "武汉新航道"
 onsite_people_0812count: 0
+redirect_from:
+  - /3925
+  - /XHD-Wuhan-Pro-China
 ---
 
 

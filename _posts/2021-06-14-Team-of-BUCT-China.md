@@ -10,6 +10,9 @@ people_attending_names: ["屈云凤","王婷","黄斯佳","朱翊凡","李雨蒴
 team_school_name: "北京化工大学"
 promotion_video_URL: "https://video.igem.org/w/sBsvYbTeYbR7Nz9qF5M17s"
 onsite_people_0812count: 0
+redirect_from:
+  - /BUCT-China
+  - /3742
 ---
 
 

@@ -10,6 +10,9 @@ people_attending_names: ["陈青黎","林羿妙","柯佳依","邹梓萱","陈瑜
 team_school_name: "北京化工大学"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/9vDXKPTXmELUsiQX2dtmmA"
+redirect_from:
+  - /3875
+  - /BUCT
 ---
 
 

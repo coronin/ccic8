@@ -10,6 +10,9 @@ people_attending_names: ["陆宇晴","李萌华","王效涛","叶婷","张博雅
 team_school_name: "华东理工大学"
 promotion_video_URL: "https://video.igem.org/w/nMCYSPcaEtS4CFKLZNmVsb"
 onsite_people_0812count: 6
+redirect_from:
+  - /3970
+  - /ECUST_China
 ---
 
 

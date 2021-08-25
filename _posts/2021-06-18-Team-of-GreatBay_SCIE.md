@@ -10,6 +10,9 @@ people_attending_names: ["赵若朴","李行健","周芷漾","王子骄","胡琳
 team_school_name: "深圳国际交流学院"
 promotion_video_URL: "https://video.igem.org/w/iv6QEJPGcCw15eHvxpd7mL"
 onsite_people_0812count: 0
+redirect_from:
+  - /3897
+  - /GreatBay_SCIE
 ---
 
 

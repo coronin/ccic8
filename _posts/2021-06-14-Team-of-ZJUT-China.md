@@ -10,6 +10,9 @@ people_attending_names: ["葛璟燕","应昕源","钱威威","王晓祺","姚夏
 team_school_name: "浙江工业大学"
 promotion_video_URL: "https://video.igem.org/w/qgfpuHjrEcw1JgiY8o75y8"
 onsite_people_0812count: 0
+redirect_from:
+  - /ZJUT-China
+  - /3885
 ---
 
 

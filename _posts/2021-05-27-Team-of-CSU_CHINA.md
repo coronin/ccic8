@@ -10,6 +10,9 @@ people_attending_names: ["王泽元","赵星钧","陈姝亦","刘思彤","曾星
 team_school_name: "中南大学"
 promotion_video_URL: "https://video.igem.org/w/ggEtsPspZBPGat7y4GyWbB"
 onsite_people_0812count: 6
+redirect_from:
+  - /3734
+  - /CSU_CHINA
 ---
 
 

@@ -9,6 +9,9 @@ people_attending_count: 2
 people_attending_names: ["陆佳睿","龚庐麟","郑卓妍"]
 team_school_name: "南京外国语学校"
 onsite_people_0812count: 0
+redirect_from:
+  - /Nanjing_NFLS
+  - /3964
 ---
 
 

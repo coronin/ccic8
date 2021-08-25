@@ -10,6 +10,9 @@ people_attending_names: ["孙一洋","靳晓菊","王宁","曹伟杰","陈泓铭
 team_school_name: "北京理工大学化学与化工学院"
 promotion_video_URL: "https://video.igem.org/w/9FgKTwgLX4gD3kMoZdsu7H"
 onsite_people_0812count: 0
+redirect_from:
+  - /BIT-China
+  - /3852
 ---
 
 

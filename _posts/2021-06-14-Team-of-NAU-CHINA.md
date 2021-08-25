@@ -10,6 +10,9 @@ people_attending_names: ["石国龙","王哲","杨毅恒","秦夏妍","高戎光
 team_school_name: "南京农业大学"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/8SFTfHvResh9ZR3va2AsiR"
+redirect_from:
+  - /3735
+  - /NAU-CHINA
 ---
 
 

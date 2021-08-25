@@ -10,6 +10,9 @@ people_attending_names: ["苏睿","文昱杰","丁诗悦","王化雨","王恺君
 team_school_name: "上海科技大学"
 promotion_video_URL: "https://video.igem.org/w/oBWPv3ZEZGkXiGfdwzXMpR"
 onsite_people_0812count: 14
+redirect_from:
+  - /3755
+  - /ShanghaiTech_China
 ---
 
 

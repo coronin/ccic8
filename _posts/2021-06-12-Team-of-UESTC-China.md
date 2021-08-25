@@ -10,6 +10,9 @@ people_attending_names: ["胡雨薇","周颖","王子睿","王树恒","陈希","
 team_school_name: "电子科技大学"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/rWSvb9mKgsA5v4XSAjizQT"
+redirect_from:
+  - /UESTC-China
+  - /3819
 ---
 
 

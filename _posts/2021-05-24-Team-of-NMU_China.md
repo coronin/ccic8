@@ -10,6 +10,9 @@ people_attending_names: ["雷长海","胡适","毛瑞雪","李琨","朱梦梅","
 team_school_name: "海军军医大学"
 promotion_video_URL: "https://video.igem.org/w/hCFRGMoWiS95iUq8yae1bG"
 onsite_people_0812count: 0
+redirect_from:
+  - /4040
+  - /NMU_China
 ---
 
 

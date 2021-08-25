@@ -11,6 +11,9 @@ team_school_name: "华南理工大学"
 except_early_stop: "28"
 promotion_video_URL: "https://video.igem.org/w/pPc11iq9W2s51axSG2J2bD"
 onsite_people_0812count: 0
+redirect_from:
+  - /3772
+  - /SCUT-China
 ---
 
 

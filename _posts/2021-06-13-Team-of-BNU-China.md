@@ -10,6 +10,9 @@ people_attending_names: ["陈乐然","唐悦","李雨默","姬润娟","陈珺玥
 team_school_name: "北京师范大学"
 promotion_video_URL: "https://video.igem.org/w/u5dDYRwud2bYMRoED2kfNa"
 onsite_people_0812count: 0
+redirect_from:
+  - /BNU-China
+  - /3805
 ---
 
 

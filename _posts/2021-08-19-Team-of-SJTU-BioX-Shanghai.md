@@ -10,6 +10,9 @@ people_attending_names: ["朱子健","贺玉莹","陈柏润","李奕帆","乔滢
 team_school_name: "上海交通大学"
 promotion_video_URL: "https://video.igem.org/w/o7uaVTpqo98B9jDFs1X2r4"
 onsite_people_0812count: 7
+redirect_from:
+  - /3714
+  - /SJTU-BioX-Shanghai
 ---
 
 

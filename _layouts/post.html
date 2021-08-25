@@ -40,8 +40,7 @@
   12. Therapeutics
   -->
 {% if page.team_igem_id != '4888' %}<!-- Submitted on --><p>
-  {{ page.date | date_to_string: "ordinal", "US" }}<br/>
-  <img alt="{{ site.url }}" src="https://chart.actin.cn/chart?chs=64x64&cht=qr&chld=M|1&chl={{ site.url }}{{ page.url }}" />
+  {{ page.date | date_to_string: "ordinal", "US" }}
   </p>{% endif %}
 {% if page.people_attending_count > 0 %}<p>
   来自<span {% if page.team_insured == 'yes' %}style="text-decoration:underline"{% endif %}>{{ page.team_school_name }}</span>的{{ page.people_attending_names | join: "、"

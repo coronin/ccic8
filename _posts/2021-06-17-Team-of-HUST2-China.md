@@ -10,6 +10,9 @@ people_attending_names: ["李一凡","聂凤桐","梁川","陈泽乐"]
 team_school_name: "华中科技大学"
 promotion_video_URL: "https://video.igem.org/w/mgpajRJyEGsVQnDwtuHudc"
 onsite_people_0812count: 0
+redirect_from:
+  - /3712
+  - /HUST2-China
 ---
 
 

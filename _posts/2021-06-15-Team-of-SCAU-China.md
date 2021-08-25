@@ -10,6 +10,9 @@ people_attending_names: ["梁经伦","邹慧祯","张云翔","赵肖凡","程寸
 team_school_name: "华南农业大学"
 promotion_video_URL: "https://video.igem.org/w/nXN6WCWKNXkm1Yaf1VeQJ3"
 onsite_people_0812count: 0
+redirect_from:
+  - /4014
+  - /SCAU-China
 ---
 
 

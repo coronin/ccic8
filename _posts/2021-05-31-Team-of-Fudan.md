@@ -12,6 +12,7 @@ promotion_video_URL: "https://video.igem.org/w/7nsVni1Fc2HXbewZ6U3quV"
 redirect_from:
   - /host
   - /3790
+  - /Fudan
 onsite_people_0812count: 1
 ---
 

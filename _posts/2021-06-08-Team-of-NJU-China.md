@@ -10,6 +10,9 @@ people_attending_names: ["胡啸","陶辰宇","孙昊","宋霄涵","马杉池","
 team_school_name: "南京大学"
 promotion_video_URL: "https://video.igem.org/w/sSH24uc7dcnchgMLWEaSdy"
 onsite_people_0812count: 0
+redirect_from:
+  - /3756
+  - /NJU-China
 ---
 
 

@@ -11,6 +11,9 @@ people_remote: ["陈思哲","陈静","陈燕","刘原源","朴舒芃","陈文博
 team_school_name: "大连理工大学"
 onsite_people_0812count: 8
 promotion_video_URL: "https://video.igem.org/w/bgNjcwEgzp9B5t743Z4UrQ"
+redirect_from:
+  - /DUT_China
+  - /3898
 ---
 
 

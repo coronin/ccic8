@@ -10,6 +10,9 @@ people_attending_names: ["彭思源","李若萱","李皓羽","刘歌行","钟振
 team_school_name: "中国海洋大学"
 promotion_video_URL: "https://video.igem.org/w/eH2fZPe25RCARXWrH8zW7i"
 onsite_people_0812count: 0
+redirect_from:
+  - /3777
+  - /OUC-China
 ---
 
 

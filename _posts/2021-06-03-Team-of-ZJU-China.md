@@ -10,6 +10,9 @@ people_attending_count: 6
 people_attending_names: ["张伯彦","程纪瓯","胡泷双","吴浩然","雷江楚","王泳茵"]
 team_school_name: "浙江大学"
 onsite_people_0812count: 0
+redirect_from:
+  - /3730
+  - /ZJU-China
 ---
 
 

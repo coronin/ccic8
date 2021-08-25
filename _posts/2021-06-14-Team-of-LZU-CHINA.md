@@ -10,6 +10,9 @@ people_attending_names: ["朱坤","哈布尔","杨焠焱","甘梓澳","刘天锦
 team_school_name: "兰州大学"
 promotion_video_URL: "https://video.igem.org/w/7xeCJk7DPxMERSr9z6Ftsn"
 onsite_people_0812count: 0
+redirect_from:
+  - /3760
+  - /LZU-CHINA
 ---
 
 

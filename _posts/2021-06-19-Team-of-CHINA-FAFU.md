@@ -10,6 +10,9 @@ people_attending_names: ["董广辉","殷炜铧","陆瑶","虞成意"]
 team_school_name: "福建农林大学生命科学学院"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/n8CAF5Nc1sMFx1uKU4Eoyh"
+redirect_from:
+  - /3812
+  - /CHINA-FAFU
 ---
 
 

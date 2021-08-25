@@ -10,6 +10,9 @@ people_attending_names: ["张昆","王子墨","刘兆翔","刘一臻","李俊锡
 team_school_name: "蓝晶实验室"
 promotion_video_URL: "https://video.igem.org/w/hfoB8ZVu1muKFLUvQeAPQV"
 onsite_people_0812count: 0
+redirect_from:
+  - /3858
+  - /GreatBay_United
 ---
 
 

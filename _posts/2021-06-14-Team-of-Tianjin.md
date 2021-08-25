@@ -10,6 +10,9 @@ people_attending_names: ["丁泠薇","常靖雨","黄宇","刘睿琦","杨宇辰
 team_school_name: "天津大学化工学院"
 promotion_video_URL: "https://video.igem.org/w/fBhJRd7irTLZTm7BPynGak"
 onsite_people_0812count: 6
+redirect_from:
+  - /Tianjin
+  - /3939
 ---
 
 

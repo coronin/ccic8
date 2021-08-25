@@ -10,6 +10,9 @@ people_attending_names: ["郑毅宪","耿世辰","杨文楷","张子钰","刘博
 team_school_name: "厦门大学"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/8bAhsZ9M33nTiJhPZqcb96"
+redirect_from:
+  - /3739
+  - /XMU-China
 ---
 
 

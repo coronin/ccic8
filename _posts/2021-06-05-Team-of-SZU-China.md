@@ -11,6 +11,9 @@ team_school_name: "深圳大学"
 promotion_video_URL: "https://video.igem.org/w/a5tYeSh3GczSACFNgtVFYT"
 onsite_people_0812count: 0
 specified_part: 777
+redirect_from:
+  - /3838
+  - /SZU-China
 ---
 
 

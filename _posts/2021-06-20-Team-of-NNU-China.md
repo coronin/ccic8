@@ -10,6 +10,9 @@ people_attending_names: ["徐颜","李珂","秦龄韫"]
 team_school_name: "南京师范大学"
 promotion_video_URL: "https://video.igem.org/w/aVdEmCepDAuXLTsLJwhGXf"
 onsite_people_0812count: 0
+redirect_from:
+  - /NNU-China
+  - /3868
 ---
 
 

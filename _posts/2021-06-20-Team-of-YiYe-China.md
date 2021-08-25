@@ -10,6 +10,9 @@ people_attending_names: ["唐恺文","张阳阳","邱天","毛嘉乐","李太白
 team_school_name: "一叶学院"
 promotion_video_URL: "https://video.igem.org/w/vRvCp5ZYbBqpBA2QCDN2Yc"
 onsite_people_0812count: 0
+redirect_from:
+  - /3822
+  - /YiYe-China
 ---
 
 

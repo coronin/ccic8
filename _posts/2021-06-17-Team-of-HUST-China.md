@@ -10,6 +10,9 @@ people_attending_names: ["樊昌鑫","石家诚","王博涵","刘心敏","王腾
 team_school_name: "华中科技大学"
 promotion_video_URL: "https://video.igem.org/w/aMwNT6eBryGs8xG5avXD51"
 onsite_people_0812count: 0
+redirect_from:
+  - /HUST-China
+  - /3711
 ---
 
 

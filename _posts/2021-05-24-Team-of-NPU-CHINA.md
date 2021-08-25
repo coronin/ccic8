@@ -10,6 +10,9 @@ people_attending_names: ["张烜槊","李宇航","柴子涵","段苏扬","杨芳
 team_school_name: "西北工业大学"
 promotion_video_URL: "https://video.igem.org/w/cmwUL7jjCqRsb4gqYh19Bu"
 onsite_people_0812count: 0
+redirect_from:
+  - /3937
+  - /NPU-CHINA
 ---
 
 

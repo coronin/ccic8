@@ -10,6 +10,9 @@ people_attending_names: ["闵璐","邱鑫源","刘传扬","叶英钤","方芷欣
 team_school_name: "中国人民解放军国防科技大学"
 promotion_video_URL: "https://video.igem.org/w/81PAp7d9dLkjE23QuxdAnN"
 onsite_people_0812count: 0
+redirect_from:
+  - /4016
+  - /NUDT_CHINA
 ---
 
 

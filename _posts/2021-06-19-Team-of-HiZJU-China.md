@@ -9,6 +9,9 @@ people_attending_count: 8
 people_attending_names: ["贾思宁","费筱","欧阳泓宇","胡敏琦","何昊臻","江泓桦","周晟","魏圣柯"]
 team_school_name: "浙江大学杭州国际科创中心"
 onsite_people_0812count: 0
+redirect_from:
+  - /3978
+  - /HiZJU-China
 ---
 
 

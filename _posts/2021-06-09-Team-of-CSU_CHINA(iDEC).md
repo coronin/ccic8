@@ -9,6 +9,8 @@ people_attending_count: 3
 people_attending_names: ["张彦哲","朱婉晴","万莹璐"]
 team_school_name: "中南大学"
 onsite_people_0812count: 3
+redirect_from:
+  - /CSU_CHINA(iDEC)
 ---
 
 

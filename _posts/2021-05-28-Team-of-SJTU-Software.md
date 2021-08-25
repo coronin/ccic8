@@ -10,6 +10,9 @@ people_attending_names: ["胡远洁","王喜","颜秉浩","姜戈","余谷风","
 team_school_name: "上海交通大学"
 onsite_people_0812count: 14
 people_remote: ["李润涵"]
+redirect_from:
+  - /3741
+  - /SJTU-Software
 ---
 
 

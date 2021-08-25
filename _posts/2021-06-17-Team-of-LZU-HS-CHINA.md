@@ -10,6 +10,9 @@ people_attending_names: ["刘觐荣","吕梦","张逸杰","韩方","李艺民","
 team_school_name: "集思学院"
 promotion_video_URL: "https://video.igem.org/w/ihwMoyxfUSQXyM8dB2wVeU"
 onsite_people_0812count: 0
+redirect_from:
+  - /LZU-HS-CHINA
+  - /3986
 ---
 
 

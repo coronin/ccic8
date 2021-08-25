@@ -10,6 +10,9 @@ people_attending_names: ["隗晶晶","刘红波","刘婉婷","张敏","郑纯","
 team_school_name: "深圳职业技术学院"
 promotion_video_URL: "https://video.igem.org/w/4mCGZkJCF2ZDwC5d4zZq5q"
 onsite_people_0812count: 0
+redirect_from:
+  - /SZPT-CHINA
+  - /3740
 ---
 
 

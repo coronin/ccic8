@@ -10,6 +10,9 @@ people_attending_names: ["赵宇杰","郭璟颐","芮泽云","汪天好","许欣
 team_school_name: "蓝晶实验室"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/sCZLayN1tKnhBqDfTupE7L"
+redirect_from:
+  - /3886
+  - /NDNF_China
 ---
 
 

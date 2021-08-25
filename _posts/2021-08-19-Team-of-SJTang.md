@@ -10,6 +10,9 @@ people_attending_names: ["李家恒","丁元枨","王世崇","汪思宇","郭子
 team_school_name: "蓝晶实验室"
 promotion_video_URL: "https://video.igem.org/w/gqokztgG9DCyq4k7JgFpcy"
 onsite_people_0812count: 7
+redirect_from:
+  - /3888
+  - /SJTang
 ---
 
 

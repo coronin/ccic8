@@ -10,6 +10,9 @@ people_attending_names: ["吴自涵","郑培宣","王钦"]
 team_school_name: "东北大学"
 promotion_video_URL: "https://video.igem.org/w/9Vmg11qcBtWQNirCAq46BU"
 onsite_people_0812count: 0
+redirect_from:
+  - /3896
+  - /NEU_CHINA
 ---
 
 

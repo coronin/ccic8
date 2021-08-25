@@ -10,6 +10,9 @@ people_attending_names: ["贾昊","田家","吴梦韩","张磊磊","田博","赵
 team_school_name: "深圳思客教育科技"
 promotion_video_URL: "https://video.igem.org/w/m84UzewU64GfTb2Ww2p7h9"
 onsite_people_0812count: 0
+redirect_from:
+  - /3984
+  - /Think_Edu_China
 ---
 
 

@@ -10,6 +10,9 @@ people_attending_names: ["侯阿澧","詹杨","马健哲","邹紫仪","刘航佐
 team_school_name: "吉林大学"
 promotion_video_URL: "https://video.igem.org/w/4uBBBiJEE5rtrG2H5s8rrh"
 onsite_people_0812count: 0
+redirect_from:
+  - /3883
+  - /Jilin_China
 ---
 
 

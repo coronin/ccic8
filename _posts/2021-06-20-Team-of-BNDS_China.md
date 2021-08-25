@@ -10,6 +10,9 @@ people_attending_names: ["刘廷桢","林立涵","姜宇越","袁烁","周子翔
 team_school_name: "北京市十一学校"
 promotion_video_URL: "https://video.igem.org/w/tB1zS41mu5ZcrmNuVidaCz"
 onsite_people_0812count: 0
+redirect_from:
+  - /3745
+  - /BNDS_China
 ---
 
 

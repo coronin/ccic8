@@ -9,6 +9,8 @@ people_attending_count: 6
 people_attending_names: ["郑奕彤","许也","朱羽平","陶文慧","刘晓蕊","林蔚然"]
 team_school_name: "南京农业大学"
 onsite_people_0812count: 0
+redirect_from:
+  - /ED-NAU
 ---
 
 
