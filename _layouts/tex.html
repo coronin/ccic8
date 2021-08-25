@@ -39,14 +39,17 @@
 \vspace{5mm}
 {{ page.content |
    replace_first: " AT ", "@" |
-   replace_first: "_", "\_" | strip_html | rstrip
+   replace_first: "_", "\_" | strip_html | rstrip |
+   replace_first: "Team Leader", '\textbf{\\Team Leader}' |
+   replace_first: "Contact", '\textbf{\\Contact}' |
 }}
 \\
 {% if page.team_igem_id != '4888' %}
-\\https://2021.igem.org/Team:{{ page.team_name | replace_first: "_", "\_" }}
-\\https://igem.org/Team.cgi?id={{ page.team_igem_id }}
-\\http://parts.igem.org/wiki/index.php?title=Part:BBa_K{{ page.team_igem_id }}{% if page.specified_part %}{{ page.specified_part }}{% else %}000{% endif %}
-{% if page.promotion_video_URL %}\\{{ page.promotion_video_URL }}{% endif %}
+\url{https://2021.igem.org/Team:{{ page.team_name | replace_first: "_", "\_" }} }\\
+\url{https://igem.org/Team.cgi?id={{ page.team_igem_id }} }\\
+\url{http://parts.igem.org/wiki/index.php?title=Part:BBa_K{{ page.team_igem_id }}{% if page.specified_part %}{{ page.specified_part }}{% else %}000{% endif %} }\\
+{% if page.promotion_video_URL %}\url{
+  {{ page.promotion_video_URL }} }\\{% endif %}
 {% endif %}
 
 \vfill{}
