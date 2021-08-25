@@ -24,6 +24,6 @@ redirect_from:
 
 ### A Foundational Advance Project
 
-Tianjin团队突破自然桎梏，设计了一种无染色体酵母，无染色体的条件赋予了细胞不繁殖却有活性的特殊性质，在多方面具有极大应用潜力。
-
 Tianjin team demonstrated CREATE, a kind of eukaryotic cell that removes chromosomes. As it gets rid of the chromosomes, it has other functions, such as good biological safety. Thus, it can be applied to drug delivery and large DNA fragments transfer and other aspects.
+
+Tianjin团队突破自然桎梏，设计了一种无染色体酵母，无染色体的条件赋予了细胞不繁殖却有活性的特殊性质，在多方面具有极大应用潜力。
