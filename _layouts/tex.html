@@ -42,7 +42,7 @@
    replace_first: "_", "\_" | strip_html | rstrip
 }}
 {% unless page.team_logo_status == '' %}\\
-\includegraphics[width=4cm,height=4cm]{ {{ page.team_name }} }{% endif %}
+\includegraphics[width=4cm,height=4cm]{ {{ page.team_name }} }{% endunless %}
 \\
 {% if page.team_igem_id != '4888' %}
 \url{https://2021.igem.org/Team:{{ page.team_name | replace_first: "_", "\_" }} }\\
