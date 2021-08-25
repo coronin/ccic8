@@ -5,8 +5,8 @@ team_igem_id: "4013"
 team_logo_status: "1"
 team_insured: ""
 project_title: "The Ivy Control Project"
-people_attending_count: 13
-people_attending_names: ["盖春晓","王博祥","李圜祺","常乐","花健行","方逸轩","陈晓盈","刘睿滨","张嘉麟","付悦嘉","蔡可儿","文海帆","高晏"]
+people_attending_count: 14
+people_attending_names: ["盖春晓","王博祥","李圜祺","常乐","花健行","方逸轩","陈晓盈","刘睿滨","张嘉麟","付悦嘉","蔡可儿","文海帆","周子涵","张馨匀"]
 team_school_name: "深圳荟同学校"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/58kE5heHcMUxk7WgAJcXJ5"

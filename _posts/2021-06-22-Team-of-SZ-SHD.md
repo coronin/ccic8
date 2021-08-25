@@ -23,4 +23,5 @@ redirect_from:
 
 ### A High-School New Application Project
 
-No abstract submited before Aug 24th 2021. 
+As the market for hair removal products increases over the years. The demand for more sustainable and better products is on the rise. Currently, there is not one type of hair removal cream that can guarantee no irritation to the skin. Strong alkalines and acids are used to degrade the hair chemically, but also leaving the skin red and sometimes even with rashes. Our team wants to be able to make a prototype of a gel that is safe and beneficial for the skin. This can be accomplished by synthesizing keratinases through fermentation and mixing the purified keratinases with a multitude of mediums such as essential oils and body lotion. We have selected a handful of keratinases and compared their activity and functioning conditions to find the best and most efficient type for our product.
+
