@@ -37,10 +37,9 @@
 }
 \end{center}
 \vspace{5mm}
-{{ page.content | strip_html | replace_first: " AT ", "@" | replace: "E. coli", "\textit{E. coli}" | replace_first: "Team Leader", "\textbf{\\Team Leader}" | replace_first: "Contact", "\textbf{\\Contact}" }}
+{{ page.content | strip_html | replace_first: " AT ", "@" }}
+
 \\
-
-
 {% if page.team_igem_id != '4888' %}
 \\https://2021.igem.org/Team:{{ page.team_name }}
 \\https://igem.org/Team.cgi?id={{ page.team_igem_id }}
