@@ -34,6 +34,7 @@
 \begin{center}
 \large{
   \textbf{ {{ page.project_title}} }\\
+  {% unless page.team_logo_status == '' %}\includegraphics[width=4cm,height=4cm]{ {{ page.team_name }}}{% endunless %}
 }
 \end{center}
 \vspace{5mm}
@@ -49,9 +50,6 @@
 {% if page.promotion_video_URL %}\url{
   {{ page.promotion_video_URL }} }\\{% endif %}
 {% endif %}
-
-{% unless page.team_logo_status == '' %}\\
-\includegraphics[width=4cm,height=4cm]{ {{ page.team_name }} }{% endunless %}
 \vfill{}
 
 {% assign session_1 = "SCUT-China,NJTech_China,NNU-China,SZU-China,Jiangnan_China,HUST-China,SJTU-Software,Tongji_Software,USTC-Software,SYSU-Software,CSU_CHINA(iDEC)" | split:',' %}
