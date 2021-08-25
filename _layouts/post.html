@@ -46,9 +46,8 @@
   来自<span {% if page.team_insured == 'yes' %}style="text-decoration:underline"{% endif %}>{{ page.team_school_name }}</span>的{{ page.people_attending_names | join: "、"
 }}将{% if page.onsite_people_0812count > 0 %}到沪并{% endif %}出席第八届中国地区iGEMer交流会（2021年8月27至{% if page.except_early_stop %}{{ page.except_early_stop }}{% else %}29{% endif %}日，中国上海）。
   {% if page.team_insured == 'yes' %}组委会已经收到来沪人员的意外险保单。{% endif %}
+  {% if page.people_remote %}另有{{ page.people_remote.size }}人线上参会。{% endif %}
   </p>{% endif %}
-
-{% if page.people_attending_count != page.people_attending_names.size %}<pre>Alert: count {{ page.people_attending_names.size }}, input {{ page.people_attending_count }}</pre>{% endif %}
 
       {{ content }}
 
@@ -77,7 +76,7 @@
 {% assign session_6 = "ShanghaiTech_China,NWU-CHINA-A,UCAS-China,ED-NAU,BIT-China,NPU-CHINA,BUCT-China,XJTU-China,ECUST_China,SJTang" | split:',' %}
 {% assign session_7 = "SZ-SHD,Jilin_China,UESTC-China,LZU-HS-CHINA,ZJUT-China,NJU-China,XMU-China,GreatBay_SZ,Whittle" | split:',' %}
 {% assign session_8 = "HZAU-China,XJTLU-CHINA,GreatBay_United,YiYe-China,HUST2-China,BIT,NEU_CHINA,Fudan,USTC" | split:',' %}
-<p>Team {{ page.team_name }} will present between
+<p>Team of {{ page.team_name }} will present between
   {% if session_1 contains page.team_name %}2021/8/27 13:00-14:30{% endif %}
   {% if session_2 contains page.team_name %}2021/8/27 15:00-16:30{% endif %}
   {% if session_3 contains page.team_name %}2021/8/27 17:00-18:30{% endif %}
@@ -86,7 +85,7 @@
   {% if session_6 contains page.team_name %}2021/8/28 13:00-14:30{% endif %}
   {% if session_7 contains page.team_name %}2021/8/28 15:00-16:30{% endif %}
   {% if session_8 contains page.team_name %}2021/8/28 17:00-18:30{% endif %}
-, using 腾讯会议 404 469 7665.</p>
+using 腾讯会议 404 469 7665.</p>
 
       </section>
     </div><!-- .wrapper -->
