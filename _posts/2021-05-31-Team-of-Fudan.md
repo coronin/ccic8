@@ -25,4 +25,4 @@ onsite_people_0812count: 1
 
 ### A Diagnostics Project
 
-The yeast Candida albicans causes diseases as vaginal infections, affecting up to 75% of women. By applying synthetic biology gene circuits entailing the T7 RNA polymerase inhibitor, team Fudan lowers the cost of detection of *Candida albicans* and develop a new product —— Candicamera. Candicamera allows rapid and efficient diagnosis of Candida albicans in resource-limited settings and for point-of-care analysis.
+The yeast *Candida albicans* causes diseases as vaginal infections, affecting up to 75% of women. By applying synthetic biology gene circuits entailing the T7 RNA polymerase inhibitor, team Fudan lowers the cost of detection of *Candida albicans* and develop a new product —— Candicamera. Candicamera allows rapid and efficient diagnosis of *Candida albicans* in resource-limited settings and for point-of-care analysis.
