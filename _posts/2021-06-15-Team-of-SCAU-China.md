@@ -6,7 +6,7 @@ team_logo_status: "1"
 team_insured: "yes"
 project_title: "MESEG (metal eater-super environmental guard)"
 people_attending_count: 10
-people_attending_names: ["梁经伦","邹慧祯","张云翔","赵肖凡","程寸土","冯紫婷","王鼎钧","曾梓榕","欧兆霖","邹嘉桦"]
+people_attending_names: ["梁经纶","邹慧祯","张云翔","赵肖凡","程寸土","冯紫婷","王鼎钧","曾梓榕","欧兆霖","邹嘉桦"]
 team_school_name: "华南农业大学"
 promotion_video_URL: "https://video.igem.org/w/nXN6WCWKNXkm1Yaf1VeQJ3"
 onsite_people_0812count: 0
@@ -17,7 +17,7 @@ redirect_from:
 
 
 ### Team Leader
-* 梁经伦
+* 梁经纶
 
 ### Contact
 * scauchina2021 AT 163.com

@@ -29,4 +29,4 @@ redirect_from:
 
 Ivy has dense stems and leaves, which can shield buildings from sunlight and beautify the environment, but its well-developed root system will damage the walls. Our team combines viscocity diffusion control technology with cyanobacteria, and uses biological engineering methods to control the growth direction and growth of the ivies to achieve the purpose of effectively using them to afforest the city and beautify our homes.
 
-爬山虎茎叶密集，能够为建筑物遮挡阳光，且美化环境，但它根系发达，会损坏墙体。我队将浓度技术和蓝藻相结合，利用生物工程的方法控制爬山虎的生长方向和长势，实现有效利用爬山虎绿化城市美化家园的目的。
+爬山虎茎叶密集，能够为建筑物遮挡阳光并美化环境，但它根系发达，会损坏墙体。我队将浓度技术和蓝藻相结合，利用生物工程的方法控制爬山虎的生长方向和长势，实现有效利用爬山虎绿化城市美化家园的目的。

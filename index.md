@@ -24,8 +24,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)
 - [CCiC8期间的入校参观申请](https://www.wjx.cn/vj/r6cE82R.aspx)
-- [CCiC8工作手册](https://shimo.im/docs/r2SSnM80etAyLTP1/)
-- not ready [Participate Handbook for CCiC8]()
+- [Participate Handbook for CCiC8](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)
 
 ## Important Dates
 - Before 2021/8/26 通过邮件发送用于展演ppt或在签到时提供U盘【之后不能更改，展演时上台直接播放，每个项目展演8分钟】
