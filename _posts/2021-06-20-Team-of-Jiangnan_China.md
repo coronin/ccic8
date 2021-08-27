@@ -9,9 +9,11 @@ people_attending_count: 11
 people_attending_names: ["王金晶","余施雨","周庭安","王一回","李梦轩","张永艺","孙莹","杨子仪","孙婕妤","伍小艺","褚婕妤"]
 team_school_name: "江南大学"
 onsite_people_0812count: 0
+promotion_video_URL: "https://video.igem.org/w/fF1daM3eym4AAPpZDcZDM2"
 redirect_from:
   - /3803
   - /Jiangnan_China
+  - /Finalist1
 ---
 
 

@@ -14,6 +14,7 @@ people_remote: ["黄子洋","郑林雨","路维轩","罗鹏","陈文韬","马如
 redirect_from:
   - /CPU_CHINA
   - /3853
+  - /Finalist3
 ---
 
 

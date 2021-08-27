@@ -9,9 +9,11 @@ people_attending_count: 2
 people_attending_names: ["陆佳睿","龚庐麟","郑卓妍"]
 team_school_name: "南京外国语学校"
 onsite_people_0812count: 0
+promotion_video_URL: "https://video.igem.org/w/qD2KdxPn4XMg4WcWKHp6nj"
 redirect_from:
   - /Nanjing_NFLS
   - /3964
+  - /Finalist2
 ---
 
 
