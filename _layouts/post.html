@@ -86,7 +86,7 @@
   {% if session_6 contains page.team_name %}2021/8/28 13:00-14:30{% assign this_session = session_6 %}{% endif %}
   {% if session_7 contains page.team_name %}2021/8/28 15:00-16:30{% assign this_session = session_7 %}{% endif %}
   {% if session_8 contains page.team_name %}2021/8/28 17:00-18:30{% assign this_session = session_8 %}{% endif %}
-using VooV 404 469 7665<sup>#{{ this_session.size }}</sup>.</p>
+using VooV 404 469 7665<sup>#{% for a_team in this_session %}{% if a_team == "{{ page.team_name }}" %}{{ forloop.index }}{% endif %}{% endfor %}</sup>.</p>
 
       </section>
     </div><!-- .wrapper -->
