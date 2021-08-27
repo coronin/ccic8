@@ -1,17 +1,17 @@
-The Opening Ceremony, Keynote Speech, Project Presentations Sessions 1-8, and Closing Ceremony will be using 腾讯会议 404 469 7665 and live-broadcast both at [https://b23.tv/NJhz79](https://b23.tv/NJhz79) and [https://lexiangla.com/lives](https://lexiangla.com/lives/3811395c058811eca921a6a7e217e7ea) (the later will host videos for playback).
+The Opening Ceremony, Keynote Speech, Project Presentations Sessions 1-8, and Closing Ceremony will be using VooV 404 469 7665 and live-broadcast both at [https://b23.tv/NJhz79](https://b23.tv/NJhz79) and [https://lexiangla.com/lives](https://lexiangla.com/lives/3811395c058811eca921a6a7e217e7ea) (the later will host videos for playback).
 
-| Project Discussion Chatroom<sup>27#1</sup> |腾讯会议 654 242 648 (expired)
-| Project Discussion Chatroom<sup>27#2</sup> |腾讯会议 192 614 108 (expired)
-| Project Discussion Chatroom<sup>27#3</sup> |腾讯会议 798 208 868 (expired)
-| Project Discussion Chatroom<sup>27#4</sup> |腾讯会议 475 286 5135 (expired)
-| Project Discussion Chatroom<sup>27#5</sup> |腾讯会议 357 423 034 (expired)
-| Project Discussion Chatroom<sup>28#1</sup> |腾讯会议 439 620 470
-| Project Discussion Chatroom<sup>28#2</sup> |腾讯会议 762 459 587
-| Project Discussion Chatroom<sup>28#3</sup> |腾讯会议 809 896 034
-| Project Discussion Chatroom<sup>28#4</sup> |腾讯会议 274 617 468
-| Project Discussion Chatroom<sup>28#5</sup> |腾讯会议 311 423 447
+| Project Discussion Chatroom<sup>27#1</sup> |VooV 654 242 648 (expired)
+| Project Discussion Chatroom<sup>27#2</sup> |VooV 192 614 108 (expired)
+| Project Discussion Chatroom<sup>27#3</sup> |VooV 798 208 868 (expired)
+| Project Discussion Chatroom<sup>27#4</sup> |VooV 475 286 5135 (expired)
+| Project Discussion Chatroom<sup>27#5</sup> |VooV 357 423 034 (expired)
+| Project Discussion Chatroom<sup>28#1</sup> |VooV 439 620 470
+| Project Discussion Chatroom<sup>28#2</sup> |VooV 762 459 587
+| Project Discussion Chatroom<sup>28#3</sup> |VooV 809 896 034
+| Project Discussion Chatroom<sup>28#4</sup> |VooV 274 617 468
+| Project Discussion Chatroom<sup>28#5</sup> |VooV 311 423 447
 
-各个会议间的进入密码，请见[参会手册](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)。
+各个 VooV 即腾讯会议间的进入密码，请见[参会手册](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)。
 
 We gratefully acknowledge the support of the following sponsors:
 
@@ -80,13 +80,14 @@ Teams with ^ attend the meeting on-site.
 
 ## Workshops and Sponsored Presentations during CCiC8
 
-|8/27 14:30 | Intelligent Automation in Synbio |腾讯会议 404 469 7665 |
-|8/27 16:30 | GenSmart&trade; Codon Optimization |腾讯会议 404 469 7665 |
-|8/27 19:30 | iGEM EPIC |腾讯会议 174 184 303|
-|8/27 18:30 | CCiC Committee Report |腾讯会议 970 555 580|
-|8/27 20:00 | Synbio beyond Containment |腾讯会议 970 555 580|
+|8/27 14:30 | Intelligent Automation in Synbio |VooV 404 469 7665 |
+|8/27 16:30 | GenSmart&trade; Codon Optimization |VooV 404 469 7665 |
+|8/27 18:30 | CCiC Committee Report |VooV 970 555 580|
+|8/27 19:30 | iGEM EPIC |VooV 174 184 303|
+|8/27 20:00 | Synbio beyond Containment |VooV 970 555 580|
 |8/27 20:00 | iGEM Engineering |腾讯会议 487 382 727|
 |8/28 18:30 | iGEM Modeling |腾讯会议 467 437 912|
+|8/28 20:00 | iGEM Human Practices |腾讯会议 383 463 751|
 |8/28 20:30 | High-School Meetup |腾讯会议 108 495 464|
 
 ![banner ads](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
