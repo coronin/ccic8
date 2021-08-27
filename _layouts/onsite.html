@@ -35,7 +35,6 @@
 {% if page.team_name != 'Finally' and page.onsite_people_0812count > 0 %}
 {% assign teams_array=teams_array | push:page.team_name %}
 <h4>{{ site.url }}{{ page.url }}
-  {% if page.onsite_people_0812count < page.people_attending_count %}<span>线上参会人数({{ page.people_attending_count }}-{{ page.onsite_people_0812count }})={{ page.people_remote.size }}</span>{% endif %}
   </h4>
 {% for a_name in page.people_attending_names %}{% assign counter=counter | plus:1 %}
 <p>
@@ -45,6 +44,8 @@
   <input type="checkbox" name="onsite{{ counter }}" checked/><label for="onsite{{ counter }}">线下参会</label>
   {% if bohao_test_negative contains a_name %}<input type="checkbox" name="firstday{{ counter }}" checked/><label for="firstday{{ counter }}">首日核酸阴性</label>{% endif %}
   </p>
+{% if page.onsite_people_0812count < page.people_attending_count %}<p>另有线上参会({{ page.people_attending_count }}-{{ page.onsite_people_0812count }})={{ page.people_remote.size }}人</p>{% endif %}
+
 {% assign people_names_array=people_names_array | push:a_name %}
 {% endfor %}
 {% endif %}{% endfor %}
