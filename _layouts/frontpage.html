@@ -53,7 +53,8 @@
   </thead>
   <tbody>
   {% for page in site.posts %}<tr>
-    <td style="font-size:80%;color:#B25195">{{ page.date | date_to_string }}</td>
+    <!-- {{ page.date | date_to_string }} -->
+    <td><input type="checkbox" /></td>
     <td class="team"><a href="{{ page.url }}">
       <img alt="team logo preferred" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/{% if page.team_logo_status == '1' %}team-logo{% else %}school-logo{% endif %}/{{ page.team_name }}.png" /></a></td>
     <td><a href="{{ page.url }}" style="white-space:nowrap">{{ page.team_name }}<sup>{% if page.people_attending_count %}{{ page.people_attending_count }}{%
