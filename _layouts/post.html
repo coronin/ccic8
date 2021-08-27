@@ -78,15 +78,15 @@
 {% assign session_7 = "SZ-SHD,Jilin_China,UESTC-China,LZU-HS-CHINA,ZJUT-China,NJU-China,XMU-China,GreatBay_SZ,Whittle" | split:',' %}
 {% assign session_8 = "HZAU-China,XJTLU-CHINA,GreatBay_United,YiYe-China,HUST2-China,BIT,NEU_CHINA,Fudan,USTC" | split:',' %}
 <p>Team of {{ page.team_name }} will present between
-  {% if session_1 contains page.team_name %}2021/8/27 13:00-14:30{% endif %}
-  {% if session_2 contains page.team_name %}2021/8/27 15:00-16:30{% endif %}
-  {% if session_3 contains page.team_name %}2021/8/27 17:00-18:30{% endif %}
-  {% if session_4 contains page.team_name %}2021/8/28 8:30-10:00{% endif %}
-  {% if session_5 contains page.team_name %}2021/8/28 10:30-12:00{% endif %}
-  {% if session_6 contains page.team_name %}2021/8/28 13:00-14:30{% endif %}
-  {% if session_7 contains page.team_name %}2021/8/28 15:00-16:30{% endif %}
-  {% if session_8 contains page.team_name %}2021/8/28 17:00-18:30{% endif %}
-using VooV 404 469 7665.</p>
+  {% if session_1 contains page.team_name %}2021/8/27 13:00-14:30{% assign in_session = session_1 %}{% endif %}
+  {% if session_2 contains page.team_name %}2021/8/27 15:00-16:30{% assign in_session = session_2 %}{% endif %}
+  {% if session_3 contains page.team_name %}2021/8/27 17:00-18:30{% assign in_session = session_3 %}{% endif %}
+  {% if session_4 contains page.team_name %}2021/8/28 8:30-10:00{% assign in_session = session_4 %}{% endif %}
+  {% if session_5 contains page.team_name %}2021/8/28 10:30-12:00{% assign in_session = session_5 %}{% endif %}
+  {% if session_6 contains page.team_name %}2021/8/28 13:00-14:30{% assign in_session = session_6 %}{% endif %}
+  {% if session_7 contains page.team_name %}2021/8/28 15:00-16:30{% assign in_session = session_7 %}{% endif %}
+  {% if session_8 contains page.team_name %}2021/8/28 17:00-18:30{% assign in_session = session_8 %}{% endif %}
+using VooV 404 469 7665<sup>#{% for a_team in in_session %}{% if a_team == {{ page.team_name }} %}{{ forloop.indexs }}{% endif %}{% endfor %}</sup>.</p>
 
       </section>
     </div><!-- .wrapper -->
