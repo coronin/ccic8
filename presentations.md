@@ -1,23 +1,23 @@
 The Opening Ceremony, Keynote Speech, Project Presentations Sessions 1-8, and Closing Ceremony will be using 腾讯会议 404 469 7665 and live-broadcast both at [https://b23.tv/NJhz79](https://b23.tv/NJhz79) and [https://lexiangla.com/lives](https://lexiangla.com/lives/3811395c058811eca921a6a7e217e7ea) (the later will host videos for playback).
 
-| Project Discussion Chatroom<sup>27#1</sup> |腾讯会议 654 242 648
-| Project Discussion Chatroom<sup>27#2</sup> |腾讯会议 192 614 108
-| Project Discussion Chatroom<sup>27#3</sup> |腾讯会议 798 208 868
-| Project Discussion Chatroom<sup>27#4</sup> |腾讯会议 475 286 5135 (PWD 570271)
-| Project Discussion Chatroom<sup>27#5</sup> |腾讯会议 357 423 034
+| Project Discussion Chatroom<sup>27#1</sup> |腾讯会议 654 242 648 (expired)
+| Project Discussion Chatroom<sup>27#2</sup> |腾讯会议 192 614 108 (expired)
+| Project Discussion Chatroom<sup>27#3</sup> |腾讯会议 798 208 868 (expired)
+| Project Discussion Chatroom<sup>27#4</sup> |腾讯会议 475 286 5135 (expired)
+| Project Discussion Chatroom<sup>27#5</sup> |腾讯会议 357 423 034 (expired)
 | Project Discussion Chatroom<sup>28#1</sup> |腾讯会议 439 620 470
-| Project Discussion Chatroom<sup>28#2</sup> |腾讯会议 
-| Project Discussion Chatroom<sup>28#3</sup> |腾讯会议 
-| Project Discussion Chatroom<sup>28#4</sup> |腾讯会议
-| Project Discussion Chatroom<sup>28#5</sup> |腾讯会议 
+| Project Discussion Chatroom<sup>28#2</sup> |腾讯会议 762 459 587
+| Project Discussion Chatroom<sup>28#3</sup> |腾讯会议 809 896 034
+| Project Discussion Chatroom<sup>28#4</sup> |腾讯会议 274 617 468
+| Project Discussion Chatroom<sup>28#5</sup> |腾讯会议 311 423 447
 
-没有明示的会议间的进入密码，请见[参会手册](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)。
+各个会议间的进入密码，请见[参会手册](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)。
 
 We gratefully acknowledge the support of the following sponsors:
 
 ![sponsors in a row](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/sponsors-v1.png)
 
-This page was updated on 2021/8/24. Teams with ^ plan to attend on-site.
+Teams with ^ attend the meeting on-site.
 
 
 ## Project Presentations 8/27 13:00-18:30
