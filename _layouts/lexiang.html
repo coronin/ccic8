@@ -25,8 +25,9 @@
 
       {{ content }}
 
-<h4>以下学校已经开通了线上书院，可以加入K吧</h4>
 {% assign shuyuan_teams = "SCU-China,Nanjing-China,XMU-China,SYSU-Software,NUDT_CHINA,HZAU-China,BNUZ-China,BIT,Tsinghua,ECUST_China,HUST2-China,HUST-China,WHU-China,USTC-Software,UCAS-China,Tianjin,TJUSLS_China,OUC-China,LZU-CHINA,DUT_China,BIT-China,BNU-China,UESTC-China,Jilin_China,XJTU-China,Tongji_China,CSU_CHINA(iDEC),NJU-China,SYSU-CHINA,NWU-CHINA-A,ZJU-China,Fudan,Tongji_Software,SJTU-Software,USTC,NWU-CHINA-B,CSU_CHINA,CPU_CHINA,NPU-CHINA" | split:',' %}
+
+<h4>以下学校已经开通了线上书院，可以加入K吧</h4>
 {% assign sorted_posts = site.posts | where_exp:"item", "shuyuan_teams contains item.team_name" %}
 {% for page in sorted_posts %}
 <!-- h4>{{ site.url }}{{ page.url }}</h4 -->

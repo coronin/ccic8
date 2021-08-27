@@ -25,6 +25,8 @@
 
       {{ content }}
 
+{% assign bohao_test_negative = "肖涵予,王凯旋,黄静波,张靖淇,潘志生,常靖雨,黄宇,丁泠薇,杨宇辰,吴津荣,刘睿琦,赵艳萍,高子琦,俞俊颖,郭昊天,方陶松,吴胜男,周文婧,霍玉亮,张恩泽,程子芸,余谷风,祝宇玥,胡沛尧,朱俊超,朱骏杰,赵星钧,颜秉浩,王喜,张智进,顾睿初,周松池,肖亦祺,姜戈,胡远洁,张颖,张博雅,陆宇晴,李一豪,田仕峥,刘思彤,陈姝亦,王泽元,于承平,曾星辰,周琳颖,李萌华,王效涛,叶婷,刘逸涵,乔滢瑞,钱秋晔,李奕帆,朱子健,任思源,陈柏润,韩欣越,贺玉莹,严帆,刘旭航,李诗渊,樊隆,白悦琪,汪伟旭,武文婷,江山,赵瀚清,陈佳艺,张艺瀛,王远嘉,胡红娟,汪思宇,郭子轩,李家恒,宣子涛,韩丞治,李欣然,蔡亮,吴姜,康蕴哲,凌子傲,孙静,薛睿轩,辛骐,贾涵迪,王之义,王化雨,丁涵,李卓雅,胡杰妮,王恺君,丁诗悦,苏睿,李宇翔,周菁,祁全,何立贤,王承志,廖静雅,黄俊涛,景影,刘衍锋,肖宇榛,姚璐璐,万莹璐,朱婉晴,周雪伟,张彦哲,沈泽楷,孙艳冬,张佳,卢金霞,任秋翰" | split:',' %}
+
 <h2>People in Teams</h2>
 {% assign people_names_array = "" | split:',' %}
 {% assign counter = 0 %}
@@ -38,6 +40,7 @@
   {{ a_name }}{% if people_names_array contains a_name %}@同名@{% endif %}
   {% if page.team_insured == 'yes' %}<input type="checkbox" name="insured{{ counter }}" checked/><label for="insured{{ counter }}">已购保险</label>{% endif %}
   {% if page.onsite_people_0812count > 0 %}<input type="checkbox" name="onsite{{ counter }}" checked/><label for="onsite{{ counter }}">线下参会</label>{% endif %}
+  {% if bohao_test_negative contains a_name %}<input type="checkbox" name="firstday{{ counter }}" checked/><label for="firstday{{ counter }}">首日核酸</label>{% endif %}
   </p>
 {% assign people_names_array=people_names_array | push:a_name %}
 {% endfor %}
