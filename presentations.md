@@ -11,7 +11,7 @@ The Opening Ceremony, Keynote Speech, Project Presentations, Closing Ceremony wi
 | Project Discussion Chatroom<sup>28#4</sup> |腾讯会议
 | Project Discussion Chatroom<sup>28#5</sup> |腾讯会议 
 
-没有明示的会议间的进入密码，请见(参会手册)[https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE]。
+没有明示的会议间的进入密码，请见[参会手册](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)。
 
 We gratefully acknowledge the support of the following sponsors:
 
