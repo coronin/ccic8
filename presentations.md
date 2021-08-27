@@ -1,17 +1,17 @@
 The Opening Ceremony, Keynote Speech, Project Presentations, Closing Ceremony will be using 腾讯会议 404 469 7665 and live-broadcast both at [https://b23.tv/NJhz79](https://b23.tv/NJhz79) and [https://lexiangla.com/lives](https://lexiangla.com/lives/3811395c058811eca921a6a7e217e7ea) (the later will host videos for playback).
 
 | Project Discussion Chatroom<sup>27#1</sup> |腾讯会议 654 242 648
-| Project Discussion Chatroom<sup>27#2</sup> |腾讯会议 598 872 024
-| Project Discussion Chatroom<sup>27#3</sup> |腾讯会议 236 173 957
-| Project Discussion Chatroom<sup>27#4</sup> |腾讯会议 930 481 197
-| Project Discussion Chatroom<sup>27#5</sup> |腾讯会议 241 248 417
+| Project Discussion Chatroom<sup>27#2</sup> |腾讯会议 192 614 108
+| Project Discussion Chatroom<sup>27#3</sup> |腾讯会议 798 208 868
+| Project Discussion Chatroom<sup>27#4</sup> |腾讯会议 475 286 5135 (PWD 570271)
+| Project Discussion Chatroom<sup>27#5</sup> |腾讯会议 357 423 034
 | Project Discussion Chatroom<sup>28#1</sup> |腾讯会议 439 620 470
-| Project Discussion Chatroom<sup>28#2</sup> |腾讯会议 194 692 676
-| Project Discussion Chatroom<sup>28#3</sup> |腾讯会议 733 128 715
-| Project Discussion Chatroom<sup>28#4</sup> |腾讯会议 510 280 050
-| Project Discussion Chatroom<sup>28#5</sup> |腾讯会议 687 953 784
+| Project Discussion Chatroom<sup>28#2</sup> |腾讯会议 
+| Project Discussion Chatroom<sup>28#3</sup> |腾讯会议 
+| Project Discussion Chatroom<sup>28#4</sup> |腾讯会议
+| Project Discussion Chatroom<sup>28#5</sup> |腾讯会议 
 
-各个会议间的进入密码，请见(参会手册)[https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE]。
+没有明示的会议间的进入密码，请见(参会手册)[https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE]。
 
 We gratefully acknowledge the support of the following sponsors:
 
