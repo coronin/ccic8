@@ -68,7 +68,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 ## CCiC8 Best Presentation Finalists and Awards
 
 |&nbsp; |<span style="background-color:yellow">awardee</span><br/>team 1 | <span style="background-color:yellow">awardee</span><br/>team 2 | <span style="background-color:yellow">awardee</span><br/>team 3 | &nbsp; |
-|<span style="background-color:yellow">finalist</span><br/>aaa |<span style="background-color:yellow">finalist</span><br/>aaa |<span style="background-color:yellow">finalist</span><br/>aaa |<span style="background-color:yellow">finalist</span><br/>aaa |<span style="background-color:yellow">finalist</span><br/>aaa |
+|<span style="background-color:white">finalist</span><br/>aaa |<span style="background-color:white">finalist</span><br/>aaa |<span style="background-color:white">finalist</span><br/>aaa |<span style="background-color:white">finalist</span><br/>aaa |<span style="background-color:white">finalist</span><br/>aaa |
 
 
 ## CCiC8 Active Participation Awards
