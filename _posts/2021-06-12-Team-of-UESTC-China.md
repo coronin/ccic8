@@ -5,8 +5,8 @@ team_igem_id: "3819"
 team_logo_status: "1"
 team_insured: ""
 project_title: "Deink the dark"
-people_attending_count: 7
-people_attending_names: ["胡雨薇","周颖","王子睿","王树恒","陈希","李荐育","龙维汉"]
+people_attending_count: 14
+people_attending_names: ["胡雨薇","周颖","王子睿","王树恒","陈希","李荐育","龙维汉","伍丽燕","王沅怡","彭禹皎","李杜白","姜雨璇","罗淞文","常森"]
 team_school_name: "电子科技大学"
 onsite_people_0812count: 0
 promotion_video_URL: "https://video.igem.org/w/rWSvb9mKgsA5v4XSAjizQT"
