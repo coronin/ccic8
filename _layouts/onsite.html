@@ -29,6 +29,7 @@
 
 {% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
 {% assign teams_array = "" | split:',' %}
+{% assign online_teams = "" | split:',' %}
 <h2>People attend the meeting onsite</h2>
 {% assign counter = 0 %}
 {% for page in sorted_posts %}
@@ -47,10 +48,13 @@
 {% assign people_names_array=people_names_array | push:a_name %}
 {% endfor %}
 {% if page.onsite_people_0812count < page.people_attending_count %}<p>另有线上参会({{ page.people_attending_count }}-{{ page.onsite_people_0812count }})={{ page.people_remote.size }}人</p>{% endif %}
+{% else %}
+{% assign online_teams=online_teams | push:page.team_name %}
 {% endif %}{% endfor %}
 <!-- {% for a_team in teams_array %}{{ a_team }}
 {% endfor %} -->
-
+<!-- {% for a_team in online_teams %}{{ a_team }}
+{% endfor %} -->
 <h2>Teams have confirmed to attend the meeting online</h2>
 {% for page in sorted_posts %}
 {% if page.onsite_people_0812count == 0 %}
