@@ -24,11 +24,12 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - CCiC8 Announcements: [1](https://mp.weixin.qq.com/s/qC9Av3fNQPiPTn4O4lyp8w) &middot; [2](https://mp.weixin.qq.com/s/NZXZnyJLq-QGuqzj4mTwXQ) &middot; [3](https://mp.weixin.qq.com/s/foGI_pvS9mgn7U4QnkgdJA) &middot; [4](https://mp.weixin.qq.com/s/kHSUv-n0_i8KB9p1VK6ZYg) &middot; [5](https://mp.weixin.qq.com/s/G4kMQYmL63UeIRoJCmPEcg) &middot; [6](https://mp.weixin.qq.com/s/1xznCj2jSFEyMcqDUmYtTA) &middot; [7](https://mp.weixin.qq.com/s/ir3Ut7K1m8hWTThGyUs-BA)
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)
-- [CCiC8期间的入校参观申请](https://www.wjx.cn/vj/r6cE82R.aspx)
 - [Participate Handbook for CCiC8](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)
+- Now LIVE! [CCiC8活跃参与统计](https://shimo.im/sheets/Vt6HkxqXHXrrvQXw/MODOC/)
 
 
 ## Important Dates
+- 2021/8/28 no longer accept [the campus access request](https://www.wjx.cn/vj/r6cE82R.aspx)
 - 2021/8/26 on-site presentation file due (for a 8-minute talk)
 - 2021/8/20 poster due (width 0.6m, height 0.9m, JPG format)
 - 2021/7/24 [presentations](/presentations) schedule is live
