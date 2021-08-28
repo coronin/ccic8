@@ -15,6 +15,7 @@ redirect_from:
   - /Host
   - /3790
   - /Fudan
+  - /Finalist8
 onsite_people_0812count: 1
 ---
 

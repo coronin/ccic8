@@ -13,6 +13,7 @@ promotion_video_URL: "https://video.igem.org/w/8bAhsZ9M33nTiJhPZqcb96"
 redirect_from:
   - /3739
   - /XMU-China
+  - /Finalist7
 ---
 
 

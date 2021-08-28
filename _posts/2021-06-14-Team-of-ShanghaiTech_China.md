@@ -13,6 +13,7 @@ onsite_people_0812count: 14
 redirect_from:
   - /3755
   - /ShanghaiTech_China
+  - /Finalist6
 ---
 
 
