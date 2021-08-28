@@ -29,7 +29,7 @@
 
 {% assign sorted_posts = site.posts | sort: 'title' | sort: 'date' %}
 {% assign teams_array = "" | split:',' %}
-<h2>People will be onsite</h2>
+<h2>People attend the meeting onsite</h2>
 {% assign counter = 0 %}
 {% for page in sorted_posts %}
 {% if page.team_name != 'Finally' and page.onsite_people_0812count > 0 %}
