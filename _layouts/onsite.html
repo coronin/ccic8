@@ -44,10 +44,9 @@
   <input type="checkbox" name="onsite{{ counter }}" checked/><label for="onsite{{ counter }}">线下参会</label>
   {% if bohao_test_negative contains a_name %}<input type="checkbox" name="firstday{{ counter }}" checked/><label for="firstday{{ counter }}">首日核酸阴性</label>{% endif %}
   </p>
-{% if page.onsite_people_0812count < page.people_attending_count %}<p>另有线上参会({{ page.people_attending_count }}-{{ page.onsite_people_0812count }})={{ page.people_remote.size }}人</p>{% endif %}
-
 {% assign people_names_array=people_names_array | push:a_name %}
 {% endfor %}
+{% if page.onsite_people_0812count < page.people_attending_count %}<p>另有线上参会({{ page.people_attending_count }}-{{ page.onsite_people_0812count }})={{ page.people_remote.size }}人</p>{% endif %}
 {% endif %}{% endfor %}
 <!-- {% for a_team in teams_array %}{{ a_team }}
 {% endfor %} -->
