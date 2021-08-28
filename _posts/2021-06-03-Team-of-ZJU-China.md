@@ -10,9 +10,11 @@ people_attending_count: 6
 people_attending_names: ["张伯彦","程纪瓯","胡泷双","吴浩然","雷江楚","王泳茵"]
 team_school_name: "浙江大学"
 onsite_people_0812count: 0
+promotion_video_URL: "https://video.igem.org/w/cK5Aw79DQWxjb1nQJet6Ap"
 redirect_from:
   - /3730
   - /ZJU-China
+  - /Finalist4
 ---
 
 
