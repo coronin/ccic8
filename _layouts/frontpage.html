@@ -52,9 +52,11 @@
     </tr>
   </thead>
   <tbody>
-  {% for page in site.posts %}<tr>
+  {% assign active_teams = "CSU_CHINA(iDEC),DUT_China,IvyMaker-China,Tianjin,BIT,BNUZ-China,HUST-China,SZPT-CHINA,Tsinghua,WHU-China,ECUST_China,LZU-CHINA" | split:',' %}
+  {% for page in site.posts %}
+  {% if active_teams contains page.team_name %}<tr>
     <!-- {{ page.date | date_to_string }} -->
-    <td><input type="checkbox" /></td>
+    <td><input type="checkbox" checked /></td>
     <td class="team"><a href="{{ page.url }}">
       <img alt="team logo preferred" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/{% if page.team_logo_status == '1' %}team-logo{% else %}school-logo{% endif %}/{{ page.team_name }}.png" /></a></td>
     <td><a href="{{ page.url }}" style="white-space:nowrap">{{ page.team_name }}<sup>{% if page.people_attending_count %}{{ page.people_attending_count }}{%
@@ -62,7 +64,8 @@
       {% if page.team_igem_id != '4888' %}&rarr;&nbsp;<span class="igem_id"><a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">{{ page.team_igem_id }}</a></span>{% endif %}
       </td>
     <td>{{ page.project_title | markdownify | remove: '<p>' | remove: '</p>' }}</td>
-  </tr>{% endfor %}
+  </tr>
+  {% endif %}{% endfor %}
   </tbody>
 </table>
 
