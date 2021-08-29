@@ -5,13 +5,12 @@ The Opening Ceremony, Keynote Speech, Project Presentations Sessions 1-8, and Cl
 | Project Discussion Chatroom<sup>27#3</sup> |VooV 798 208 868 (expired)
 | Project Discussion Chatroom<sup>27#4</sup> |VooV 475 286 5135 (expired)
 | Project Discussion Chatroom<sup>27#5</sup> |VooV 357 423 034 (expired)
-| Project Discussion Chatroom<sup>28#1</sup> |VooV 439 620 470
-| Project Discussion Chatroom<sup>28#2</sup> |VooV 762 459 587
-| Project Discussion Chatroom<sup>28#3</sup> |VooV 809 896 034
-| Project Discussion Chatroom<sup>28#4</sup> |VooV 274 617 468
-| Project Discussion Chatroom<sup>28#5</sup> |VooV 311 423 447
+| Project Discussion Chatroom<sup>28#1</sup> |VooV 439 620 470 (expired)
+| Project Discussion Chatroom<sup>28#2</sup> |VooV 762 459 587 (expired)
+| Project Discussion Chatroom<sup>28#3</sup> |VooV 809 896 034 (expired)
+| Project Discussion Chatroom<sup>28#4</sup> |VooV 274 617 468 (expired)
+| Project Discussion Chatroom<sup>28#5</sup> |VooV 311 423 447 (expired)
 
-各个 VooV 即腾讯会议间的进入密码，请见[参会手册](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)。
 
 We gratefully acknowledge the support of the following sponsors:
 
@@ -80,15 +79,15 @@ Teams with ^ attend the meeting on-site.
 
 ## Workshops and Sponsored Presentations during CCiC8
 
-|8/27 14:30 | Intelligent Automation in Synbio |VooV 404 469 7665 |
-|8/27 16:30 | GenSmart&trade; Codon Optimization |VooV 404 469 7665 |
-|8/27 18:30 | CCiC Committee Report |VooV 970 555 580|
-|8/27 19:30 | iGEM EPIC |VooV 174 184 303|
-|8/27 20:00 | Synbio beyond Containment |VooV 970 555 580|
-|8/27 20:00 | iGEM Engineering |腾讯会议 487 382 727|
-|8/28 18:30 | iGEM Modeling |腾讯会议 467 437 912|
-|8/28 20:00 | iGEM Human Practices |腾讯会议 383 463 751|
-|8/28 20:30 | High-School Meetup |腾讯会议 108 495 464|
+|8/27 14:30 | Intelligent Automation in Synbio |VooV 404 469 7665 (expired) |
+|8/27 16:30 | GenSmart&trade; Codon Optimization |VooV 404 469 7665 (expired) |
+|8/27 18:30 | CCiC Committee Report |VooV 970 555 580 (expired) |
+|8/27 19:30 | iGEM EPIC |VooV 174 184 303 (expired) |
+|8/27 20:00 | Synbio beyond Containment |VooV 970 555 580 (expired) |
+|8/27 20:00 | iGEM Engineering |VooV 487 382 727 (expired) |
+|8/28 18:30 | iGEM Modeling |VooV 467 437 912 (expired) |
+|8/28 20:00 | iGEM Human Practices |VooV 383 463 751 (expired) |
+|8/28 20:30 | High-School Meetup |VooV 108 495 464 (expired) |
 
 ![banner ads](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
 
