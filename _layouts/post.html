@@ -53,7 +53,7 @@
   if page.onsite_people_0812count > 0 %}到沪并线下{% endif %}出席了第八届中国地区iGEMer交流会（2021年8月27至{%
   if page.except_early_stop %}{{ page.except_early_stop }}{% else %}29{% endif %}日，中国上海）{%
   if active_teams contains page.team_name %}，获 Active Participation Award{% endif %}{%
-  if best_pre_finalists contains page.team_name %}；该团队项目从8场79个项目中脱颖而出，入选 Best Presentation Finalist {% endif %}。
+  if best_pre_finalists contains page.team_name %}；该团队项目从8场79个项目中脱颖而出，入选 Best Presentation Finalists {% endif %}。
   {% if page.team_insured == 'yes' %}组委会提前收到了来沪人员的意外险保单。{% endif %}
   {% if page.people_remote %}该项目另有{{ page.people_remote.size }}人（{{ page.people_remote | join: "、"
 }}）线上参会。{% endif %}
@@ -88,7 +88,7 @@
 {% assign session_7 = "SZ-SHD,Jilin_China,UESTC-China,LZU-HS-CHINA,ZJUT-China,NJU-China,XMU-China,GreatBay_SZ,Whittle" | split:',' %}
 {% assign session_8 = "HZAU-China,XJTLU-CHINA,GreatBay_United,YiYe-China,HUST2-China,BIT,NEU_CHINA,Fudan,USTC" | split:',' %}
 {% assign first_day = "SCUT-China,NWU-CHINA-B,CPU_CHINA" | split:',' %}
-<p>Team of {{ page.team_name }} will present between
+<p>Team of {{ page.team_name }} present between
   {% if session_1 contains page.team_name %}2021/8/27 13:00-14:30{% assign this_session = session_1 %}{% endif %}
   {% if session_2 contains page.team_name %}2021/8/27 15:00-16:30{% assign this_session = session_2 %}{% endif %}
   {% if session_3 contains page.team_name %}2021/8/27 17:00-18:30{% assign this_session = session_3 %}{% endif %}

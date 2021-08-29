@@ -1,4 +1,4 @@
-The Opening Ceremony, Keynote Speech, Project Presentations Sessions 1-8, and Closing Ceremony will be using VooV 404 469 7665 and live-broadcast both at [https://b23.tv/NJhz79](https://b23.tv/NJhz79) and [https://lexiangla.com/lives](https://lexiangla.com/lives/3811395c058811eca921a6a7e217e7ea) (the later will host videos for playback).
+The Opening Ceremony, Keynote Speech, Project Presentations Sessions 1-8, and Closing Ceremony used VooV 404 469 7665 (expired) and live-broadcast both at [https://b23.tv/NJhz79](https://b23.tv/NJhz79) and [https://lexiangla.com/lives](https://lexiangla.com/lives/3811395c058811eca921a6a7e217e7ea) (the later is hosting videos for playback).
 
 | Project Discussion Chatroom<sup>27#1</sup> |VooV 654 242 648 (expired)
 | Project Discussion Chatroom<sup>27#2</sup> |VooV 192 614 108 (expired)

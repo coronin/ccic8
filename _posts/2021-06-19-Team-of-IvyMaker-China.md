@@ -6,7 +6,7 @@ team_logo_status: ""
 team_insured: "yes"
 project_title: "The Game-changing Magic Yeast"
 people_attending_count: 9
-people_attending_names: ["周菁","张颖","Jonathan Shang-Hong Ji
+people_attending_names: ["周菁","张颖","Jonathan Shang-hong Ji
 ","Albert Ziye Ma","田加恩","李宇翔","楼博文"]
 team_school_name: "上海烩客科技有限公司"
 onsite_people_0812count: 7
