@@ -51,7 +51,7 @@
   </p>
 {% assign people_names_array=people_names_array | push:a_name %}
 {% endfor %}
-{% if page.people_remote %}
+{% if page.onsite_people_0812count > 0 and page.people_remote %}
 {% for a_name in page.people_remote %}{% assign counter=counter | plus:1 %}
 <p>
   {{ counter }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
