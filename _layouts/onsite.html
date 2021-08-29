@@ -49,7 +49,7 @@
   <input type="checkbox" name="onsite{{ counter }}" checked/><label for="onsite{{ counter }}">线下参会</label>
   {% if self_provided_negative contains a_name %}<input type="checkbox" name="selfp{{ counter }}" checked/><label for="selfp{{ counter }}">自检&minus;</label>{% endif %}
   {% if bohao_test1_negative contains a_name %}<input type="checkbox" name="firstday{{ counter }}" checked/><label for="firstday{{ counter }}">首日核酸阴性</label>{% endif %}
-  {% if bohao_test2_negative contains a_name %}<input type="checkbox" name="firstday{{ counter }}" checked/><label for="firstday{{ counter }}">离会前核酸</label>{% endif %}
+  {% if bohao_test2_negative contains a_name %}<input type="checkbox" name="firstday{{ counter }}" checked/><label for="firstday{{ counter }}">离会前核酸阴性</label>{% endif %}
   </p>
 {% assign people_names_array=people_names_array | push:a_name %}
 {% endfor %}
