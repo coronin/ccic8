@@ -62,4 +62,4 @@ CCiC8将使用商用场馆为主会场。
 ## Links related to CCiC8
 - [iGEM 2021 Global](https://igem2021global.slack.com)
 - [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)
-- [Participate Handbook for CCiC8](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)
+- [Participate Handbook for CCiC8](https://115.com/s/swnd6893wgu?password=k383&)
