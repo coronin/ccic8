@@ -42,9 +42,18 @@
 {% if page.team_igem_id != '4888' %}<!-- Submitted on --><p>
   {{ page.date | date_to_string: "ordinal", "US" }}
   </p>{% endif %}
+
+{% assign active_teams = "CSU_CHINA(iDEC),DUT_China,IvyMaker-China,Tianjin,BIT,BNUZ-China,HUST-China,SZPT-CHINA,Tsinghua,WHU-China,ECUST_China,LZU-CHINA" | split:',' %}
+
+{% assign best_pre_finalists = "CPU_CHINA,Fudan,Jiangnan_China,Nanjing_NFLS,ShanghaiTech_China,Tsinghua,XMU-China,ZJU-China" | split:',' %}
+
 {% if page.people_attending_count > 0 %}<p>
   来自<span {% if page.team_insured == 'yes' %}style="text-decoration:underline"{% endif %}>{{ page.team_school_name }}</span>的{{ page.people_attending_names | join: "、"
-}}{% if page.onsite_people_0812count > 0 %}到沪并线下{% endif %}出席了第八届中国地区iGEMer交流会（2021年8月27至{% if page.except_early_stop %}{{ page.except_early_stop }}{% else %}29{% endif %}日，中国上海）。
+}}{%
+  if page.onsite_people_0812count > 0 %}到沪并线下{% endif %}出席了第八届中国地区iGEMer交流会（2021年8月27至{%
+  if page.except_early_stop %}{{ page.except_early_stop }}{% else %}29{% endif %}日，中国上海）{%
+  if active_teams contains page.team_name %}，获 Active Participation Award{% endif %}{%
+  if best_pre_finalists contains page.team_name %}；该团队项目从8场79个项目中脱颖而出，入选 Best Presentation Finalist {% endif %}。
   {% if page.team_insured == 'yes' %}组委会提前收到了来沪人员的意外险保单。{% endif %}
   {% if page.people_remote %}该项目另有{{ page.people_remote.size }}人（{{ page.people_remote | join: "、"
 }}）线上参会。{% endif %}

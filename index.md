@@ -26,8 +26,6 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)
 - [Participate Handbook for CCiC8](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)
 
-[CCiC8活跃参与统计](https://shimo.im/sheets/Vt6HkxqXHXrrvQXw/MODOC/)
-
 ![closing a](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/closing-c-frame.png){: style="width:30%"} ![closing b](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/closing-c-submit.png){: style="width:30%"} ![good luck](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/ccic8-good-luck.jpg){: style="width:30%"}
 
 ## Important Dates
@@ -59,11 +57,11 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 ## CCiC8 Volunteers
 
-|陈炯霖 |黄昕瑜 |李承 |蔡亮 |陈春妹 |褚婕妤 |龚诗涛 |
-|韩丞治 |胡海荣 |黄静波 |姜晓慧 |李泓泳 |李欣然 |李宇婕 |
-|梁说今 |林洁芮 |刘一辰 |卢毅诚 |鲁朝臻 |马昊雨 |钱吉 |
-|史珩 |孙明知 |孙智 |田仕峥 |王润霖 |武亦藩 |夏浡烜 |
-|肖涵予 |肖宇榛 |宣子涛 |姚奕阳 |张靖淇 |张荣梅| &nbsp; |
+|陈炯霖 |黄昕瑜 |李承   |蔡亮   |陈春妹 |褚婕妤 |龚诗涛 |
+|韩丞治 |胡海荣 |黄静波 |姜晓慧 |李泓泳 |李欣然 |梁说今 |
+|林洁芮 |刘一辰 |卢毅诚 |鲁朝臻 |马昊雨 |钱吉 |史珩 |
+|孙明知 |孙智   |田仕峥 |王润霖 | 肖涵予 |肖宇榛 |宣子涛 |
+|姚奕阳 |张靖淇 |张荣梅 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
 
 ![banner for index](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/banner.png)
