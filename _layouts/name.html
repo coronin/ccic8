@@ -29,6 +29,8 @@
 
 {% assign self_provided_negative = "胡冉婷,杨兴博,卓正一,汪明杰,韩雨薇,周琳颖,Albert Ziye Ma,Jonathan Shang-hong Ji,方陶松,田加恩" | split:',' %}
 
+{% assign bohao_test2_negative = "胡红娟,韩丞治,张恩泽,霍玉亮,张靖淇,肖涵予,陈佳艺,王恺君,杨宇辰,常靖雨,黄宇,郭昊天,丁泠薇,刘睿琦,吴津荣,王远嘉,苏睿,赵瀚清,林霁煊,叶婷,吴姜,朱婉晴,万莹璐,贺玉莹,周文婧,李萌华,严帆,陈柏润,李奕帆,陆宇晴,张博雅,刘逸涵,汪思宇,李家恒,陈春妹,王世崇,肖宇榛,任秋翰,沈泽楷,蔡亮,钱秋晔" | split:',' %}
+
 <h2>People in Teams</h2>
 {% assign people_names_array = "" | split:',' %}
 {% assign counter = 0 %}
@@ -44,6 +46,7 @@
   {% if page.onsite_people_0812count > 0 %}<input type="checkbox" name="onsite{{ counter }}" checked/><label for="onsite{{ counter }}">线下参会</label>{% endif %}
   {% if self_provided_negative contains a_name %}<input type="checkbox" name="selfp{{ counter }}" checked/><label for="selfp{{ counter }}">自检&minus;</label>{% endif %}
   {% if bohao_test1_negative contains a_name %}<input type="checkbox" name="firstday{{ counter }}" checked/><label for="firstday{{ counter }}">首日核酸阴性</label>{% endif %}
+  {% if bohao_test2_negative contains a_name %}<input type="checkbox" name="firstday{{ counter }}" checked/><label for="firstday{{ counter }}">离会前</label>{% endif %}
   </p>
 {% assign people_names_array=people_names_array | push:a_name %}
 {% endfor %}
