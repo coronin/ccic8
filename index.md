@@ -26,7 +26,45 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)
 - [Participate Handbook for CCiC8](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)
 
-![closing a](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/closing-c-frame.png){: style="width:30%"} ![closing b](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/closing-c-submit.png){: style="width:30%"} ![good luck](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/ccic8-good-luck.jpg){: style="width:30%"}
+![closing a](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/closing-c-frame.png){: style="width:45%"} ![closing b](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/closing-c-submit.png){: style="width:45%"}
+
+    #### 9:30  b站弹幕抽奖获奖id
+    橘里橘气且大橘已定
+    ff82ab
+    惠小易
+    睡觉型学渣
+    ndeuinicryiuk4y
+    bili_96407842835
+    学霸做朋友吧
+
+    #### Final list  b站弹幕抽奖获奖id
+    我爱学习要好好学习
+    Chocomi1k
+    六日左右逢源
+    Halfblood-Prince
+    石杉碱甲Fatir
+    ifilix
+    ongo恰恰
+
+    #### 10:00  b站弹幕抽奖获奖id
+    iGEM_BIT-China
+    齊杌
+    机智少女常包包
+    RTZQQQQQQQ
+
+    #### CCiC8完结撒花 弹幕抽奖获奖id（闭幕式上未宣读）
+    THU丶咕狼
+    葩奇老污
+    bili_85657911821
+    我就是我yyc
+    RuiqiLL
+    失活的Rubisco
+    CSU_CHINA_IDEC
+    和风喃
+    TilleyAllTooWell
+    最爱凡凡的杰尼龟
+
+![good luck](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/ccic8-good-luck.jpg){: style="width:90%"}
 
 ## Important Dates
 - 2021/8/28 no longer accept [the campus access request](https://www.wjx.cn/vj/r6cE82R.aspx)
