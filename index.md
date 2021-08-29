@@ -27,6 +27,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [Participate Handbook for CCiC8](https://www.jianguoyun.com/p/DV83eHkQ2o7vBRiZvYoE)
 - Now LIVE! [CCiC8活跃参与统计](https://shimo.im/sheets/Vt6HkxqXHXrrvQXw/MODOC/)
 
+![closing a](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/closing-c-frame.jpg){: style="width:40%"} ![closing b](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/closing-c-submit.jpg){: style="width:40%"}
 
 ## Important Dates
 - 2021/8/28 no longer accept [the campus access request](https://www.wjx.cn/vj/r6cE82R.aspx)
@@ -68,8 +69,8 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 ## CCiC8 Best Presentation Finalists and Awards
 
-|&nbsp; |<span style="background-color:yellow">awardee</span><br/>team 1 | <span style="background-color:yellow">awardee</span><br/>team 2 | <span style="background-color:yellow">awardee</span><br/>team 3 | &nbsp; |
-|<span style="background-color:white">finalist</span><br/>aaa |<span style="background-color:white">finalist</span><br/>aaa |<span style="background-color:white">finalist</span><br/>aaa |<span style="background-color:white">finalist</span><br/>aaa |<span style="background-color:white">finalist</span><br/>aaa |
+|&nbsp; |<span style="background-color:yellow">awardee</span><br/>[Fudan](/Fudan) | <span style="background-color:yellow">awardee</span><br/>[Jiangnan_China](/Jiangnan_China) | <span style="background-color:yellow">awardee</span><br/>[Tsinghua](/Tsinghua) | &nbsp; |
+|<span style="background-color:white">finalist</span><br/>[CPU_CHINA](/CPU_CHINA) |<span style="background-color:white">finalist</span><br/>[Nanjing_NFLS](/Nanjing_NFLS) |<span style="background-color:white">finalist</span><br/>[ShanghaiTech_China](/ShanghaiTech_China) |<span style="background-color:white">finalist</span><br/>[XMU-China](/XMU-China) |<span style="background-color:white">finalist</span><br/>[ZJU-China](/ZJU-China) |
 
 
 ## CCiC8 Active Participation Awards
