@@ -26,7 +26,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)
 - [Participate Handbook for CCiC8](https://115.com/s/swnd6893wgu?password=k383&)
 
-![closing a](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/closing-c-frame.png){: style="width:50%"} ![closing b](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/closing-c-submit.png){: style="width:37%"}
+![good luck](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/ccic8-good-luck.jpg){: style="width:40%"}
 
     #### 9:30  b站弹幕抽奖获奖id
     橘里橘气且大橘已定
@@ -64,7 +64,6 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
     TilleyAllTooWell
     最爱凡凡的杰尼龟
 
-![good luck](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/ccic8-good-luck.jpg){: style="width:50%"}
 
 ## Important Dates
 - 2021/8/28 no longer accept [the campus access request](https://www.wjx.cn/vj/r6cE82R.aspx)
