@@ -28,7 +28,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 ![request gift https://www.wjx.top/vj/eGaVN4I.aspx ](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/ccic8-good-luck.jpg){: style="width:40%"}
 
-    #### 9:30  b站弹幕抽奖获奖id
+    #### 9:30  b站弹幕抽奖获奖id（不含已经寄送纪念品的）
     橘里橘气且大橘已定
     ff82ab
     惠小易
@@ -37,7 +37,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
     bili_96407842835
     学霸做朋友吧
 
-    #### Final list  b站弹幕抽奖获奖id
+    #### Final list  b站弹幕抽奖获奖id（不含已经寄送纪念品的）
     我爱学习要好好学习
     Chocomi1k
     六日左右逢源
@@ -45,13 +45,13 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
     ifilix
     ongo恰恰
 
-    #### 10:00  b站弹幕抽奖获奖id
+    #### 10:00  b站弹幕抽奖获奖id（不含已经寄送纪念品的）
     iGEM_BIT-China
     齊杌
     机智少女常包包
     RTZQQQQQQQ
 
-    #### CCiC8完结撒花 弹幕抽奖获奖id（闭幕式上未宣读）
+    #### CCiC8完结撒花 弹幕抽奖获奖id（闭幕式上未宣读；不含已经寄送纪念品的）
     THU丶咕狼
     葩奇老污
     我就是我yyc
