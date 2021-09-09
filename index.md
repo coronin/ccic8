@@ -26,7 +26,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)
 - [Participate Handbook for CCiC8](https://115.com/s/swnd6893wgu?password=k383&)
 
-![good luck](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/ccic8-good-luck.jpg){: style="width:40%"}
+![request gift https://www.wjx.top/vj/eGaVN4I.aspx ](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/ccic8-good-luck.jpg){: style="width:40%"}
 
     #### 9:30  b站弹幕抽奖获奖id
     橘里橘气且大橘已定
