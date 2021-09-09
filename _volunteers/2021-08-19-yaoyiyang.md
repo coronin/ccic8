@@ -1,7 +1,7 @@
 ---
 layout: volunteer
 v_name: "姚奕阳"
-v_name_en: "Yao, Yi-yangs"
+v_name_en: "Yao, Yi-yang"
 v_male: 0
 v_dates: "2021/5/12 - 2021/8/29"
 v_hours: 98

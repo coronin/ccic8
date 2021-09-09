@@ -42,7 +42,6 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
     Chocomi1k
     六日左右逢源
     Halfblood-Prince
-    石杉碱甲Fatir
     ifilix
     ongo恰恰
 
@@ -55,14 +54,11 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
     #### CCiC8完结撒花 弹幕抽奖获奖id（闭幕式上未宣读）
     THU丶咕狼
     葩奇老污
-    bili_85657911821
     我就是我yyc
     RuiqiLL
     失活的Rubisco
-    CSU_CHINA_IDEC
     和风喃
     TilleyAllTooWell
-    最爱凡凡的杰尼龟
 
 
 ## Important Dates
