@@ -26,7 +26,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - [CCiC at Online Colledge](https://lexiangla.com/teams/k100014/)
 - [Participate Handbook for CCiC8](https://115.com/s/swnd6893wgu?password=k383&)
 
-![request gift https://www.wjx.top/vj/eGaVN4I.aspx ](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/ccic8-good-luck.jpg){: style="width:40%"}
+![如无法看到二维码可访问 https://www.wjx.top/vj/eGaVN4I.aspx 提交相关信息](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/ccic8-good-luck.jpg){: style="width:40%"}
 
     #### 9:30  b站弹幕抽奖获奖id（不含已经寄送纪念品的）
     橘里橘气且大橘已定
@@ -34,12 +34,10 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
     惠小易
     睡觉型学渣
     ndeuinicryiuk4y
-    bili_96407842835
     学霸做朋友吧
 
     #### Final list  b站弹幕抽奖获奖id（不含已经寄送纪念品的）
     我爱学习要好好学习
-    Chocomi1k
     六日左右逢源
     Halfblood-Prince
     ifilix
@@ -47,7 +45,6 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
     #### 10:00  b站弹幕抽奖获奖id（不含已经寄送纪念品的）
     iGEM_BIT-China
-    齊杌
     机智少女常包包
     RTZQQQQQQQ
 
