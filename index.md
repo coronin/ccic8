@@ -46,7 +46,6 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
     ongo恰恰
 
     #### 10:00  b站弹幕抽奖获奖id（不含已经寄送纪念品的）
-    iGEM_BIT-China
     机智少女常包包
     RTZQQQQQQQ
 
