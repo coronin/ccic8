@@ -33,9 +33,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
     #### 9:30  b站弹幕抽奖获奖id（不含已经寄送纪念品的）
     橘里橘气且大橘已定
     ff82ab
-    惠小易
     睡觉型学渣
-    ndeuinicryiuk4y
     学霸做朋友吧
 
     #### Final list  b站弹幕抽奖获奖id（不含已经寄送纪念品的）
@@ -50,7 +48,6 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
     RTZQQQQQQQ
 
     #### CCiC8完结撒花 弹幕抽奖获奖id（闭幕式上未宣读；不含已经寄送纪念品的）
-    THU丶咕狼
     葩奇老污
     我就是我yyc
     RuiqiLL
