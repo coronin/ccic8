@@ -39,7 +39,6 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
     #### Final list  b站弹幕抽奖获奖id（不含已经寄送纪念品的）
     我爱学习要好好学习
     六日左右逢源
-    Halfblood-Prince
     ifilix
     ongo恰恰
 
