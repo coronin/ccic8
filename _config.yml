@@ -1,7 +1,7 @@
 theme: jekyll-theme-modernist
 markdown: kramdown
 title: CCiC8 - Conference of China iGEMer Community
-url: http://ccic8.site
+url: https://ccic8.site
 
 plugins:
   - jekyll-redirect-from
