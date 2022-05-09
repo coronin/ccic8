@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ 'https://coronin.github.io/ccic8/assets/css/style.css?v=' | append: site.github.build_revision }}">
+    <script src="https://coronin.github.io/ccic8/assets/js/scale.fix.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <title>CCiC8 People</title>
     <!--[if lt IE 9]>
@@ -41,7 +41,7 @@
 <h4>{{ site.url }}{{ page.url }}</h4>
 {% for a_name in page.people_attending_names %}{% assign counter=counter | plus:1 %}
 <p>
-  {{ counter }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
+  {{ counter }}. <a href="https://ccic.actin.cn{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
   {{ a_name }}{% if people_names_array contains a_name %}@同名@{% endif %}
   {% if page.team_insured == 'yes' %}<input type="checkbox" name="insured{{ counter }}" checked/><label for="insured{{ counter }}">已购保险</label>{% endif %}
   {% if page.onsite_people_0812count > 0 %}<input type="checkbox" name="onsite{{ counter }}" checked/><label for="onsite{{ counter }}">线下参会</label>{% endif %}
@@ -54,7 +54,7 @@
 {% if page.onsite_people_0812count > 0 and page.people_remote %}
 {% for a_name in page.people_remote %}{% assign counter=counter | plus:1 %}
 <p>
-  {{ counter }}. <a href="{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
+  {{ counter }}. <a href="https://ccic.actin.cn{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
   {{ a_name }}{% if people_names_array contains a_name %}@同名@{% endif %}
   </p>
 {% endfor %}{% endif %}
@@ -66,7 +66,7 @@
     <footer>
       <p>Maintained by <a rel="external" href="https://2020.igem.org/Team:Fudan/" target="_blank">Team:Fudan</a> <!-- a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a -->
         </p>
-      <p>&copy; CCiC8<span class="not-print"> &middot; <a href="/">Homepage</a></span>
+      <p>&copy; CCiC8<span class="not-print"> &middot; <a href="https://ccic.actin.cn">Homepage</a></span>
         </p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->

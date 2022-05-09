@@ -28,7 +28,7 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 ![link for gift request](https://raw.githubusercontent.com/coronin/ccic8/gh-pages/sponsor-logo/ccic8-good-luck.jpg){: style="width:40%"}
 
-如无法看到上图的二维码，可访问[https://www.wjx.top/vj/eGaVN4I.aspx](https://www.wjx.top/vj/eGaVN4I.aspx)提交相关信息。
+如无法看到上图的二维码，可访问 https://www.wjx.top/vj/eGaVN4I.aspx 提交相关信息。
 
     #### 9:30  b站弹幕抽奖获奖id（不含已经寄送纪念品的）
     橘里橘气且大橘已定
@@ -59,8 +59,8 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 - 2021/8/28 no longer accept [the campus access request](https://www.wjx.cn/vj/r6cE82R.aspx)
 - 2021/8/26 on-site presentation file due (for a 8-minute talk)
 - 2021/8/20 poster due (width 0.6m, height 0.9m, JPG format)
-- 2021/7/24 [presentations](/presentations) schedule is live
-- 2021/6/19 pricing of surrounding [hotels](/hotels)
+- 2021/7/24 [presentations](https://ccic.actin.cn/presentations) schedule is live
+- 2021/6/19 pricing of surrounding [hotels](https://ccic.actin.cn/hotels)
 - 2021/6/7 draft of [the sponsorship brochure](https://shimo.im/docs/yaWIlYCmSN4ahjwu/)
 - 2021/5/23 link to [submit participates info](https://www.wjx.cn/vj/hWQFAcz.aspx), link to [submit project abstract](https://www.wjx.cn/vj/h4icxcB.aspx)
 - 2021/5/12 [confirmed](https://mp.weixin.qq.com/s/LYhkFu_zWy_HawdHUh7pHw), Team:Fudan will host CCiC8; [call for volunteers](https://www.wjx.cn/vj/rYR3vK6.aspx)

@@ -7,8 +7,8 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ 'https://coronin.github.io/ccic8/assets/css/style.css?v=' | append: site.github.build_revision }}">
+    <script src="https://coronin.github.io/ccic8/assets/js/scale.fix.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <title>CCiC8 Homepage</title>
     <!--[if lt IE 9]>
@@ -46,7 +46,7 @@
   <thead>
     <tr>
       <th>&nbsp;</th>
-      <th><a href="/logos">Team</a></th>
+      <th><a href="https://ccic.actin.cn/logos">Team</a></th>
       <th>&nbsp;</th>
       <th>Project&nbsp;Title</th>
     </tr>
@@ -59,7 +59,7 @@
     <td><input type="checkbox" checked onclick="return false;" /></td>
     <td class="team"><a href="{{ page.url }}">
       <img alt="team logo preferred" src="https://raw.githubusercontent.com/coronin/ccic8/gh-pages/{% if page.team_logo_status == '1' %}team-logo{% else %}school-logo{% endif %}/{{ page.team_name }}.png" /></a></td>
-    <td><a href="{{ page.url }}" style="white-space:nowrap">{{ page.team_name }}<sup>{% if page.people_attending_count %}{{ page.people_attending_count }}{%
+    <td><a href="https://ccic.actin.cn{{ page.url }}" style="white-space:nowrap">{{ page.team_name }}<sup>{% if page.people_attending_count %}{{ page.people_attending_count }}{%
   else %}^{% endif %}</sup></a>
       {% if page.team_igem_id != '4888' %}&rarr;&nbsp;<span class="igem_id"><a rel="external" href="https://igem.org/Team.cgi?id={{ page.team_igem_id }}" target="_blank">{{ page.team_igem_id }}</a></span>{% endif %}
       </td>
