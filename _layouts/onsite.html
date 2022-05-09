@@ -39,7 +39,7 @@
 {% for page in sorted_posts %}
 {% if page.team_name != 'Finally' and page.onsite_people_0812count > 0 %}
 {% assign teams_array=teams_array | push:page.team_name %}
-<h4>{{ site.url }}{{ page.url }}
+<h4>https://ccic.actin.cn{{ page.url }}
   </h4>
 {% for a_name in page.people_attending_names %}{% assign counter=counter | plus:1 %}
 <p>

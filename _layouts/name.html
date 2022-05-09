@@ -38,7 +38,7 @@
 {% for page in sorted_posts %}
 {% if page.team_name != 'Finally' %}
 
-<h4>{{ site.url }}{{ page.url }}</h4>
+<h4>https://ccic.actin.cn{{ page.url }}</h4>
 {% for a_name in page.people_attending_names %}{% assign counter=counter | plus:1 %}
 <p>
   {{ counter }}. <a href="https://ccic.actin.cn{{ page.url }}" style="text-decoration:none">{{ page.team_school_name }}</a>
