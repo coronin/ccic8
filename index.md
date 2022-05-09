@@ -95,8 +95,8 @@ Professor Lu is an instructor of genetics, one of the well recognized national t
 
 ## CCiC8 Best Presentation Finalists and Awards
 
-|&nbsp; |<span style="background-color:yellow">awardee</span><br/>[Fudan](/Fudan) | <span style="background-color:yellow">awardee</span><br/>[Jiangnan_China](/Jiangnan_China) | <span style="background-color:yellow">awardee</span><br/>[Tsinghua](/Tsinghua) | &nbsp; |
-|<span style="background-color:white">finalist</span><br/>[CPU_CHINA](/CPU_CHINA) |<span style="background-color:white">finalist</span><br/>[Nanjing_NFLS](/Nanjing_NFLS) |<span style="background-color:white">finalist</span><br/>[ShanghaiTech_China](/ShanghaiTech_China) |<span style="background-color:white">finalist</span><br/>[XMU-China](/XMU-China) |<span style="background-color:white">finalist</span><br/>[ZJU-China](/ZJU-China) |
+|&nbsp; |<span style="background-color:yellow">awardee</span><br/>[Fudan](https://ccic.actin.cn/Fudan/) | <span style="background-color:yellow">awardee</span><br/>[Jiangnan_China](https://ccic.actin.cn/Jiangnan_China/) | <span style="background-color:yellow">awardee</span><br/>[Tsinghua](https://ccic.actin.cn/Tsinghua/) | &nbsp; |
+|<span style="background-color:white">finalist</span><br/>[CPU_CHINA](https://ccic.actin.cn/CPU_CHINA/) |<span style="background-color:white">finalist</span><br/>[Nanjing_NFLS](https://ccic.actin.cn/Nanjing_NFLS/) |<span style="background-color:white">finalist</span><br/>[ShanghaiTech_China](https://ccic.actin.cn/ShanghaiTech_China/) |<span style="background-color:white">finalist</span><br/>[XMU-China](https://ccic.actin.cn/XMU-China/) |<span style="background-color:white">finalist</span><br/>[ZJU-China](https://ccic.actin.cn/ZJU-China/) |
 
 
 ## CCiC8 Active Participation Awards
